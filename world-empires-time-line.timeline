@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <version>1.9.0 (d89b8d1eceb5 2016-01-31)</version>
+  <timetype>gregoriantime</timetype>
+  <eras>
+    <era>
+      <name>埃及</name>
+      <start>-1999-04-17 00:00:00</start>
+      <end>-759-04-17 00:00:00</end>
+      <color>197,255,192</color>
+    </era>
+    <era>
+      <name>希腊</name>
+      <start>-489-04-17 00:00:00</start>
+      <end>-322-04-17 00:00:00</end>
+      <color>191,191,191</color>
+    </era>
+    <era>
+      <name>罗马</name>
+      <start>-199-04-17 00:00:00</start>
+      <end>376-04-17 00:00:00</end>
+      <color>255,255,167</color>
+    </era>
+    <era>
+      <name>法-德</name>
+      <start>476-04-17 00:00:00</start>
+      <end>1453-04-17 00:00:00</end>
+      <color>173,216,230</color>
+    </era>
+    <era>
+      <name>英-美</name>
+      <start>1500-04-17 00:00:00</start>
+      <end>2016-04-17 00:00:00</end>
+      <color>255,192,203</color>
+    </era>
+  </eras>
+  <categories>
+  </categories>
+  <events>
+    <event>
+      <start>1066-04-17 00:00:00</start>
+      <end>1066-04-17 00:00:00</end>
+      <text>William the conqueror</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-322-04-17 00:00:00</start>
+      <end>-322-04-17 00:00:00</end>
+      <text>Alexander 死</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1812-04-17 00:00:00</start>
+      <end>1812-04-17 00:00:00</end>
+      <text>拿破仑败</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-489-04-17 00:00:00</start>
+      <end>-489-04-17 00:00:00</end>
+      <text>Marathon之战</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>2016-04-17 00:00:00</start>
+      <end>2016-04-17 00:00:00</end>
+      <text>您在此</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-430-04-17 00:00:00</start>
+      <end>-403-04-17 00:00:00</end>
+      <text>Peloponnesian war</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1337-01-01 00:00:00</start>
+      <end>1453-09-16 00:00:00</end>
+      <text>百年战争</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1431-04-17 00:00:00</start>
+      <end>1431-04-17 00:00:00</end>
+      <text>Joan of Arc 死</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1588-04-17 00:00:00</start>
+      <end>1588-04-17 00:00:00</end>
+      <text>Elizabeth 1</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1204-04-17 00:00:00</start>
+      <end>1204-04-17 00:00:00</end>
+      <text>King John loses Normandy</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>313-04-17 00:00:00</start>
+      <end>313-04-17 00:00:00</end>
+      <text>Constantine 皈依基督</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-43-04-17 00:00:00</start>
+      <end>-43-04-17 00:00:00</end>
+      <text>Julius Caesar</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>508-04-17 00:00:00</start>
+      <end>508-04-17 00:00:00</end>
+      <text>Clovis 1 统一法兰克</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-389-04-17 00:00:00</start>
+      <end>-389-04-17 00:00:00</end>
+      <text>Celtics invade Rome</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-759-04-17 00:00:00</start>
+      <end>-655-04-17 00:00:00</end>
+      <text>Nubian dynasty</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>376-04-17 00:00:00</start>
+      <end>376-04-17 00:00:00</end>
+      <text>fall of Rome</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>230,230,250</default_color>
+    </event>
+    <event>
+      <start>1914-04-17 00:00:00</start>
+      <end>1918-04-17 00:00:00</end>
+      <text>WW1</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1939-04-17 00:00:00</start>
+      <end>1945-04-17 00:00:00</end>
+      <text>WW2</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1991-04-17 00:00:00</start>
+      <end>1991-04-17 00:00:00</end>
+      <text>Cold war ends</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>771-04-17 00:00:00</start>
+      <end>771-04-17 00:00:00</end>
+      <text>Charlemagne</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1776-04-17 00:00:00</start>
+      <end>1776-04-17 00:00:00</end>
+      <text>美国独立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-1330-04-17 00:00:00</start>
+      <end>-1330-04-17 00:00:00</end>
+      <text>Nefertiti</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-1211-04-17 00:00:00</start>
+      <end>-1211-04-17 00:00:00</end>
+      <text>Ramesses the great</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-1323-04-17 00:00:00</start>
+      <end>-1323-04-17 00:00:00</end>
+      <text>Tutankhamen</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-1333-04-17 00:00:00</start>
+      <end>-1333-04-17 00:00:00</end>
+      <text>Akhenaten</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-1477-04-17 00:00:00</start>
+      <end>-1477-04-17 00:00:00</end>
+      <text>Hatshepsut</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-2649-04-17 00:00:00</start>
+      <end>-2649-04-17 00:00:00</end>
+      <text>1st pyramid in Memphis</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-398-04-17 00:00:00</start>
+      <end>-398-04-17 00:00:00</end>
+      <text>Socrates</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-799-04-17 00:00:00</start>
+      <end>-699-04-17 00:00:00</end>
+      <text>Homer?</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-508-04-17 00:00:00</start>
+      <end>-26-04-17 00:00:00</end>
+      <text>Roman republic</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>800-04-17 00:00:00</start>
+      <end>924-04-17 00:00:00</end>
+      <text>Carolingian</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>476-04-17 00:00:00</start>
+      <end>750-04-17 00:00:00</end>
+      <text>Merovingian</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1227-04-17 00:00:00</start>
+      <end>1227-04-17 00:00:00</end>
+      <text>成吉思汗死</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>-205-04-17 00:00:00</start>
+      <end>220-04-17 00:00:00</end>
+      <text>汉朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>618-04-17 00:00:00</start>
+      <end>907-04-17 00:00:00</end>
+      <text>唐朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1271-04-17 00:00:00</start>
+      <end>1368-04-17 00:00:00</end>
+      <text>元朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1368-04-17 00:00:00</start>
+      <end>1644-04-17 00:00:00</end>
+      <text>明朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+    <event>
+      <start>1644-04-17 00:00:00</start>
+      <end>1912-04-17 00:00:00</end>
+      <text>清朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>211,211,211</default_color>
+    </event>
+  </events>
+  <view>
+    <displayed_period>
+      <start>-1648-09-12 18:24:02</start>
+      <end>2271-12-24 02:01:42</end>
+    </displayed_period>
+    <hidden_categories>
+    </hidden_categories>
+  </view>
+</timeline>

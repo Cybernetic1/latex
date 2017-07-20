@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.001838"
+   height="10.687098"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/yky/latex/2017/KB-symbol2.png"
+   inkscape:export-xdpi="203.50816"
+   inkscape:export-ydpi="203.50816"
+   sodipodi:docname="KB-symbol2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="58.286572"
+     inkscape:cx="4.8914014"
+     inkscape:cy="4.7584308"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0.7"
+     fit-margin-left="0.7"
+     fit-margin-right="0.7"
+     fit-margin-bottom="0.7"
+     inkscape:window-width="1050"
+     inkscape:window-height="1656"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-254.43189,-476.25218)">
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.68746078;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2984"
+       cx="259.43909"
+       cy="478.53369"
+       rx="3.950906"
+       ry="1.2377797" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2984"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.6,0,0,0.6,252.10703,484.85085)"><flowRegion
+         id="flowRegion2986"><rect
+           id="rect2988"
+           width="27.679893"
+           height="31.965065"
+           x="-1.5828112"
+           y="-8.1242867" /></flowRegion><flowPara
+         id="flowPara2990"
+         style="font-weight:bold;font-size:7px;-inkscape-font-specification:'Arial Bold'">KB</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68746078;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 263.37706,484.3111 c 0.0313,0.86262 -1.71212,1.57193 -3.89392,1.58428 -2.1818,0.0124 -3.97583,-0.67691 -4.00709,-1.53953 -10e-4,-0.0259 -2.4e-4,-0.0519 0.002,-0.0778"
+       id="path2984-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 255.46568,484.30774 0,-5.67496"
+       id="path3015"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 263.38745,484.4583 0,-5.81393"
+       id="path3015-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

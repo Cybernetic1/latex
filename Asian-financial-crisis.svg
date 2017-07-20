@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg2"
+   height="1052.3622047"
+   width="744.09448819"
+   sodipodi:docname="Asian-financial-crisis.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="358.45192"
+     inkscape:cy="167.80115"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1050"
+     inkscape:window-height="1652"
+     inkscape:window-x="0"
+     inkscape:window-y="2"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     showborder="false"
+     inkscape:showpageshadow="false" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4555" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4558" />
+    </marker>
+    <linearGradient
+       id="linearGradient4391">
+      <stop
+         id="stop4393"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4395"
+         offset="1"
+         style="stop-color:#0000fc;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4383">
+      <stop
+         id="stop4385"
+         offset="0"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+      <stop
+         id="stop4387"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4346">
+      <stop
+         id="stop4348"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:1;" />
+      <stop
+         id="stop4350"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(5.0502525,-125.12132)"
+       gradientUnits="userSpaceOnUse"
+       y2="471.61472"
+       x2="381.5"
+       y1="387.61472"
+       x1="381.48633"
+       id="linearGradient4397"
+       xlink:href="#linearGradient4346"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(10,-123)"
+       gradientUnits="userSpaceOnUse"
+       y2="471.61472"
+       x2="381.5"
+       y1="387.61472"
+       x1="381.48633"
+       id="linearGradient4397-1"
+       xlink:href="#linearGradient4346-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4346-0">
+      <stop
+         id="stop4348-2"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:1;" />
+      <stop
+         id="stop4350-5"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-0"
+       id="linearGradient4488"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.804811,254.72656)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4555-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4555-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5847"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path5849"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-0-9"
+       id="linearGradient4488-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.804811,254.72656)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+    <linearGradient
+       id="linearGradient4346-0-9">
+      <stop
+         id="stop4348-2-9"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:1;" />
+      <stop
+         id="stop4350-5-1"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-0-9"
+       id="linearGradient5885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.80481,656.72656)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4555-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6080"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path6082"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-0-9-7"
+       id="linearGradient5885-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.80481,656.72656)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+    <linearGradient
+       id="linearGradient4346-0-9-7">
+      <stop
+         id="stop4348-2-9-2"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:1;" />
+      <stop
+         id="stop4350-5-1-2"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-0-9-7"
+       id="linearGradient6126"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.804796,1055.6175)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mendz"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mendz">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="stroke:#ff0000;stroke-width:1.0pt;fill:#ff0000;fill-rule:evenodd"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6494" />
+    </marker>
+    <linearGradient
+       gradientTransform="translate(5.0502525,-125.12132)"
+       gradientUnits="userSpaceOnUse"
+       y2="471.61472"
+       x2="381.5"
+       y1="387.61472"
+       x1="381.48633"
+       id="linearGradient4397-0"
+       xlink:href="#linearGradient4346-06"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4346-06">
+      <stop
+         id="stop4348-3"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:1;" />
+      <stop
+         id="stop4350-9"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       y2="472.32181"
+       x2="380.08578"
+       y1="381.95786"
+       x1="379.36502"
+       gradientTransform="translate(-0.86361977,-731.29852)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6883"
+       xlink:href="#linearGradient4346-06"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-06"
+       id="linearGradient6977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.86361977,-731.29852)"
+       x1="379.36502"
+       y1="381.95786"
+       x2="380.08578"
+       y2="472.32181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346"
+       id="linearGradient6980"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(5.0502525,-125.12132)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-0"
+       id="linearGradient6983"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.804811,254.72656)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-0-9"
+       id="linearGradient6986"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.80481,656.72656)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346-0-9-7"
+       id="linearGradient6989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.804796,1055.6175)"
+       x1="381.48633"
+       y1="387.61472"
+       x2="381.5"
+       y2="471.61472" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient6980);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 604.25548,281.01935 c -1.76348,21.87453 -27.3737,5.64255 -33.75724,0.31082 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57692,21.10325 -27.25449,5.04884 -33.62886,-0.0547 -2.53807,22.68283 -28.8214,1.65861 -33.51592,-0.0453 -0.13316,16.36356 -0.26631,32.72713 -0.39947,49.0907 157.33789,-0.49826 314.67578,-0.99651 472.01367,-1.49477 -0.26493,-15.7405 -0.52985,-31.48101 -0.79478,-47.22151 z"
+       id="path8130"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       ry="32.864605"
+       y="67.253624"
+       x="314.51779"
+       height="182.35916"
+       width="290.43143"
+       id="rect3511"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <image
+       width="103.2487"
+       height="113.4132"
+       xlink:href="data:image/png;base64,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 5fTiT3PYyfZoC/L7vYPw+19BJBKGpmlIJOKIRsN2D426RE+PBEXpQX9/L2RZgiznZ9V2uwhE20Rr 5PGMFJc1TUMkEkY0eohEIm7jqKhTDQ8rcLl6oSg9xZk0k8khZ98WcFltGa2Rojjh9frg9fpOAj5k wFS3wUHHyR+leLUIOz5UqkXbR2uUD3gMXu8YAAmRyHNomnYSceXf/Kfu43Y7MTTkgMMhY2Cg19YP kuolVLRmHk/+Swpe7zg0LYVI5PnJfjDPfe52Llc+UI/HWfxVyHbbN62V0NEa5WfhcZx+JJ9CInF0 8ifGmbiDORwyXC4FLpcDitJj+ulWcWfUUjomWjNFcUJR+uDxfOPkHhnxeAzpdAqRyB+QTqeQSPAL /CJyu/uhKD1wuRR4PP0A9JM/BZ0XqlHHRmtFVYcAAB7P6YXY8yFriEQOkE4fM+Q243YPnATqhMul QFEKP1ljDrV7dFW0VlR1GIBkCFlGPB49mZFPz5FOJPL3UeO53ae/jZwPtA8ulxOK0ouzs2Znz6CV 6vporaiqGwDg8fhMayREInsAgEjk9LzpfNDHrRqekFyuvuK1sxWl9yTMPoswu3P2rAajrZLHc+Xk n2OmNVJxKRLZg6YlkUhEkUhEuiZot7uw+zEEh6MXqtpnWGsOk3HWitE2wfkZ2lo+7EjxdiIRgaYZ Az/9Hzu/v/2iUUM8w+02X8v69H1drgEoyulVSDyeIcPjzJurummZYTYDo7WRovRBUU4D93i8pkeU m51yFreNjzXvC1bz3EofS3Zo6DWiiKj5GC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAY LZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgt kWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2R YBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFg GC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAY LZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgt kWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RIEZGpgAA8u9+N2Tz UIioEsPDlwEAcjrtsnkoRFSJ119/EwAgO52v2DwUIrpINtuPsbFxCQDkQOB9ye4BEVF5PT2+4rIM ACsrA7YNhogu9vbbf15clgFAVd+xbTBEVF42exnf/vad4haxDAAzM29J6+s8+kPUjmZnf3zmdrHU kZEPWz4YIirPPMsChmh9vnFpcdHT+lERUUn37//jufvObBPPzf2ttL7OD5OJ2sHU1IfFwzxG53Zk R0Z+hN1dvTWjIqISpnD37p9azqDnovX5xqXNzZnmj4mILGWzl/Gzn/1ryU1ey4+MA4F70vLya80b FRFZymb7LfdjjUoe58mHe6PhgyIia/lg/9lyP9ao7MHZfLjTjR0ZEZ1TabBABd+nZbhEzZXJVB4s UOGX4AOBu9Ly8nXs7mbrGx0RnZHLTeHjjz+VKg0WqOLKFYHAXQn4PhYX+2sbHREVpdP9GB//EX76 03+p+sSI3moe7PONSz7fX2N5+b/1QGCj2vciIgDJ5Ajef/8fKt4cNqsq2oJA4K60u7sDYF73+Ry1 vARRV9K0m/jJT/6urtMOa/5qj883Bp/vY2lxUann/Ym6QjLpxPDwD/Dhh/UFC9Q40xrNzX0k7e7u 4PHjX+tzc5l6X46oo7x86YQsv4Uf/vCjhp3UX3e0QGHW/UhaX3+oj4x8CW4yEwGHh+N4552/qXnf tZSGRFswM/OmBLyJxcX/1Kenw/D5uOlM3efw8FV885sBzM19pylfmZN0vXnf6Flc/KU+N3cEoDB2 479DtffVuyyXeUypx5l3+Us9rtz7lmP+u8+Vua2bHp+zuG18bO6Cx5Z7bqWPNY9XNy1X8x5Wr1Hu /YyvUe71TpfT6dPzDDTNeH9+OZfTkcnkXyeTySGXO/s84/rC8/P35ZdDIRcmJ3+AW7eaE2tBU6MF gPz+7m/06emUaeZltIy21DqUWNee0W5vuzA4GMC7737Qki+jNz1ao8XFX+ojI4eYmekDowUYbal1 KLGuvaLd3JzC1at/3PSZ1ayl0Rasrz/UDw//D3NzOhitEaNt92g3NweQzX4L7733V7Zd4sWWaI3y s2+kgtm33mVGW/lzGa052kePJuH3/xFu3nzL9usx2R5tQWH2nZ5Ow+dzGtYw2tPHMlrr12hOtE+f 9uH4+Dru3ftL20M1aptojZaXf61LUhCzs8bZF3UuM9rKn9u90e7tyQiFfHjjjT9r+PHVRmnLaI0W Fz872XweAKNltNavUV+0oZCE3//+Cq5cuYOZGfs3fy/S9tEW7O7uYHPzkS5JQaiqjpkZ4090MlpG W120y8sqslkfnE4PvvtdsX6ETphozfLHf/9XHxl5UWHAjLby53ZmtL/97QBk+TWI/kuRwkZrtrz8 P7qmHeFsxIy29GM7P9qVlQHo+qsYHLwsxGZvpTomWqP8LPyl7nTGcPVqD3y+PjDazo92fb0H8bgC Xb+BQOC9jonUrCOjNSvsD2vaH+B0pjE7O2hYy2hFjHZ3N4etrT7o+nTHzaQX6YporZwNOYPZ2aGT NYy23aLd3dWxteVEKvUNKIobgcC9rgnUStdGayUf8tfFvxBJ2oOqSpiZGS7cY3g0o210tCsrvUil +qEo48U13R6oFUZbofX1Vf3oKFy8LUn7J0EXfh6U0VYS7cqKjFSqD4oyVlzDMKvDaBsgH3SkeFuS 9ovLV6/2w+cbKPHMzop2ZeX0tjnMycnX4PO15xlGomG0Lba8/EXxL1zTjuB0vjSsPfvfYnZ22LSu +dHu7mrY2jLPmIZb+tXi8uTk65LPNwZqLUZLJJj/B4EWlbiBn7lPAAAAAElFTkSuQmCC "
+       id="image4343"
+       x="350.33484"
+       y="121.71261"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr"
+       id="flowRoot4399"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4401"><rect
+           y="84.362183"
+           x="388"
+           height="42"
+           width="232"
+           id="rect4403" /></flowRegion><flowPara
+         id="flowPara4405" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4407"
+       y="49.998222"
+       x="459.34314"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="49.998222"
+         x="459.34314"
+         id="tspan4409"
+         sodipodi:role="line">市面流通资金</tspan></text>
+    <rect
+       ry="32.864605"
+       y="66.818642"
+       x="128.12744"
+       height="185.35915"
+       width="149.4314"
+       id="rect3511-0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4429"
+       y="50.998222"
+       x="201.34314"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="50.998222"
+         x="201.34314"
+         id="tspan4431"
+         sodipodi:role="line">政府外滙储备</tspan></text>
+    <flowRoot
+       transform="translate(124.34315,-113.36396)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435"><rect
+           y="246.36218"
+           x="375"
+           height="49"
+           width="53"
+           id="rect4437" /></flowRegion><flowPara
+         id="flowPara4439">泰铢X</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4441"
+       y="160.99821"
+       x="199.34314"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="160.99821"
+         x="199.34314"
+         id="tspan4443"
+         sodipodi:role="line">美元</tspan><tspan
+         id="tspan4453"
+         y="185.75436"
+         x="199.34314"
+         sodipodi:role="line">$Y</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4445"
+       y="104.99822"
+       x="405.34314"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="104.99822"
+         x="405.34314"
+         id="tspan4447"
+         sodipodi:role="line">商业银行</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4449"
+       y="330.99823"
+       x="296.34314"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="330.99823"
+         x="296.34314"
+         id="tspan4451"
+         sodipodi:role="line">国际炒家</tspan></text>
+    <path
+       style="fill:url(#linearGradient6983);fill-opacity:1;stroke:none"
+       d="m 608.01003,660.86723 c -1.76348,21.87453 -27.3737,5.64255 -33.75724,0.31082 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57666,21.10536 -27.25689,5.045 -33.62886,-0.0532 -2.57665,21.10536 -27.25688,5.045 -33.62885,-0.0532 -2.57692,21.10325 -27.25449,5.04884 -33.62886,-0.0547 -2.53807,22.68283 -28.8214,1.65861 -33.51592,-0.0453 -0.13316,16.36356 -0.26631,32.72713 -0.39947,49.0907 157.33789,-0.49826 314.67578,-0.99651 472.01367,-1.49477 -0.26493,-15.7405 -0.52985,-31.48101 -0.79478,-47.22151 z"
+       id="path8130-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       ry="32.864605"
+       y="451.34415"
+       x="318.97946"
+       height="182.35916"
+       width="290.43143"
+       id="rect3511-9"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <image
+       width="103.2487"
+       height="113.4132"
+       xlink:href="data:image/png;base64,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 5fTiT3PYyfZoC/L7vYPw+19BJBKGpmlIJOKIRsN2D426RE+PBEXpQX9/L2RZgiznZ9V2uwhE20Rr 5PGMFJc1TUMkEkY0eohEIm7jqKhTDQ8rcLl6oSg9xZk0k8khZ98WcFltGa2Rojjh9frg9fpOAj5k wFS3wUHHyR+leLUIOz5UqkXbR2uUD3gMXu8YAAmRyHNomnYSceXf/Kfu43Y7MTTkgMMhY2Cg19YP kuolVLRmHk/+Swpe7zg0LYVI5PnJfjDPfe52Llc+UI/HWfxVyHbbN62V0NEa5WfhcZx+JJ9CInF0 8ifGmbiDORwyXC4FLpcDitJj+ulWcWfUUjomWjNFcUJR+uDxfOPkHhnxeAzpdAqRyB+QTqeQSPAL /CJyu/uhKD1wuRR4PP0A9JM/BZ0XqlHHRmtFVYcAAB7P6YXY8yFriEQOkE4fM+Q243YPnATqhMul QFEKP1ljDrV7dFW0VlR1GIBkCFlGPB49mZFPz5FOJPL3UeO53ae/jZwPtA8ulxOK0ouzs2Znz6CV 6vporaiqGwDg8fhMayREInsAgEjk9LzpfNDHrRqekFyuvuK1sxWl9yTMPoswu3P2rAajrZLHc+Xk n2OmNVJxKRLZg6YlkUhEkUhEuiZot7uw+zEEh6MXqtpnWGsOk3HWitE2wfkZ2lo+7EjxdiIRgaYZ Az/9Hzu/v/2iUUM8w+02X8v69H1drgEoyulVSDyeIcPjzJurummZYTYDo7WRovRBUU4D93i8pkeU m51yFreNjzXvC1bz3EofS3Zo6DWiiKj5GC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAY LZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgt kWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2R YBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFg GC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAY LZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgt kWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RIEZGpgAA8u9+N2Tz UIioEsPDlwEAcjrtsnkoRFSJ119/EwAgO52v2DwUIrpINtuPsbFxCQDkQOB9ye4BEVF5PT2+4rIM ACsrA7YNhogu9vbbf15clgFAVd+xbTBEVF42exnf/vad4haxDAAzM29J6+s8+kPUjmZnf3zmdrHU kZEPWz4YIirPPMsChmh9vnFpcdHT+lERUUn37//jufvObBPPzf2ttL7OD5OJ2sHU1IfFwzxG53Zk R0Z+hN1dvTWjIqISpnD37p9azqDnovX5xqXNzZnmj4mILGWzl/Gzn/1ryU1ey4+MA4F70vLya80b FRFZymb7LfdjjUoe58mHe6PhgyIia/lg/9lyP9ao7MHZfLjTjR0ZEZ1TabBABd+nZbhEzZXJVB4s UOGX4AOBu9Ly8nXs7mbrGx0RnZHLTeHjjz+VKg0WqOLKFYHAXQn4PhYX+2sbHREVpdP9GB//EX76 03+p+sSI3moe7PONSz7fX2N5+b/1QGCj2vciIgDJ5Ajef/8fKt4cNqsq2oJA4K60u7sDYF73+Ry1 vARRV9K0m/jJT/6urtMOa/5qj883Bp/vY2lxUann/Ym6QjLpxPDwD/Dhh/UFC9Q40xrNzX0k7e7u 4PHjX+tzc5l6X46oo7x86YQsv4Uf/vCjhp3UX3e0QGHW/UhaX3+oj4x8CW4yEwGHh+N4552/qXnf tZSGRFswM/OmBLyJxcX/1Kenw/D5uOlM3efw8FV885sBzM19pylfmZN0vXnf6Flc/KU+N3cEoDB2 479DtffVuyyXeUypx5l3+Us9rtz7lmP+u8+Vua2bHp+zuG18bO6Cx5Z7bqWPNY9XNy1X8x5Wr1Hu /YyvUe71TpfT6dPzDDTNeH9+OZfTkcnkXyeTySGXO/s84/rC8/P35ZdDIRcmJ3+AW7eaE2tBU6MF gPz+7m/06emUaeZltIy21DqUWNee0W5vuzA4GMC7737Qki+jNz1ao8XFX+ojI4eYmekDowUYbal1 KLGuvaLd3JzC1at/3PSZ1ayl0Rasrz/UDw//D3NzOhitEaNt92g3NweQzX4L7733V7Zd4sWWaI3y s2+kgtm33mVGW/lzGa052kePJuH3/xFu3nzL9usx2R5tQWH2nZ5Ow+dzGtYw2tPHMlrr12hOtE+f 9uH4+Dru3ftL20M1aptojZaXf61LUhCzs8bZF3UuM9rKn9u90e7tyQiFfHjjjT9r+PHVRmnLaI0W Fz872XweAKNltNavUV+0oZCE3//+Cq5cuYOZGfs3fy/S9tEW7O7uYHPzkS5JQaiqjpkZ4090MlpG W120y8sqslkfnE4PvvtdsX6ETphozfLHf/9XHxl5UWHAjLby53ZmtL/97QBk+TWI/kuRwkZrtrz8 P7qmHeFsxIy29GM7P9qVlQHo+qsYHLwsxGZvpTomWqP8LPyl7nTGcPVqD3y+PjDazo92fb0H8bgC Xb+BQOC9jonUrCOjNSvsD2vaH+B0pjE7O2hYy2hFjHZ3N4etrT7o+nTHzaQX6YporZwNOYPZ2aGT NYy23aLd3dWxteVEKvUNKIobgcC9rgnUStdGayUf8tfFvxBJ2oOqSpiZGS7cY3g0o210tCsrvUil +qEo48U13R6oFUZbofX1Vf3oKFy8LUn7J0EXfh6U0VYS7cqKjFSqD4oyVlzDMKvDaBsgH3SkeFuS 9ovLV6/2w+cbKPHMzop2ZeX0tjnMycnX4PO15xlGomG0Lba8/EXxL1zTjuB0vjSsPfvfYnZ22LSu +dHu7mrY2jLPmIZb+tXi8uTk65LPNwZqLUZLJJj/B4EWlbiBn7lPAAAAAElFTkSuQmCC "
+       id="image4343-7"
+       x="343.79651"
+       y="506.80313"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4407-1"
+       y="434.08875"
+       x="463.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="434.08875"
+         x="463.80481"
+         id="tspan4409-3"
+         sodipodi:role="line">市面流通资金</tspan></text>
+    <rect
+       ry="32.864605"
+       y="450.90918"
+       x="132.58911"
+       height="185.35915"
+       width="149.4314"
+       id="rect3511-0-1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4429-2"
+       y="435.08875"
+       x="205.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="435.08875"
+         x="205.80481"
+         id="tspan4431-0"
+         sodipodi:role="line">政府外滙储备</tspan></text>
+    <flowRoot
+       transform="translate(109.80481,275.72656)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8"><rect
+           y="246.36218"
+           x="375"
+           height="54"
+           width="92"
+           id="rect4437-7" /></flowRegion><flowPara
+         id="flowPara4439-4">泰铢</flowPara><flowPara
+         id="flowPara5970">X - ΔX</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4441-9"
+       y="545.08875"
+       x="203.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="545.08875"
+         x="203.80481"
+         id="tspan4443-2"
+         sodipodi:role="line">美元</tspan><tspan
+         id="tspan4453-4"
+         y="569.84491"
+         x="203.80481"
+         sodipodi:role="line">Y</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4445-4"
+       y="487.08875"
+       x="392.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="487.08875"
+         x="392.80481"
+         id="tspan4447-5"
+         sodipodi:role="line">商业银行</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4449-9"
+       y="716.08875"
+       x="287.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="716.08875"
+         x="287.80481"
+         id="tspan4451-1"
+         sodipodi:role="line">国际炒家</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4543"
+       d="m 538,710.36218 c 52.79651,-79.14585 -2,-132 -2,-132"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:none"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <flowRoot
+       transform="translate(111.46094,428.41405)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-2"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-8"><rect
+           y="246.36218"
+           x="375"
+           height="49"
+           width="53"
+           id="rect4437-7-9" /></flowRegion><flowPara
+         id="flowPara4439-4-6">泰铢ΔX</flowPara></flowRoot>    <flowRoot
+       transform="translate(-9.53906,312.41405)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-2-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-8-6"><rect
+           y="246.36218"
+           x="375"
+           height="49"
+           width="53"
+           id="rect4437-7-9-3" /></flowRegion><flowPara
+         id="flowPara4439-4-6-9">美元</flowPara><flowPara
+         id="flowPara5809">ΔX</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4543-2"
+       d="m 398.4788,613.94407 c 33.20349,104.14585 92,97 92,97"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:none"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:url(#linearGradient6986);fill-opacity:1;stroke:none"
+       d="m 608.01003,1062.8672 c -1.76346,21.8746 -27.37371,5.6426 -33.75724,0.3108 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57685,21.1033 -27.25446,5.0491 -33.62886,-0.054 -2.53805,22.6829 -28.8214,1.6587 -33.51592,-0.045 -0.13316,16.3636 -0.26631,32.7271 -0.39947,49.0907 157.33789,-0.4983 314.67578,-0.9965 472.01367,-1.4948 -0.26493,-15.7413 -0.52985,-31.4826 -0.79478,-47.2239 z"
+       id="path8130-1-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       ry="32.864605"
+       y="853.34412"
+       x="318.97949"
+       height="182.35916"
+       width="290.43143"
+       id="rect3511-9-4"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <image
+       width="103.2487"
+       height="113.4132"
+       xlink:href="data:image/png;base64,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 5fTiT3PYyfZoC/L7vYPw+19BJBKGpmlIJOKIRsN2D426RE+PBEXpQX9/L2RZgiznZ9V2uwhE20Rr 5PGMFJc1TUMkEkY0eohEIm7jqKhTDQ8rcLl6oSg9xZk0k8khZ98WcFltGa2Rojjh9frg9fpOAj5k wFS3wUHHyR+leLUIOz5UqkXbR2uUD3gMXu8YAAmRyHNomnYSceXf/Kfu43Y7MTTkgMMhY2Cg19YP kuolVLRmHk/+Swpe7zg0LYVI5PnJfjDPfe52Llc+UI/HWfxVyHbbN62V0NEa5WfhcZx+JJ9CInF0 8ifGmbiDORwyXC4FLpcDitJj+ulWcWfUUjomWjNFcUJR+uDxfOPkHhnxeAzpdAqRyB+QTqeQSPAL /CJyu/uhKD1wuRR4PP0A9JM/BZ0XqlHHRmtFVYcAAB7P6YXY8yFriEQOkE4fM+Q243YPnATqhMul QFEKP1ljDrV7dFW0VlR1GIBkCFlGPB49mZFPz5FOJPL3UeO53ae/jZwPtA8ulxOK0ouzs2Znz6CV 6vporaiqGwDg8fhMayREInsAgEjk9LzpfNDHrRqekFyuvuK1sxWl9yTMPoswu3P2rAajrZLHc+Xk n2OmNVJxKRLZg6YlkUhEkUhEuiZot7uw+zEEh6MXqtpnWGsOk3HWitE2wfkZ2lo+7EjxdiIRgaYZ Az/9Hzu/v/2iUUM8w+02X8v69H1drgEoyulVSDyeIcPjzJurummZYTYDo7WRovRBUU4D93i8pkeU m51yFreNjzXvC1bz3EofS3Zo6DWiiKj5GC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAY LZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgt kWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2R YBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFg GC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAY LZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgt kWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RIEZGpgAA8u9+N2Tz UIioEsPDlwEAcjrtsnkoRFSJ119/EwAgO52v2DwUIrpINtuPsbFxCQDkQOB9ye4BEVF5PT2+4rIM ACsrA7YNhogu9vbbf15clgFAVd+xbTBEVF42exnf/vad4haxDAAzM29J6+s8+kPUjmZnf3zmdrHU kZEPWz4YIirPPMsChmh9vnFpcdHT+lERUUn37//jufvObBPPzf2ttL7OD5OJ2sHU1IfFwzxG53Zk R0Z+hN1dvTWjIqISpnD37p9azqDnovX5xqXNzZnmj4mILGWzl/Gzn/1ryU1ey4+MA4F70vLya80b FRFZymb7LfdjjUoe58mHe6PhgyIia/lg/9lyP9ao7MHZfLjTjR0ZEZ1TabBABd+nZbhEzZXJVB4s UOGX4AOBu9Ly8nXs7mbrGx0RnZHLTeHjjz+VKg0WqOLKFYHAXQn4PhYX+2sbHREVpdP9GB//EX76 03+p+sSI3moe7PONSz7fX2N5+b/1QGCj2vciIgDJ5Ajef/8fKt4cNqsq2oJA4K60u7sDYF73+Ry1 vARRV9K0m/jJT/6urtMOa/5qj883Bp/vY2lxUann/Ym6QjLpxPDwD/Dhh/UFC9Q40xrNzX0k7e7u 4PHjX+tzc5l6X46oo7x86YQsv4Uf/vCjhp3UX3e0QGHW/UhaX3+oj4x8CW4yEwGHh+N4552/qXnf tZSGRFswM/OmBLyJxcX/1Kenw/D5uOlM3efw8FV885sBzM19pylfmZN0vXnf6Flc/KU+N3cEoDB2 479DtffVuyyXeUypx5l3+Us9rtz7lmP+u8+Vua2bHp+zuG18bO6Cx5Z7bqWPNY9XNy1X8x5Wr1Hu /YyvUe71TpfT6dPzDDTNeH9+OZfTkcnkXyeTySGXO/s84/rC8/P35ZdDIRcmJ3+AW7eaE2tBU6MF gPz+7m/06emUaeZltIy21DqUWNee0W5vuzA4GMC7737Qki+jNz1ao8XFX+ojI4eYmekDowUYbal1 KLGuvaLd3JzC1at/3PSZ1ayl0Rasrz/UDw//D3NzOhitEaNt92g3NweQzX4L7733V7Zd4sWWaI3y s2+kgtm33mVGW/lzGa052kePJuH3/xFu3nzL9usx2R5tQWH2nZ5Ow+dzGtYw2tPHMlrr12hOtE+f 9uH4+Dru3ftL20M1aptojZaXf61LUhCzs8bZF3UuM9rKn9u90e7tyQiFfHjjjT9r+PHVRmnLaI0W Fz872XweAKNltNavUV+0oZCE3//+Cq5cuYOZGfs3fy/S9tEW7O7uYHPzkS5JQaiqjpkZ4090MlpG W120y8sqslkfnE4PvvtdsX6ETphozfLHf/9XHxl5UWHAjLby53ZmtL/97QBk+TWI/kuRwkZrtrz8 P7qmHeFsxIy29GM7P9qVlQHo+qsYHLwsxGZvpTomWqP8LPyl7nTGcPVqD3y+PjDazo92fb0H8bgC Xb+BQOC9jonUrCOjNSvsD2vaH+B0pjE7O2hYy2hFjHZ3N4etrT7o+nTHzaQX6YporZwNOYPZ2aGT NYy23aLd3dWxteVEKvUNKIobgcC9rgnUStdGayUf8tfFvxBJ2oOqSpiZGS7cY3g0o210tCsrvUil +qEo48U13R6oFUZbofX1Vf3oKFy8LUn7J0EXfh6U0VYS7cqKjFSqD4oyVlzDMKvDaBsgH3SkeFuS 9ovLV6/2w+cbKPHMzop2ZeX0tjnMycnX4PO15xlGomG0Lba8/EXxL1zTjuB0vjSsPfvfYnZ22LSu +dHu7mrY2jLPmIZb+tXi8uTk65LPNwZqLUZLJJj/B4EWlbiBn7lPAAAAAElFTkSuQmCC "
+       id="image4343-7-5"
+       x="343.79651"
+       y="908.8031"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4407-1-8"
+       y="836.08875"
+       x="463.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="836.08875"
+         x="463.80481"
+         id="tspan4409-3-5"
+         sodipodi:role="line">市面流通资金</tspan></text>
+    <rect
+       ry="32.864605"
+       y="852.90918"
+       x="132.58911"
+       height="185.35915"
+       width="149.4314"
+       id="rect3511-0-1-7"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4429-2-3"
+       y="837.08875"
+       x="205.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="837.08875"
+         x="205.80481"
+         id="tspan4431-0-3"
+         sodipodi:role="line">政府外滙储备</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4441-9-3"
+       y="896.08875"
+       x="206.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="896.08875"
+         x="206.80481"
+         id="tspan4443-2-8"
+         sodipodi:role="line">美元</tspan><tspan
+         id="tspan4453-4-6"
+         y="920.84491"
+         x="206.80481"
+         sodipodi:role="line">Y - ΔX</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4445-4-0"
+       y="889.08875"
+       x="392.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="889.08875"
+         x="392.80481"
+         id="tspan4447-5-3"
+         sodipodi:role="line">商业银行</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4449-9-3"
+       y="1119.0887"
+       x="534.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="1119.0887"
+         x="534.80481"
+         id="tspan4451-1-6"
+         sodipodi:role="line">国际炒家</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4543-1"
+       d="m 171.95759,981.526 c -52.79651,79.1459 2,132 2,132"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:none"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <flowRoot
+       transform="translate(-203.53906,833.41405)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-2-8"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-8-7"><rect
+           y="246.36218"
+           x="375"
+           height="49"
+           width="53"
+           id="rect4437-7-9-0" /></flowRegion><flowPara
+         id="flowPara4439-4-6-5">泰铢ΔX</flowPara></flowRoot>    <flowRoot
+       transform="translate(-9.53906,714.41405)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-2-6-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-8-6-1"><rect
+           y="246.36218"
+           x="375"
+           height="49"
+           width="53"
+           id="rect4437-7-9-3-0" /></flowRegion><flowPara
+         id="flowPara4439-4-6-9-3">美元</flowPara><flowPara
+         id="flowPara5809-0">ΔX</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4543-2-0"
+       d="m 321.37129,1096.6426 c -80.20349,-46.2804 -92,-97 -92,-97"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:none"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <flowRoot
+       transform="translate(102.0293,671.76967)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-4"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-5"><rect
+           y="246.36218"
+           x="375"
+           height="54"
+           width="92"
+           id="rect4437-7-4" /></flowRegion><flowPara
+         id="flowPara4439-4-2">泰铢</flowPara><flowPara
+         id="flowPara5970-4">X - ΔX</flowPara></flowRoot>    <flowRoot
+       transform="translate(-198.53906,703.41405)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-2-8-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-8-7-6"><rect
+           y="246.36218"
+           x="375"
+           height="49"
+           width="53"
+           id="rect4437-7-9-0-3" /></flowRegion><flowPara
+         id="flowPara4439-4-6-5-9">泰铢ΔX</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4441-9-33"
+       y="1099.1091"
+       x="359.96094"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="1099.1091"
+         x="359.96094"
+         id="tspan4443-2-4"
+         sodipodi:role="line">美元</tspan><tspan
+         id="tspan4453-4-61"
+         y="1123.8652"
+         x="359.96094"
+         sodipodi:role="line">ΔX</tspan></text>
+    <path
+       style="fill:url(#linearGradient6989);fill-opacity:1;stroke:none"
+       d="m 608.01002,1461.7582 c -1.76346,21.8746 -27.37371,5.6426 -33.75724,0.3108 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57659,21.1054 -27.25686,5.0452 -33.62886,-0.053 -2.57658,21.1054 -27.25686,5.0453 -33.62885,-0.053 -2.57685,21.1033 -27.25446,5.0491 -33.62886,-0.055 -2.53805,22.6829 -28.82141,1.6587 -33.51593,-0.045 -0.13316,16.3636 -0.26631,32.7271 -0.39947,49.0907 157.33789,-0.4983 314.67579,-0.9965 472.01368,-1.4948 -0.26493,-15.7413 -0.52985,-31.4826 -0.79478,-47.2239 z"
+       id="path8130-1-3-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       ry="32.864605"
+       y="1252.2351"
+       x="318.97949"
+       height="182.35916"
+       width="290.43143"
+       id="rect3511-9-4-2"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <image
+       width="103.2487"
+       height="113.4132"
+       xlink:href="data:image/png;base64,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 5fTiT3PYyfZoC/L7vYPw+19BJBKGpmlIJOKIRsN2D426RE+PBEXpQX9/L2RZgiznZ9V2uwhE20Rr 5PGMFJc1TUMkEkY0eohEIm7jqKhTDQ8rcLl6oSg9xZk0k8khZ98WcFltGa2Rojjh9frg9fpOAj5k wFS3wUHHyR+leLUIOz5UqkXbR2uUD3gMXu8YAAmRyHNomnYSceXf/Kfu43Y7MTTkgMMhY2Cg19YP kuolVLRmHk/+Swpe7zg0LYVI5PnJfjDPfe52Llc+UI/HWfxVyHbbN62V0NEa5WfhcZx+JJ9CInF0 8ifGmbiDORwyXC4FLpcDitJj+ulWcWfUUjomWjNFcUJR+uDxfOPkHhnxeAzpdAqRyB+QTqeQSPAL /CJyu/uhKD1wuRR4PP0A9JM/BZ0XqlHHRmtFVYcAAB7P6YXY8yFriEQOkE4fM+Q243YPnATqhMul QFEKP1ljDrV7dFW0VlR1GIBkCFlGPB49mZFPz5FOJPL3UeO53ae/jZwPtA8ulxOK0ouzs2Znz6CV 6vporaiqGwDg8fhMayREInsAgEjk9LzpfNDHrRqekFyuvuK1sxWl9yTMPoswu3P2rAajrZLHc+Xk n2OmNVJxKRLZg6YlkUhEkUhEuiZot7uw+zEEh6MXqtpnWGsOk3HWitE2wfkZ2lo+7EjxdiIRgaYZ Az/9Hzu/v/2iUUM8w+02X8v69H1drgEoyulVSDyeIcPjzJurummZYTYDo7WRovRBUU4D93i8pkeU m51yFreNjzXvC1bz3EofS3Zo6DWiiKj5GC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAY LZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgt kWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2R YBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFg GC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAY LZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgt kWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RYBgtkWAYLZFgGC2RIEZGpgAA8u9+N2Tz UIioEsPDlwEAcjrtsnkoRFSJ119/EwAgO52v2DwUIrpINtuPsbFxCQDkQOB9ye4BEVF5PT2+4rIM ACsrA7YNhogu9vbbf15clgFAVd+xbTBEVF42exnf/vad4haxDAAzM29J6+s8+kPUjmZnf3zmdrHU kZEPWz4YIirPPMsChmh9vnFpcdHT+lERUUn37//jufvObBPPzf2ttL7OD5OJ2sHU1IfFwzxG53Zk R0Z+hN1dvTWjIqISpnD37p9azqDnovX5xqXNzZnmj4mILGWzl/Gzn/1ryU1ey4+MA4F70vLya80b FRFZymb7LfdjjUoe58mHe6PhgyIia/lg/9lyP9ao7MHZfLjTjR0ZEZ1TabBABd+nZbhEzZXJVB4s UOGX4AOBu9Ly8nXs7mbrGx0RnZHLTeHjjz+VKg0WqOLKFYHAXQn4PhYX+2sbHREVpdP9GB//EX76 03+p+sSI3moe7PONSz7fX2N5+b/1QGCj2vciIgDJ5Ajef/8fKt4cNqsq2oJA4K60u7sDYF73+Ry1 vARRV9K0m/jJT/6urtMOa/5qj883Bp/vY2lxUann/Ym6QjLpxPDwD/Dhh/UFC9Q40xrNzX0k7e7u 4PHjX+tzc5l6X46oo7x86YQsv4Uf/vCjhp3UX3e0QGHW/UhaX3+oj4x8CW4yEwGHh+N4552/qXnf tZSGRFswM/OmBLyJxcX/1Kenw/D5uOlM3efw8FV885sBzM19pylfmZN0vXnf6Flc/KU+N3cEoDB2 479DtffVuyyXeUypx5l3+Us9rtz7lmP+u8+Vua2bHp+zuG18bO6Cx5Z7bqWPNY9XNy1X8x5Wr1Hu /YyvUe71TpfT6dPzDDTNeH9+OZfTkcnkXyeTySGXO/s84/rC8/P35ZdDIRcmJ3+AW7eaE2tBU6MF gPz+7m/06emUaeZltIy21DqUWNee0W5vuzA4GMC7737Qki+jNz1ao8XFX+ojI4eYmekDowUYbal1 KLGuvaLd3JzC1at/3PSZ1ayl0Rasrz/UDw//D3NzOhitEaNt92g3NweQzX4L7733V7Zd4sWWaI3y s2+kgtm33mVGW/lzGa052kePJuH3/xFu3nzL9usx2R5tQWH2nZ5Ow+dzGtYw2tPHMlrr12hOtE+f 9uH4+Dru3ftL20M1aptojZaXf61LUhCzs8bZF3UuM9rKn9u90e7tyQiFfHjjjT9r+PHVRmnLaI0W Fz872XweAKNltNavUV+0oZCE3//+Cq5cuYOZGfs3fy/S9tEW7O7uYHPzkS5JQaiqjpkZ4090MlpG W120y8sqslkfnE4PvvtdsX6ETphozfLHf/9XHxl5UWHAjLby53ZmtL/97QBk+TWI/kuRwkZrtrz8 P7qmHeFsxIy29GM7P9qVlQHo+qsYHLwsxGZvpTomWqP8LPyl7nTGcPVqD3y+PjDazo92fb0H8bgC Xb+BQOC9jonUrCOjNSvsD2vaH+B0pjE7O2hYy2hFjHZ3N4etrT7o+nTHzaQX6YporZwNOYPZ2aGT NYy23aLd3dWxteVEKvUNKIobgcC9rgnUStdGayUf8tfFvxBJ2oOqSpiZGS7cY3g0o210tCsrvUil +qEo48U13R6oFUZbofX1Vf3oKFy8LUn7J0EXfh6U0VYS7cqKjFSqD4oyVlzDMKvDaBsgH3SkeFuS 9ovLV6/2w+cbKPHMzop2ZeX0tjnMycnX4PO15xlGomG0Lba8/EXxL1zTjuB0vjSsPfvfYnZ22LSu +dHu7mrY2jLPmIZb+tXi8uTk65LPNwZqLUZLJJj/B4EWlbiBn7lPAAAAAElFTkSuQmCC "
+       id="image4343-7-5-8"
+       x="343.79651"
+       y="1307.6941"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4407-1-8-1"
+       y="1234.9797"
+       x="463.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="1234.9797"
+         x="463.80481"
+         id="tspan4409-3-5-2"
+         sodipodi:role="line">市面流通资金</tspan></text>
+    <rect
+       ry="32.864605"
+       y="1251.8002"
+       x="132.58911"
+       height="185.35915"
+       width="149.4314"
+       id="rect3511-0-1-7-4"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4429-2-3-7"
+       y="1235.9797"
+       x="205.80479"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="1235.9797"
+         x="205.80479"
+         id="tspan4431-0-3-8"
+         sodipodi:role="line">政府外滙储备</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4441-9-3-6"
+       y="1294.9797"
+       x="206.80479"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="1294.9797"
+         x="206.80479"
+         id="tspan4443-2-8-3"
+         sodipodi:role="line">美元</tspan><tspan
+         id="tspan4453-4-6-7"
+         y="1319.7358"
+         x="206.80479"
+         sodipodi:role="line">Y - ΔX</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4445-4-0-7"
+       y="1287.9797"
+       x="392.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="1287.9797"
+         x="392.80481"
+         id="tspan4447-5-3-2"
+         sodipodi:role="line">商业银行</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4449-9-3-3"
+       y="1517.9797"
+       x="534.80481"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="1517.9797"
+         x="534.80481"
+         id="tspan4451-1-6-7"
+         sodipodi:role="line">国际炒家</tspan></text>
+    <flowRoot
+       transform="translate(-9.539074,1113.305)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-2-6-1-8"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-8-6-1-1"><rect
+           y="246.36218"
+           x="375"
+           height="49"
+           width="53"
+           id="rect4437-7-9-3-0-3" /></flowRegion><flowPara
+         id="flowPara4439-4-6-9-3-6">美元</flowPara><flowPara
+         id="flowPara5809-0-4">ΔX</flowPara></flowRoot>    <flowRoot
+       transform="translate(102.02929,1070.6606)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-4-3"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-5-5"><rect
+           y="246.36218"
+           x="375"
+           height="54"
+           width="92"
+           id="rect4437-7-4-8" /></flowRegion><flowPara
+         id="flowPara4439-4-2-5">泰铢</flowPara><flowPara
+         id="flowPara5970-4-0">X - ΔX</flowPara></flowRoot>    <flowRoot
+       transform="translate(-190.53907,1111.305)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4433-6-2-8-1-9"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4435-8-8-7-6-9"><rect
+           y="246.36218"
+           x="375"
+           height="49"
+           width="53"
+           id="rect4437-7-9-0-3-8" /></flowRegion><flowPara
+         id="flowPara4439-4-6-5-9-0">泰铢ΔX</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4441-9-33-2"
+       y="1498.0001"
+       x="359.96094"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="1498.0001"
+         x="359.96094"
+         id="tspan4443-2-4-4"
+         sodipodi:role="line">美元</tspan><tspan
+         id="tspan4453-4-61-9"
+         y="1522.7562"
+         x="359.96094"
+         sodipodi:role="line">ΔX</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4441-9-33-2-0"
+       y="322.74515"
+       x="514.30408"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="322.74515"
+         x="514.30408"
+         id="tspan4443-2-4-4-1"
+         sodipodi:role="line">美元</tspan><tspan
+         id="tspan4453-4-61-9-2"
+         y="347.50131"
+         x="514.30408"
+         sodipodi:role="line">ΔX</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6251"
+       y="333.99823"
+       x="436.34314"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-0.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         y="333.99823"
+         x="436.34314"
+         id="tspan6253"
+         sodipodi:role="line">炒作资本 =</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path6255"
+       d="m 359,1382.3622 c -61,-22 -115,-62 -115,-62"
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6,6;marker-end:url(#Arrow1Mendz);stroke-dashoffset:0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis-3.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6821"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr"><flowRegion
+         id="flowRegion6823"><rect
+           id="rect6825"
+           width="170.41273"
+           height="54.44722"
+           x="118.08683"
+           y="19.279175" /></flowRegion><flowPara
+         id="flowPara6827"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6829"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr"><flowRegion
+         id="flowRegion6831"><rect
+           id="rect6833"
+           width="8.485281"
+           height="41.719299"
+           x="458.91229"
+           y="50.391872" /></flowRegion><flowPara
+         id="flowPara6835"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6837"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr"><flowRegion
+         id="flowRegion6839"><rect
+           id="rect6841"
+           width="173.24117"
+           height="48.790367"
+           x="365.57422"
+           y="13.622321" /></flowRegion><flowPara
+         id="flowPara6843"></flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4441-8"
+       y="-251.43173"
+       x="351.8212"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/yky/latex/Asian-financial-crisis.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         id="tspan4453-1"
+         y="-251.43173"
+         x="351.8212"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6948"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr"><flowRegion
+         id="flowRegion6950"><rect
+           id="rect6952"
+           width="178.19092"
+           height="135.76451"
+           x="258.80109"
+           y="-307.40414" /></flowRegion><flowPara
+         id="flowPara6954"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6956"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr"><flowRegion
+         id="flowRegion6958"><rect
+           id="rect6960"
+           width="123.03658"
+           height="82.024384"
+           x="299.81326"
+           y="-281.24121" /></flowRegion><flowPara
+         id="flowPara6962"></flowPara></flowRoot>  </g>
+</svg>

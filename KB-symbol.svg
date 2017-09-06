@@ -10,13 +10,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="15.715455"
-   height="16.312775"
+   height="19.5"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   inkscape:export-filename="/home/yky/latex/AGI-17/KB-symbol.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/yky/latex/KB-symbol.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960"
    sodipodi:docname="KB-symbol.svg">
   <defs
      id="defs4" />
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="26.715293"
-     inkscape:cx="7.4863795"
-     inkscape:cy="7.4433644"
+     inkscape:zoom="39.65368"
+     inkscape:cx="7.9688061"
+     inkscape:cy="9.9695728"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,11 +37,18 @@
      fit-margin-left="0.7"
      fit-margin-right="0.7"
      fit-margin-bottom="2.7755576e-17"
-     inkscape:window-width="1080"
-     inkscape:window-height="1892"
+     inkscape:window-width="1050"
+     inkscape:window-height="1656"
      inkscape:window-x="0"
-     inkscape:window-y="2"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-2.3957424,3.6818777"
+       orientation="0,1"
+       id="guide4253" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -58,46 +65,83 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-251.46555,-473.31144)">
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path2984"
-       sodipodi:cx="2.0924287"
-       sodipodi:cy="-6.9762049"
-       sodipodi:rx="5.5164032"
-       sodipodi:ry="1.8758074"
-       d="m 7.6088319,-6.9762049 a 5.5164032,1.8758074 0 1 1 -11.0328064,0 5.5164032,1.8758074 0 1 1 11.0328064,0 z"
-       transform="matrix(1.1936842,0,0,1.0997751,256.9414,484.16001)" />
+     transform="translate(-251.46555,-470.12422)">
     <flowRoot
        xml:space="preserve"
-       id="flowRoot2984"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="translate(247.21899,487.01632)"><flowRegion
-         id="flowRegion2986"><rect
-           id="rect2988"
-           width="27.679893"
-           height="31.965065"
-           x="-1.5828112"
-           y="-8.1242867" /></flowRegion><flowPara
-         id="flowPara2990"
-         style="font-size:7px;font-weight:bold;-inkscape-font-specification:Arial Bold">KB</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1.14576793;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
-       d="m 266.00236,486.15107 c 0.0521,1.4377 -2.85352,2.61987 -6.48986,2.64046 -3.63633,0.0206 -6.62639,-1.12819 -6.67848,-2.56588 -0.002,-0.0432 -4.1e-4,-0.0865 0.003,-0.12969"
-       id="path2984-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 252.81673,486.11114 0,-9.45826"
-       id="path3015"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 266.01969,486.36208 0,-9.68989"
-       id="path3015-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       id="flowRoot3341"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(251.46555,473.31144)"><flowRegion
+         id="flowRegion3343"><rect
+           id="rect3345"
+           width="27.587194"
+           height="31.929276"
+           x="-3.5934474"
+           y="-1.2052814" /></flowRegion><flowPara
+         id="flowPara3347">ϴΘϴΘrfdaa</flowPara></flowRoot>    <g
+       transform="matrix(1,0,-0.18562953,1,274.68267,459.17074)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot3349" />
+    <g
+       id="g4310"
+       transform="matrix(0.90234375,0,0,0.86029918,10.675347,66.134407)">
+      <g
+         id="flowRoot4192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(266.65305,497.37394)">
+        <path
+           sodipodi:nodetypes="sssssscsscssccccc"
+           inkscape:connector-curvature="0"
+           id="path4242"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+           d="m -1.1775,-18.753675 c 0,-3.28 -2.04,-5.22 -4.56,-5.22 -4.1,0 -8.24,4.74 -8.24,9.38 0,3.02 1.88,5.1600001 4.6,5.1600001 4,0 8.2,-4.5000001 8.2,-9.3200001 z m -1.62,-0.72 c 0,1.44 -0.56,4.52 -2.02,6.66 -1.34,1.96 -3.04,2.9200001 -4.44,2.9200001 -1.84,0 -3.08,-1.5800001 -3.08,-4.0200001 0,-1.2 0.42,-4.14 2,-6.6 1.08,-1.68 2.82,-3.02 4.48,-3.02 1.9,0 3.06,1.7 3.06,4.06 z m 0.064544,2.220589 -6.1222719,0 -0.36,1.049508 6.1222719,0 z" />
+      </g>
+      <path
+         sodipodi:nodetypes="cscccsc"
+         inkscape:connector-curvature="0"
+         id="path4242-7"
+         d="m 259.41698,487.18218 c -1.84,0 -1.76397,-1.33314 -1.85235,-3.33119 -0.053,-1.19883 0.86286,-5.33195 2.00536,-6.97945 1.08,-1.68 1.57896,-2.46869 3.23896,-2.65619 l 0.0731,-0.36187 c -4.1,0 -5.57226,4.257 -6.2999,8.40772 -0.52147,2.97465 -0.19275,5.38098 2.52731,5.38098"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4239"
+       transform="translate(0,-1.0591702)">
+      <ellipse
+         id="path2984"
+         style="fill:none;stroke:#000000;stroke-width:1.14576793;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="2.0629663"
+         rx="6.5848432"
+         cy="474.07825"
+         cx="259.35779" />
+      <flowRoot
+         transform="translate(247.16288,484.60682)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot2984"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2986"><rect
+             y="-8.1242867"
+             x="-1.5828112"
+             height="31.965065"
+             width="27.679893"
+             id="rect2988" /></flowRegion><flowPara
+           style="font-weight:bold;font-size:7px;-inkscape-font-specification:'Arial Bold'"
+           id="flowPara2990">KB</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="cscc"
+         inkscape:connector-curvature="0"
+         id="path2984-3"
+         d="m 265.94625,483.74157 c 0.0521,1.4377 -2.85352,2.61987 -6.48986,2.64046 -3.63633,0.0206 -6.62639,-1.12819 -6.67848,-2.56588 -0.002,-0.0432 -4.1e-4,-0.0865 0.003,-0.12969"
+         style="fill:none;stroke:#000000;stroke-width:1.14576793;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3015"
+         d="m 252.77323,483.7773 0,-9.76089"
+         style="fill:none;stroke:#000000;stroke-width:1.14999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3015-6"
+         d="m 265.95097,483.88953 0,-9.8412"
+         style="fill:none;stroke:#000000;stroke-width:1.14999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

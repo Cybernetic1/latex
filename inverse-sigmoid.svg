@@ -13,8 +13,8 @@
    height="16.312775"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   inkscape:export-filename="/home/yky/latex/AGI-16/inverse-sigmoid.png"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/yky/latex/agi-17/inverse-sigmoid.png"
    inkscape:export-xdpi="400"
    inkscape:export-ydpi="400"
    sodipodi:docname="inverse-sigmoid.svg">
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,8 +60,8 @@
      id="layer1"
      transform="translate(-251.46555,-473.31144)">
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 253.78177,477.13006 c 1.5174,7.93246 8.69974,0.50722 10.53292,8.97704"
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 255.62919,487.56338 c -0.31577,-10.9667 7.46709,-0.98132 7.11941,-12.73824"
        id="path2987"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -73,7 +73,7 @@
        sodipodi:cy="-6.9762049"
        sodipodi:rx="5.5164032"
        sodipodi:ry="6.8955035"
-       d="m 7.6088319,-6.9762049 c 0,3.8082815 -2.4697779,6.89550355 -5.5164032,6.89550355 -3.04662538,0 -5.5164032,-3.08722205 -5.5164032,-6.89550355 0,-3.8082811 2.46977782,-6.8955031 5.5164032,-6.8955031 3.0466253,0 5.5164032,3.087222 5.5164032,6.8955031 z"
+       d="M 7.6088319,-6.9762049 A 5.5164032,6.8955035 0 0 1 2.0924287,-0.08070135 5.5164032,6.8955035 0 0 1 -3.4239745,-6.9762049 5.5164032,6.8955035 0 0 1 2.0924287,-13.871708 5.5164032,6.8955035 0 0 1 7.6088319,-6.9762049 Z"
        transform="matrix(1.1936842,0,0,1.0997751,256.82558,489.14008)" />
   </g>
 </svg>

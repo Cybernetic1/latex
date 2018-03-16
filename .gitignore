@@ -1,7 +1,7 @@
 ## Ignore all sub-directories:
 */*
 
-!/humanities
+!humanities/*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux

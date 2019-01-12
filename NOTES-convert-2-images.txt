@@ -1,5 +1,3 @@
-convert -density 300 FILE.pdf page_%04d.png
+convert -density 300 FILE.pdf page_%02d.png
 
-convert -background white -alpha remove  page_????.png img-white_%04d.png
-
-convert -trim img-white_????.png img_%04d.png
+convert -background white -alpha remove -trim page_??.png img_%02d.png

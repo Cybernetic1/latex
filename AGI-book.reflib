@@ -1,0 +1,4021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<manage_target braces="false" utf8="false"></manage_target>
+	<library_folder monitor="false"></library_folder>
+	<taglist/>
+	<doclist>
+		<doc>
+			<filename></filename>
+			<key>Abelson1984</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Structure and interpretation of computer programs</bib_title>
+			<bib_authors>Abelson, and Sussman,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1984</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2011.05.21</bib_extra>
+			<bib_extra key="Url">http://mitpress.mit.edu/sicp/</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Akman1996</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Steps toward formalizing context</bib_title>
+			<bib_authors>Akman, and Surav, and Giunchiglia,</bib_authors>
+			<bib_journal>AI magazine</bib_journal>
+			<bib_volume>17</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>55-72</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.05.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Anashin2009</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Applied algebraic dynamics</bib_title>
+			<bib_authors>Anashin, Vladimir and Khrennikov, Andrei</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">de Gruyter</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.10.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Andreka2001</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Handbook of philosophical logic</bib_title>
+			<bib_authors>Andreka, and Nemeti, and Sain,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>133-247</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Chapter">Algebraic logic</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Timestamp">2012.03.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Arel2012</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Deep reinforcement learning as Foundations for Artificial Intelligence</bib_title>
+			<bib_authors>Arel, Itamar</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>89-102</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Chapter">6</bib_extra>
+			<bib_extra key="Editor">Goertzel, and Wang,</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Atlantis Press</bib_extra>
+			<bib_extra key="Timestamp">2016.09.14</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Baader1998</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Term rewriting and all that</bib_title>
+			<bib_authors>Baader, and Nipkow,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.22</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bader2007</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Core Method: Connectionist model generation for First-order logic programs</bib_title>
+			<bib_authors>Bader, and Hitzler, and Hödobler, and Witzel,</bib_authors>
+			<bib_journal>Studies in Computational Intelligence 77, 205-232</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2016.09.16</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bar-Hillel1954</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Logical syntax and semantics</bib_title>
+			<bib_authors>Bar-Hillel,</bib_authors>
+			<bib_journal>Language</bib_journal>
+			<bib_volume>30(2)</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>230-237</bib_pages>
+			<bib_year>1954</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.11.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Barr1990</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Category theory for computer science</bib_title>
+			<bib_authors>Barr, and Wells,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1990</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Prentice Hall</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Baum2004</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>What is thought?</bib_title>
+			<bib_authors>Baum,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">MIT press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.05.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bergadano1996</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Inductive logic programming - from machine learning to software engineering</bib_title>
+			<bib_authors>Bergadano, and Gunetti,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.06.14</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bergmann2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An Introduction to Many-Valued and Fuzzy Logic</bib_title>
+			<bib_authors>Bergmann,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Cambridge university press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.31</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bier1993</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>When uncertainty is irrelevant to expected utility decision making</bib_title>
+			<bib_authors>Bier,</bib_authors>
+			<bib_journal>Uncertainty Modeling and Analysis, 1993. Proceedings., Second International Symposium on</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>401-407</bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Boole1854</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An investigation of the laws of thought, on which are founded the mathematical theories of logic and probabilities</bib_title>
+			<bib_authors>Boole,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1854</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Walton and Maberley, London (reprint Dover, New York, 1958) </bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Boole1847</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The mathematical analysis of logic, being an essay towards a calculus of deductive reasoning</bib_title>
+			<bib_authors>Boole,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1847</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2013.03.09</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bosc1997</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An introduction to the fuzzy set and possibility theory-based treatment of flexible queries and uncertain or imprecise databases</bib_title>
+			<bib_authors>Bosc, and Prade,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>285-324</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="BookTitle">Uncertainty in Information Systems: From needs to solutions</bib_extra>
+			<bib_extra key="Editor">Smets, Motro &amp;.</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Kluwer, Boston, MA. </bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Brachman2004</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Knowledge representation and reasoning</bib_title>
+			<bib_authors>Brachman, and Levesque,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Publisher">Morgan Kaufmann</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bratman1987</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Intentions, plans, and practical reason</bib_title>
+			<bib_authors>Bratman,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1987</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.05.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bratman1988</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Plans and resource-bounded practical reasoning</bib_title>
+			<bib_authors>Bratman, and Israel, and Pollack,</bib_authors>
+			<bib_journal>Computational intelligence</bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>349-355</bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.05.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Browne2001</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Connectionist inference models</bib_title>
+			<bib_authors>Browne, and Sun,</bib_authors>
+			<bib_journal>Neural networks 14</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2015.06.08</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Campbell1974</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Sorites Paradox</bib_title>
+			<bib_authors>Campbell,</bib_authors>
+			<bib_journal>Philosophical Studies</bib_journal>
+			<bib_volume>26</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>175-91</bib_pages>
+			<bib_year>1974</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.08.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Cann1993</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Formal semantics - an introduction</bib_title>
+			<bib_authors>Cann,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Chandru1999</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Optimization methods for logical inference</bib_title>
+			<bib_authors>Chandru, and Hooker,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Wiley interscience</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.04.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Chater2005</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Advances in minimum description length</bib_title>
+			<bib_authors>Chater,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>385</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Chapter">15 &quot;A minimal description length principle for perception&quot;</bib_extra>
+			<bib_extra key="Editor">Grunwald,</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Timestamp">2009.06.06</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Coecke2010</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mathematical foundations for distributed compostional model of meaning</bib_title>
+			<bib_authors>Coecke, and Sadrzadeh, and Clark,</bib_authors>
+			<bib_journal>Linguistic Analysis 36, 345-384</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2015.07.08</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Constantini2002</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Meta-reasoning: a survey</bib_title>
+			<bib_authors>Constantini,</bib_authors>
+			<bib_journal>Computational logic: logic programming and beyond, LNCS</bib_journal>
+			<bib_volume>2408</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>65</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.05.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Conway1971</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Regular algebra and finite machines</bib_title>
+			<bib_authors>Conway,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1971</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Chapman and Hall</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.08.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Courbariaux2015</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>BinaryConnect: Training Deep Neural Networks with binary weights during propagations</bib_title>
+			<bib_authors>Courbariaux, Matthieu and Bengio, Yoshua and David, Jean-Pierre</bib_authors>
+			<bib_journal>CoRR</bib_journal>
+			<bib_volume>abs/1511.00363</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="Bibsource">dblp computer science bibliography, http://dblp.org</bib_extra>
+			<bib_extra key="Biburl">http://dblp.uni-trier.de/rec/bib/journals/corr/CourbariauxBD15</bib_extra>
+			<bib_extra key="__markedentry">[yky:]</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">Wed, 07 Jun 2017 14:42:24 +0200</bib_extra>
+			<bib_extra key="Url">http://arxiv.org/abs/1511.00363</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Cowell1999</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic networks and expert systems</bib_title>
+			<bib_authors>Cowell, and Dawid, and Lauritzen, and Spiegelhalter,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.11.07</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Cox2007</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ideals, varieties, and algorithms – an Introduction to computational algebraic geometry and commutative algebra</bib_title>
+			<bib_authors>Cox, David and Little, John and O’Shea, Donal</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2017.12.29</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Craig1974</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Logic in algebraic form</bib_title>
+			<bib_authors>Craig,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1974</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">North-Holland</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Crole1993</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Categories for types</bib_title>
+			<bib_authors>Crole, Roy</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2018.02.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Curien1993</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Categorical combinators, sequential algorithms, and functional programming</bib_title>
+			<bib_authors>Curien,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Birkhauser</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Curry1930</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Grundlagen der kombinatorischen Logik</bib_title>
+			<bib_authors>Curry,</bib_authors>
+			<bib_journal>Amer J Math</bib_journal>
+			<bib_volume>52</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>509-536</bib_pages>
+			<bib_year>1930</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Defferrard2016</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering</bib_title>
+			<bib_authors>Defferrard, Michaël and Bresson, Xavier and Vandergheynst, Pierre</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Bibsource">dblp computer science bibliography, http://dblp.org</bib_extra>
+			<bib_extra key="Biburl">http://dblp.uni-trier.de/rec/bib/journals/corr/DefferrardBV16</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">Wed, 07 Jun 2017 14:42:29 +0200</bib_extra>
+			<bib_extra key="Url">http://arxiv.org/abs/1606.09375</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Doets1996</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Basic model theory</bib_title>
+			<bib_authors>Doets, Kees</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">CSLI notes</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.09.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Domingos2008</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A general method for reducing the complexity of relational inference and its application to MCMC</bib_title>
+			<bib_authors>Domingos, and Poon, and Sumner,</bib_authors>
+			<bib_journal>Proceedings of the 23th AAAI conference on AI</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1075-1080</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.04.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Domingos2007</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Markov logic: a unifying framework for statistical relational learning</bib_title>
+			<bib_authors>Domingos, and Richardson,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="BookTitle">Statistical relational learning</bib_extra>
+			<bib_extra key="Editor">Getoor, and Taskar,</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Driessens2005</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Relational reinforcement learning</bib_title>
+			<bib_authors>Driessens, K.</bib_authors>
+			<bib_journal>AI Communications</bib_journal>
+			<bib_volume>18</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>71-73</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Publisher">IOS Press</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Dubois1988</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Possibility Theory: An Approach to Computerized Processing of Uncertainty</bib_title>
+			<bib_authors>Dubois, and Prade,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="Publisher">Plenum Press, New York</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Dzeroski1998</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Relational reinforcement learning</bib_title>
+			<bib_authors>Dzeroski, and Raedt, de and Blockeel,</bib_authors>
+			<bib_journal>Proceedings of the 15th international conference of machine learning</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>136-143</bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.06.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Dzeroski2001</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Relational reinforcement learning</bib_title>
+			<bib_authors>Dzeroski, and Raedt, de and Driessens,</bib_authors>
+			<bib_journal>Machine learning</bib_journal>
+			<bib_volume>43</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>7-52</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.06.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Edgington1992</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Validity, Uncertainty and Vagueness</bib_title>
+			<bib_authors>Edgington,</bib_authors>
+			<bib_journal>Analysis</bib_journal>
+			<bib_volume>52</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>193-204</bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.08.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Eilenberg1974</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Automata, languages and machine - vol A</bib_title>
+			<bib_authors>Eilenberg,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1974</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Academic Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.30</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Engeler1995</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The combinatory programme</bib_title>
+			<bib_authors>Engeler,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1-12</bib_pages>
+			<bib_year>1995</bib_year>
+			<bib_extra key="Chapter">Historical and philosophical background</bib_extra>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Birkhauser</bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Fernando2017</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>PathNet: Evolution Channels Gradient Descent in Super Neural Networks</bib_title>
+			<bib_authors>Fernando, Chrisantha and Banarse, Dylan and Blundell, Charles and Zwols, Yori and Ha, David and Rusu, Andrei A. and Pritzel, Alexander and Wierstra, Daan</bib_authors>
+			<bib_journal>CoRR</bib_journal>
+			<bib_volume>abs/1701.08734</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2017</bib_year>
+			<bib_extra key="Bibsource">dblp computer science bibliography, http://dblp.org</bib_extra>
+			<bib_extra key="Biburl">http://dblp.uni-trier.de/rec/bib/journals/corr/FernandoBBZHRPW17</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">Wed, 07 Jun 2017 14:42:32 +0200</bib_extra>
+			<bib_extra key="Url">http://arxiv.org/abs/1701.08734</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Fine1975</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Vagueness, Truth and Logic</bib_title>
+			<bib_authors>Fine,</bib_authors>
+			<bib_journal>Synthese</bib_journal>
+			<bib_volume>30</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>265-300</bib_pages>
+			<bib_year>1975</bib_year>
+			<bib_extra key="Comment">reprinted in Keefe and Smith 1997, Vagueness: a reader, p119-50, MIT Press</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.08.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Flach2000</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Abduction and Induction: Essays on their relation and integration</bib_title>
+			<bib_authors>Flach, and Kakas,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Frege1879</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Begriffsschrift: eine der arithmetischen nachgebildete Formelsprache des reinen Denkens (&quot;Concept-notation: a formula language, modeled on that of arithmetic, of pure thought&quot;)</bib_title>
+			<bib_authors>Frege,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1879</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Halle</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Freitas2002</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Data Mining and Knowledge Discovery with Evolutionary Algorithms</bib_title>
+			<bib_authors>Freitas,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.31</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Garcez2009</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Neural-symbolic cognitive reasoning</bib_title>
+			<bib_authors>Garcez, and Lamb, and Gabbay,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.04.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Gardenfors2004</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Conceptual spaces: the geometry of thought</bib_title>
+			<bib_authors>Gardenfors,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Bradford</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Gartner2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Kernels for structured data</bib_title>
+			<bib_authors>Gartner,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">World scientific</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.05.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Getoor2001</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Learning probabilistic relational models</bib_title>
+			<bib_authors>Getoor, and Friedman, and Koller, and Pfeffer,</bib_authors>
+			<bib_journal>Journal of relational data mining</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>307-335</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.11.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Getoor2007a</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic relational models</bib_title>
+			<bib_authors>Getoor, and Friedman, and Koller, and Pfeffer, and Taskar,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="BookTitle">Statistical relational learning</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Gilmore2011</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The topology of chaos: Alice in stretch and squeezeland</bib_title>
+			<bib_authors>Gilmore, Robert and Lefranc, Marc</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Wiley-VCH</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.09.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Goertzel2012</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Perception processing for general intelligence: bridging the symbolic / subsymbolic gap</bib_title>
+			<bib_authors>Goertzel,</bib_authors>
+			<bib_journal>5th AGI international conference</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2013.03.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Goertzel2011a</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Three hypotheses about the geometry of mind</bib_title>
+			<bib_authors>Goertzel, and Ikle,</bib_authors>
+			<bib_journal>LNCS 6830, Artificial General Intelligence</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>340-345</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Goertzel2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic logic networks – A Comprehensive Framework for Uncertain Inference</bib_title>
+			<bib_authors>Goertzel, and Ikle, and Heljakka,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Goertzel2007</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Artificial general intelligence</bib_title>
+			<bib_authors>Goertzel, and Pennachin,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Goertzel2011</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Building better minds: engineering beneficial general intelligence</bib_title>
+			<bib_authors>Goertzel, and Pennachin, and Geisweiller,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Author:corp">OpenCog Foundation</bib_extra>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+			<bib_extra key="Url">http://wiki.opencog.org/w/Building_Better_Minds</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Goguen1989</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>What is unification - a categorical view of substitution, equation and solution</bib_title>
+			<bib_authors>Goguen,</bib_authors>
+			<bib_journal>Resolution of equations in algebraic structures</bib_journal>
+			<bib_volume>1: algebraic techniques</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>217-261</bib_pages>
+			<bib_year>1989</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Golan2003</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Semirings and affine equations over them - theory and applications</bib_title>
+			<bib_authors>Golan,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Kluwer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.30</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Golan1992</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The theory of semirings with applications in mathematics and theoretical computer science</bib_title>
+			<bib_authors>Golan,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Longman</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.30</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Gondran2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Graphs, dioids and semirings - new models and algorithms</bib_title>
+			<bib_authors>Gondran, and Minoux,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.30</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Grenander2007</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Pattern theory: from representation to inference</bib_title>
+			<bib_authors>Grenander, and Miller,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">OUP</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2011.05.21</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Haddawy1994</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Generating Bayesian networks from probability logic knowledge bases</bib_title>
+			<bib_authors>Haddawy,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="BookTitle">Proceedings of the 10th Conference on Uncertainty in Artificial Intelligence</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hailperin1965</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Best possible inequalities for the probability of a logical function of events</bib_title>
+			<bib_authors>Hailperin,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>72</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>343-359</bib_pages>
+			<bib_year>1965</bib_year>
+			<bib_extra key="BookTitle">American Mathematical Monthly</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Halmos1998</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Logic as algebra</bib_title>
+			<bib_authors>Halmos,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Math Asso of America</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Halmos1962</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Algebraic logic</bib_title>
+			<bib_authors>Halmos,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1962</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Chelsea</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hansen2000</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic satisfiability with imprecise probabilities</bib_title>
+			<bib_authors>Hansen, and Jaumard, and Aragao, de and Chauny, and Perron,</bib_authors>
+			<bib_journal>International Journal of Approximate Reasoning</bib_journal>
+			<bib_volume>24</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>171-189</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Haykin2012</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Cognitive dynamic systems</bib_title>
+			<bib_authors>Haykin, Simon</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Cambridge Univ Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2017.01.10</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Haykin2003</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Signals and systems</bib_title>
+			<bib_authors>Haykin, Simon and Veen, Barry van</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">John Wiley &amp; Sons</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2017.01.10</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hebisch1998</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Semirings - algebraic theory and applications in computer science</bib_title>
+			<bib_authors>Hebisch, and Weinert,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">World Scientific</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.30</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Heckerman2007</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Statistical relational learning</bib_title>
+			<bib_authors>Heckerman, and Meek, and Koller,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Chapter">7: Probabilistic entity-relationship models, PRMs, and plate models</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Timestamp">2011.10.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hedman2004</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A first course in logic</bib_title>
+			<bib_authors>Hedman, Shawn</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Oxford</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.10.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hobbs2003</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>interpretation as abduction, in book &quot;Discourse and Inference&quot;</bib_title>
+			<bib_authors>Hobbs,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>-3</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Author:corp">USC/ISI</bib_extra>
+			<bib_extra key="Chapter">Interpretation as abduction</bib_extra>
+			<bib_extra key="Month">nov</bib_extra>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.07.12</bib_extra>
+			<bib_extra key="Url">http://www.isi.edu/~hobbs/disinf-tc.html</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hobbs1988</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Interpretation as abduction</bib_title>
+			<bib_authors>Hobbs, Jerry R. and Stickel, Mark and Martin, Paul and Edwards, Douglas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>95-103</bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="Author:corp">Association for Computational Linguistics</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 26th annual meeting on Association for Computational Linguistics</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Holland1986</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Induction</bib_title>
+			<bib_authors>Holland, and Holyoak, and Nisbett, and Thagard,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1986</bib_year>
+			<bib_extra key="Publisher">Mit Press Cambridge, Mass</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Holldobler1989</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Foundations of equational logic programming</bib_title>
+			<bib_authors>Holldobler,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1989</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Springer-Verlag</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.22</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Huet1975</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Unification in typed lambda-calculus</bib_title>
+			<bib_authors>Huet,</bib_authors>
+			<bib_journal>Conference on lambda-calculus and theoretical computer science, Roma, March 1975</bib_journal>
+			<bib_volume>LNCS 37</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>192-212</bib_pages>
+			<bib_year>1975</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2011.08.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Huet1978</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Proving and applying program transformations expressed with second-order patterns</bib_title>
+			<bib_authors>Huet, and Lang,</bib_authors>
+			<bib_journal>Acta informatica</bib_journal>
+			<bib_volume>11:1</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>31-55</bib_pages>
+			<bib_year>1978</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2011.08.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Iovino2002</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Applications of model theory to functional analysis</bib_title>
+			<bib_authors>Iovino, José</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Dover</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.10.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ireson-Paine2000</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Generalisation is an adjunction</bib_title>
+			<bib_authors>Ireson-Paine, Jocelyn</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Month">jun</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2017.12.29</bib_extra>
+			<bib_extra key="Url">http://www.j-paine.org/generalisation.html</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ivancevic2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Geometrical dynamics of complex systems: a unified modeling approach to physics, control, biomechanics, neurodynamics and psycho-socio-economical dynamics</bib_title>
+			<bib_authors>Ivancevic, Vladimir and Ivancevic, Tijana</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2017.01.11</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Jacobs1999</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Categorical logic and type theory</bib_title>
+			<bib_authors>Jacobs, Bart</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2017.01.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Jaeger1997</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Relational Bayesian networks</bib_title>
+			<bib_authors>Jaeger,</bib_authors>
+			<bib_journal>Proceedings of the conference on uncertainty in artificial intelligence</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Jaumard2006</key>
+			<notes></notes>
+			<bib_type>Unpublished</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An anytime deduction algorithm for the probabilistic logic and entailment problems</bib_title>
+			<bib_authors>Jaumard, and Parreira,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Note">preprint submitted to Elsevier</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Jensen2007</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Bayesian networks and decision graphs, 2nd edition</bib_title>
+			<bib_authors>Jensen, and Nielsen,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.10.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Johnson-Laird1983</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mental Models</bib_title>
+			<bib_authors>Johnson-Laird,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1983</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Harvard University Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.31</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Keefe2000</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Theories of Vagueness</bib_title>
+			<bib_authors>Keefe,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Cambridge university press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Keisler2008</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The ultraproduct construction</bib_title>
+			<bib_authors>Keisler, H.  Jerome</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="BookTitle">Ultrafilters across mathematics, ULTRAMATH 2008</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2016.10.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kenevan1992</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fuzzy logic for the management of uncertainty</bib_title>
+			<bib_authors>Kenevan, and Neapolitan,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>141-157</bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="Chapter">A model theoretic approach to propositional fuzzy logic using Beth Tableaux</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">John Wiley &amp; Sons, Inc. New York, NY, USA</bib_extra>
+			<bib_extra key="Timestamp">2008.08.23</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kersting2000</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Bayesian logic programs</bib_title>
+			<bib_authors>Kersting, and Raedt, de</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="BookTitle">Work-in-progress reports of the 10th international conference on inductive logic programming (ILP 2000)</bib_extra>
+			<bib_extra key="Editor">Frisch, Cussens &amp;.</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+			<bib_extra key="Url">http://SunSITE.Informatik.RWTH-Aachen.DE/Publications/CEUR-WS/Vol-35/</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kipf2016</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Semi-Supervised Classification with Graph Convolutional Networks</bib_title>
+			<bib_authors>Kipf, Thomas N. and Welling, Max</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Bibsource">dblp computer science bibliography, http://dblp.org</bib_extra>
+			<bib_extra key="Biburl">http://dblp.uni-trier.de/rec/bib/journals/corr/KipfW16</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">Wed, 07 Jun 2017 14:41:59 +0200</bib_extra>
+			<bib_extra key="Url">http://arxiv.org/abs/1609.02907</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Konstantopoulos2008</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Induction as a Search Procedure</bib_title>
+			<bib_authors>Konstantopoulos, S. and Camacho, R. and Fonseca, N. A. and Costa, V. S.</bib_authors>
+			<bib_journal>Artificial Intelligence for Advanced Problem Solving Techniques</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>166</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Publisher">Information Science Reference</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kruse1987</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Statistics with vague data</bib_title>
+			<bib_authors>Kruse, and Meyer,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1987</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Reidel Publishing Company</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.10.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kschischang2001</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Factor graphs and the sum-product algorithm</bib_title>
+			<bib_authors>Kschischang,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2011.08.07</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kuich1986</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Semirings, automata, languages</bib_title>
+			<bib_authors>Kuich, and Salomaa,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1986</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.30</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kurzweil2005</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The singularity is near: When humans transcend biology</bib_title>
+			<bib_authors>Kurzweil, R.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Publisher">Viking</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lakoff1987</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Women, Fire, and Dangerous Things - what categories reveal about the mind</bib_title>
+			<bib_authors>Lakoff,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1987</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">University of Chicago Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lambek2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>From word to sentence: a computational algebraic approach to grammar</bib_title>
+			<bib_authors>Lambek,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Polimetrica</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2013.03.09</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lambek1958</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The mathematics of sentence structure</bib_title>
+			<bib_authors>Lambek,</bib_authors>
+			<bib_journal>American mathematical monthly</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>154-170</bib_pages>
+			<bib_year>1958</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.11.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lambek1986</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Introduction to higher order categorical logic</bib_title>
+			<bib_authors>Lambek, and Scott,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1986</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2018.02.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lambek1988</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Categorical versus algebraic logic</bib_title>
+			<bib_authors>Lambek, Joachim</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>351-360</bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="BookTitle">Algebraic logic</bib_extra>
+			<bib_extra key="Chapter">Categorical versus algebraic logic</bib_extra>
+			<bib_extra key="Editor">Andréka, and Monk, and Németi,</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">North-Holland</bib_extra>
+			<bib_extra key="Timestamp">2017.01.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Langley1993</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Machine learning methods for planning</bib_title>
+			<bib_authors>Langley, and Allen,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>317</bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Chapter">10, A unified framework for planning and learning</bib_extra>
+			<bib_extra key="Editor">Minton,</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Morgan Kaufmann</bib_extra>
+			<bib_extra key="Timestamp">2009.06.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Laskey2006</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>MEBN: a logic for open-world probabilistic reasoning</bib_title>
+			<bib_authors>Laskey,</bib_authors>
+			<bib_journal>GMU C4I Center Technical Report C4I-06-01</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lavrac1994</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Inductive logic programming - techniques and applications</bib_title>
+			<bib_authors>Lavrac, and Dzeroski,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Ellis Horwood New York (out of print but available online)</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.06.17</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lawvere1963</key>
+			<notes></notes>
+			<bib_type>PhdThesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Functorial semantics of algebraic theories</bib_title>
+			<bib_authors>Lawvere,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1963</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="School">Columbia university</bib_extra>
+			<bib_extra key="Timestamp">2013.03.09</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lawvere2003</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Sets for mathematics</bib_title>
+			<bib_authors>Lawvere, and Rosebrugh,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Liberzon2012</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Calculus of variations and optimal control theory: a concise introduction</bib_title>
+			<bib_authors>Liberzon, Daniel</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Princeton Univ Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2017.01.10</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lloyd2003</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Logic for learning</bib_title>
+			<bib_authors>Lloyd,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.05.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lo1993</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Dynamical system identification by recurrent multilayer perceptrons</bib_title>
+			<bib_authors>Lo,</bib_authors>
+			<bib_journal>Proceedings of the 1993 World Congress on Neural Networks</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2015.11.19</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Luger2009</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Artificial intelligence: structures and strategies for complex problem solving</bib_title>
+			<bib_authors>Luger,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Pearson Education</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.11.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>MacKay2003</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Information theory, inference, and learning algorithms</bib_title>
+			<bib_authors>MacKay,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.06.06</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>MacLane1992</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Sheaves in geometry and logic – a first introduction to topos theory</bib_title>
+			<bib_authors>MacLane, Saunders and Moerdijk, Ieke</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2017.01.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Maddux2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Relation algebras</bib_title>
+			<bib_authors>Maddux, Roger</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.09.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Manning2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Introduction to information retrieval</bib_title>
+			<bib_authors>Manning, and Raghavan, and Schutze,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.08.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Manzano1999</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Model theory</bib_title>
+			<bib_authors>Manzano, Maria</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Oxford</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.09.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Marker2002</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Model theory</bib_title>
+			<bib_authors>Marker, David</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.10.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>McCarthy1997</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Modality, si! Modal logic, no!</bib_title>
+			<bib_authors>McCarthy,</bib_authors>
+			<bib_journal>Studia Logica: an international journal for symbolic logic</bib_journal>
+			<bib_volume>59:1</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>29-32</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2011.05.28</bib_extra>
+			<bib_extra key="Url">http://www-formal.stanford.edu/jmc/modality/modality.html</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Mikolov2013</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Efficient estimation of word representations in vector space</bib_title>
+			<bib_authors>Mikolov, and Sutskever, and Chen, and Corrado, and Dean,</bib_authors>
+			<bib_journal>Proceedings of workshop at ICLR</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2016.05.14</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Milch2007</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>BLOG: probabilistic models with unknown objects</bib_title>
+			<bib_authors>Milch, and Marthi, and Russell, and Sontag, and Ong, and Kolobov,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="BookTitle">Statistical relational learning</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Mnih2013</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Playing Atari with deep reinforcement learning</bib_title>
+			<bib_authors>Mnih, and Kavukcuoglu, and Silver, and Graves, and Antonoglou, and Wierstra, and Riedmiller,</bib_authors>
+			<bib_journal>arXiv:1312.5602 [cs.LG]</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2016.06.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Muggleton1996</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Stochastic logic programs</bib_title>
+			<bib_authors>Muggleton,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>254-264</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="BookTitle">Advances in inductive logic programming</bib_extra>
+			<bib_extra key="Editor">Raedt, de</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">IOS Press, Amsterdam</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+			<bib_extra key="Url">http://www.doc.ic.ac.uk/~shm/Papers/slp.pdf </bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Muggleton2005</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Support vector inductive logic programming</bib_title>
+			<bib_authors>Muggleton, and Lodhi, and Amini, and Sternberg,</bib_authors>
+			<bib_journal>Discovery science, LNCS</bib_journal>
+			<bib_volume>3735</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>163-175</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.05.28</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Muresan2004</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Scale Independence in the Visual System</bib_title>
+			<bib_authors>Muresan,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1-18</bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Chapter"></bib_extra>
+			<bib_extra key="Editor">Rajapakse, and Wang,</bib_extra>
+			<bib_extra key="Journal">Neural Information Processing: Research and Development</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Timestamp">2008.09.06</bib_extra>
+			<bib_extra key="Url">http://www.raulmuresan.ro/Papers/MuresanSpringer.pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Murphy2002</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Big Book of Concepts</bib_title>
+			<bib_authors>Murphy,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Murphy1985</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The role of theories in conceptual coherence</bib_title>
+			<bib_authors>Murphy, and Medin,</bib_authors>
+			<bib_journal>Psychological review</bib_journal>
+			<bib_volume>92(3)</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>289-316</bib_pages>
+			<bib_year>1985</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.08.21</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Neapolitan2004</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Learning Bayesian networks</bib_title>
+			<bib_authors>Neapolitan,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Prentice Hall</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Newell1960</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Report on a general problem solving program for a computer</bib_title>
+			<bib_authors>Newell, and Shaw, and Simon,</bib_authors>
+			<bib_journal>Proceedings of the international conference on information processing</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>256-264</bib_pages>
+			<bib_year>1960</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.06.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ng2009</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic reasoning in a classical logic</bib_title>
+			<bib_authors>Ng, and Lloyd,</bib_authors>
+			<bib_journal>Journal of applied logic</bib_journal>
+			<bib_volume>7-2</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>218-238</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Doi">doi:10.1016/j.physletb.2003.10.071</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.11.07</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ng1992</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic logic programming</bib_title>
+			<bib_authors>Ng, and Subrahmanian,</bib_authors>
+			<bib_journal>Information and computation</bib_journal>
+			<bib_volume>101</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>150-201</bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Nguyen199720002006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A first course in fuzzy logic (1st, 2nd, and 3rd edition)</bib_title>
+			<bib_authors>Nguyen, and Walker,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997, 2000, 2006</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Chapman &amp; Hall /CRC</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.10.19</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Nienhuys-Cheng1997</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Foundations of inductive logic programming</bib_title>
+			<bib_authors>Nienhuys-Cheng, S. H. and De Wolf, R.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Niepert2016</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Learning Convolutional Neural Networks for Graphs</bib_title>
+			<bib_authors>Niepert, Mathias and Ahmed, Mohamed and Kutzkov, Konstantin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Bibsource">dblp computer science bibliography, http://dblp.org</bib_extra>
+			<bib_extra key="Biburl">http://dblp.uni-trier.de/rec/bib/journals/corr/NiepertAK16</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">Wed, 07 Jun 2017 14:40:09 +0200</bib_extra>
+			<bib_extra key="Url">http://arxiv.org/abs/1605.05273</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Nilsson1986</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic logic</bib_title>
+			<bib_authors>Nilsson,</bib_authors>
+			<bib_journal>Artificial Intelligence</bib_journal>
+			<bib_volume>28</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>71-87</bib_pages>
+			<bib_year>1986</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Novak1999</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mathematical principles of fuzzy logic</bib_title>
+			<bib_authors>Novak, and Perfilieva, and Mockor,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Kluwer Academic Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.10.19</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ostrovskii2013</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Metric embeddings: bi-Lipschitz and coarse embeddings into Banach spaces</bib_title>
+			<bib_authors>Ostrovskii,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">De Gruyter</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2015.06.08</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Page1999</key>
+			<notes></notes>
+			<bib_type>TechReport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The PageRank Citation Ranking: Bringing Order to the Web</bib_title>
+			<bib_authors>Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Stanford InfoLab</bib_extra>
+			<bib_extra key="Timestamp">2016.09.14</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Parsons2001</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Qualitative methods for reasoning under uncertainty</bib_title>
+			<bib_authors>Parsons,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Partee1997</key>
+			<notes></notes>
+			<bib_type>Inbook</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Handbook of logic and language</bib_title>
+			<bib_authors>Partee, and Hendriks,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>5-92</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Chapter">Montague Grammar</bib_extra>
+			<bib_extra key="Editor">Benthem, van and Meulen, ter</bib_extra>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Timestamp">2012.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Pearl2000</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Causality: models, reasoning, and inference</bib_title>
+			<bib_authors>Pearl,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.11.16</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Pearl1988</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic Reasoning in Intelligent Systems - Networks of Plausible Inference</bib_title>
+			<bib_authors>Pearl,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Morgan Kaufmann, California</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Perlis1996</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Conversational Adequacy: Mistakes are the Essence</bib_title>
+			<bib_authors>Perlis, and Purang,</bib_authors>
+			<bib_journal>Int. J. Human-Computer Studies</bib_journal>
+			<bib_volume>48</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>553-575</bib_pages>
+			<bib_year>1996</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Pless2001</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Towards general analysis of recursive probabilistic models</bib_title>
+			<bib_authors>Pless, and Luger,</bib_authors>
+			<bib_journal>Proceedings of conference of uncertainty in aritificial intelligence (San Francisco)</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.11.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Plotkin1994</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Universal algebra, algebraic logic, and databases</bib_title>
+			<bib_authors>Plotkin,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Kluwer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.26</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Pollock2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Thinking about acting</bib_title>
+			<bib_authors>Pollock,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">OUP</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.06.19</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Prehofer1998</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Solving higher-order equations – from logic to programming</bib_title>
+			<bib_authors>Prehofer,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Birkhauser</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.22</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>DeRaedt2004</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic inductive logic programming</bib_title>
+			<bib_authors>Raedt, De and Kersting,</bib_authors>
+			<bib_journal>Lecture notes in computer science</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>19-36</bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>DeRaedt2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Logical and relational learning</bib_title>
+			<bib_authors>Raedt, Luc De</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Read1995</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Thinking about logic – an introduction to the philosophy of logic</bib_title>
+			<bib_authors>Read,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1995</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">OPUS</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.10.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Richardson2006</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Markov logic networks</bib_title>
+			<bib_authors>Richardson, and Domingos,</bib_authors>
+			<bib_journal>Journal of machine learning</bib_journal>
+			<bib_volume>62</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>107-136</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.11.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Robinson1965</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A machine-oriented logic based on the resolution principle</bib_title>
+			<bib_authors>Robinson,</bib_authors>
+			<bib_journal>Communications of the ACM</bib_journal>
+			<bib_volume>5</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>23-41</bib_pages>
+			<bib_year>1965</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Rong2014</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Word2vec parameter learning explained</bib_title>
+			<bib_authors>Rong,</bib_authors>
+			<bib_journal>arXiv</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2015.07.23</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Russell2003</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Artificial Intelligence - a modern approach</bib_title>
+			<bib_authors>Russell, and Norvig,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Prentice Hall</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.09.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Russell1910</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Principia mathematica</bib_title>
+			<bib_authors>Russell, and Whitehead,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1910</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Cambridge (1910, 1912, 1913)</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.07.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sorensen2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Lectures on the Curry-Howard isomorphism</bib_title>
+			<bib_authors>Sørensen, and Urzyczyn,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2018.02.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sainsbury1986</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Degrees of belief and degrees of truth</bib_title>
+			<bib_authors>Sainsbury,</bib_authors>
+			<bib_journal>Philosophical Papers</bib_journal>
+			<bib_volume>15</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>97-106</bib_pages>
+			<bib_year>1986</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.08.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sato1997</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>PRISM: A Language for Symbolic-Statistical Modeling</bib_title>
+			<bib_authors>Sato, and Kameya,</bib_authors>
+			<bib_journal>IJCAI</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1330-1339</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+			<bib_extra key="Url">http://sato-www.cs.titech.ac.jp/prism/</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Schmid2003</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Inductive synthesis of functional programs</bib_title>
+			<bib_authors>Schmid,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.06.13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Schmidt2010</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Relational mathematics</bib_title>
+			<bib_authors>Schmidt, Gunther</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.09.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sensoy2011</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ontological logic programming</bib_title>
+			<bib_authors>Sensoy, and Mel, de and Vasconcelos, and Norman,</bib_authors>
+			<bib_journal>International conference on web intelligence, mining and semantics</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2012.10.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>sensoy2011</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ontological Logic Programming</bib_title>
+			<bib_authors>Sensoy, Murat and de Mel, Geeth and Vasconcelos, W. and Norman, T.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="BookTitle">In Proceedings of International Conference on Web Intelligence, Mining and Semantics (WIMS11). Sogndal, Norway: ACM</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Shafer1996</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The art of causal conjecture</bib_title>
+			<bib_authors>Shafer,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.11.16</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Shapiro2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Vagueness in Context</bib_title>
+			<bib_authors>Shapiro,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Oxford university press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Shenoy2005</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Modeling Nonlinear Deterministic Relationships in Bayesian Networks</bib_title>
+			<bib_authors>Shenoy, and Cobb,</bib_authors>
+			<bib_journal>Working paper no.310, April 2005, School of Business, Univ of Kansas</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2009.10.15</bib_extra>
+			<bib_extra key="Url">http://web.ku.edu/~pshenoy/Papers/WP310.pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Siegelmann1991</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Turing computability with neural nets</bib_title>
+			<bib_authors>Siegelmann, and Sontag,</bib_authors>
+			<bib_journal>Applied Mathematics Letters, vol 4, p77-80</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1991</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2015.11.19</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Smale1967</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Differentiable dynamical Systems</bib_title>
+			<bib_authors>Smale, Stephen</bib_authors>
+			<bib_journal>Bulletin of the American Mathematical Society</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1967</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2016.09.14</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Smith2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Vagueness and degrees of truth</bib_title>
+			<bib_authors>Smith,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Oxford</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.10.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Smolensky2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The harmonic mind, vol 1: cognitive architecture</bib_title>
+			<bib_authors>Smolensky, and Legendre,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">MIT Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2015.06.08</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Snyder1991</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A proof theory for general unification</bib_title>
+			<bib_authors>Snyder,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1991</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Birkhauser</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.03.22</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Socher2013</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reasoning with neural tensor networks for knowledge base completion</bib_title>
+			<bib_authors>Socher, and Chen, and Manning, and Ng,</bib_authors>
+			<bib_journal>NIPS</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2015.06.08</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sowa2000</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Knowledge representation - logical, philosophical, and computational foundations</bib_title>
+			<bib_authors>Sowa,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Brooks/Cole</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.06.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Stickel1988</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Prolog technology theorem prover: implementation by an extended Prolog compiler</bib_title>
+			<bib_authors>Stickel,</bib_authors>
+			<bib_journal>Journal of Automated Reasoning</bib_journal>
+			<bib_volume>4:4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>353-380</bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.08.22</bib_extra>
+			<bib_extra key="Url">http://www.ai.sri.com/~stickel/pttp.html</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Streicher2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Domain-theoretical foundations of functional programming</bib_title>
+			<bib_authors>Streicher,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">World Scientific</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2011.05.21</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sundgren2006</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Some Second Order Effects on Interval Based Probabilities</bib_title>
+			<bib_authors>Sundgren, and Danielson, and Ekenberg,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>848-853</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="Booktitle">FLAIRS Conference</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Tel2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Chaotic dynamics: an Introduction based on classical mechanics</bib_title>
+			<bib_authors>Tél, Tamás and Gruiz, Márton</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.09.15</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Tadepalli2004</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Relational reinforcement learning: An overview</bib_title>
+			<bib_authors>Tadepalli, P. and Givan, R. and Driessens, K.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1-9</bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Booktitle">Proceedings of the ICML</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Tarski1985</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Cylindric algebras, Part II</bib_title>
+			<bib_authors>Tarski, and Henkin, and Monk,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1985</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2013.03.09</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Tarski1971</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Cylindric algebras, Part I</bib_title>
+			<bib_authors>Tarski, and Henkin, and Monk,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1971</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2013.03.09</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Thornton2000</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Truth from trash –- how learning makes sense</bib_title>
+			<bib_authors>Thornton,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Thornton1996</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Parity: the problem that won’t go away</bib_title>
+			<bib_authors>Thornton,</bib_authors>
+			<bib_journal>McCalla (Ed.), Proceeding of AI-96 (Toronto, Canada)</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>362-374</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.08.13</bib_extra>
+			<bib_extra key="Url">http://www.cogs.susx.ac.uk/users/christ/papers/parity-here-to-stay.pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Walley1991</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Statistical reasoning with imprecise probabilities</bib_title>
+			<bib_authors>Walley,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1991</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Chapman and Hall</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.14</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wang2013</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Non-axiomatic logic: a model for intelligent reasoning</bib_title>
+			<bib_authors>Wang,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">World Scientific (in press)</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2013.03.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wang2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Rigid Flexibility - The Logic of Intelligence</bib_title>
+			<bib_authors>Wang,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Springer applied logic series</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wang1994</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reference Classes and Multiple Inheritances</bib_title>
+			<bib_authors>Wang,</bib_authors>
+			<bib_journal>Technical Report No. 91, The Center for Research on Concepts and Cognition</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.08.22</bib_extra>
+			<bib_extra key="Url">http://www.cogsci.indiana.edu/farg/peiwang/papers.html#reference_classes</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wellman1992</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>From knowledge bases to decision models</bib_title>
+			<bib_authors>Wellman, and Breese, and Goldman,</bib_authors>
+			<bib_journal>Knowledge Engineering Review</bib_journal>
+			<bib_volume>7</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>35-53</bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Weston2015</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Memory networks</bib_title>
+			<bib_authors>Weston, and Chopra, and Bordes,</bib_authors>
+			<bib_journal>ICLR (also arXiv)</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2015.07.27</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Williamson2005</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Bayesian nets and causality</bib_title>
+			<bib_authors>Williamson,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Oxford</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.11.16</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Williamson1994</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Vagueness</bib_title>
+			<bib_authors>Williamson,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">London: Routledge</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wrobel1994</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Concept formation and knowledge revision</bib_title>
+			<bib_authors>Wrobel,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Kluwer academic press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.21</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Yaacov2008</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Model theory for metric structures</bib_title>
+			<bib_authors>Yaacov, Itaï Ben and Berenstein, Alexander and Henson, C.  Ward and Usvyatsov, Alexander</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="BookTitle">Model theory with applications to algebra and analysis, vol 2</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Cambridge</bib_extra>
+			<bib_extra key="Timestamp">2016.10.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>YanGenifer</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Genifer – an artificial general intelligence</bib_title>
+			<bib_authors>Yan,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">http://launchpad.net/agi-book (currently electronic version only)</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2017.02.02</bib_extra>
+			<bib_extra key="Url">http://launchpad.net/agi-book</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>YanBridge</key>
+			<notes></notes>
+			<bib_type>Unpublished</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A bridge between logic and neural</bib_title>
+			<bib_authors>Yan, King Yin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Note">(to be submitted AGI-2017)</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2017.01.21</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>YanILPtutorial</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>ILP tutorial https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/genifer/Genifer - induction (30 July 2012).pdf</bib_title>
+			<bib_authors>Yan, King Yin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2017.01.20</bib_extra>
+			<bib_extra key="Url">https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/genifer/Genifer%20-%20induction%20(30%20July%202012).pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>YanMemory</key>
+			<notes></notes>
+			<bib_type>Unpublished</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The structure of memory</bib_title>
+			<bib_authors>Yan, King Yin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Note">(to be submitted AGI-2017)</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2017.01.21</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>YanRLtutorialCN</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reinforcement learning tutorial https://drive.google.com/file/d/0Bx3_S9SExak-SG4tUy1fSkVMSDA/view</bib_title>
+			<bib_authors>Yan, King Yin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2017.02.02</bib_extra>
+			<bib_extra key="Url">https://drive.google.com/file/d/0Bx3\_S9SExak-SG4tUy1fSkVMSDA/view</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>YanRLtutorialEN</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reinforcement learning tutorial https://drive.google.com/file/d/0Bx3_S9SExak-X29uazI1YnhoNFU/view</bib_title>
+			<bib_authors>Yan, King Yin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2017.02.02</bib_extra>
+			<bib_extra key="Url">https://drive.google.com/file/d/0Bx3\_S9SExak-X29uazI1YnhoNFU/view?usp=sharing</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>YanLabyrinth</key>
+			<notes></notes>
+			<bib_type>Unpublished</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Wandering in the Labyrinth of Thinking – a cognitive architecture combining reinforcement learning and deep learning</bib_title>
+			<bib_authors>Yan, King Yin and Pinto, Juan Carlos Kuri and Goertzel, Ben</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Note">(to be submitted AGI-2017)</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2017.02.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Yan2012</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fuzzy-probabilistic logic for common sense reasoning</bib_title>
+			<bib_authors>Yan, King-Yin</bib_authors>
+			<bib_journal>Artificial general intelligence 5th international conference, LNCS 7716</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2016.10.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zabell1982</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>WE Johnson’s ’Sufficientness’ Postulate</bib_title>
+			<bib_authors>Zabell,</bib_authors>
+			<bib_journal>The annals of statistics</bib_journal>
+			<bib_volume>10:4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1982</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zadeh1996</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>“Fuzzy logic = computing with words”</bib_title>
+			<bib_authors>Zadeh,</bib_authors>
+			<bib_journal>IEEE Transactions on Fuzzy Systems</bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>103-111</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.12</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zadeh1965</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fuzzy sets</bib_title>
+			<bib_authors>Zadeh,</bib_authors>
+			<bib_journal>Information and control</bib_journal>
+			<bib_volume>8</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>338-353</bib_pages>
+			<bib_year>1965</bib_year>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Timestamp">2008.07.14</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zelenyuk2011</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ultrafilters and topologies on groups</bib_title>
+			<bib_authors>Zelenyuk, Yevhen</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">de Gruyter</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.10.02</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bonzon2000</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Formal aspects of context</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Editor">Bonzon, and Cavalcanti, and Nossum,</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Kluwer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.06.19</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Cohen2005</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Handbook of categorization in cognitive science</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Editor">Cohen, and Lefebvre,</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Getoor2007</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Introduction to statistical relational learning</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Editor">Getoor, and Taskar,</bib_extra>
+			<bib_extra key="Publisher">MIT Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Graff2002</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Vagueness</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Editor">Graff, and Williamson,</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Ashgate, Dartmouth</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hammer2007</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Perspectives of neural-symbolic integration</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Editor">Hammer, and Hitzler,</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2009.06.20</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Magnani2002</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Logical and computational aspects of model-based reasoning</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Editor">Magnani, and Nersessian, and Pizzi,</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Kluwer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.10.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Magnani1999</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Model-based reasoning in scientific Discovery</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Editor">Magnani, and Nersessian, and Thagard,</bib_extra>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Publisher">Kluwer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2016.10.05</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Margolis1999</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Concepts - core readings</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Editor">Margolis, and Laurence,</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">MIT press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2008.08.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Muggleton1992</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Inductive Logic Programming. Number 38 in APIC series</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="Editor">Muggleton,</bib_extra>
+			<bib_extra key="Publisher">Academic Press, London</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Nakamura1993</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Categorization by humans and machines</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Editor">Nakamura, and Medin, and Taraban,</bib_extra>
+			<bib_extra key="Owner">YKY</bib_extra>
+			<bib_extra key="Publisher">Academic Press</bib_extra>
+			<bib_extra key="Series">The psychology of learning and motivation, no 29</bib_extra>
+			<bib_extra key="Timestamp">2008.08.25</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Raedt2008</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Probabilistic Inductive Logic Programming. LNCS (LNAI), vol. 4911</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Editor">Raedt, De and Frasconi, and Kersting, and Muggleton,</bib_extra>
+			<bib_extra key="Publisher">Springer, Heidelberg</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Werning2012</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Oxford handbook of compositionality</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Editor">Werning, and Hinzen, and Machery,</bib_extra>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Publisher">Oxford</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Timestamp">2012.09.01</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>OLPwebsite2013</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>OLP web site: olp-api.sourceforge.net</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Owner">Administrator</bib_extra>
+			<bib_extra key="Timestamp">2013.03.09</bib_extra>
+			<bib_extra key="Url">olp-api.sourceforge.net</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>wikiDeepDreaming</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Wikipedia: Deep Dreaming (https://en.wikipedia.org/wiki/Deepdreaming)</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2016.12.04</bib_extra>
+			<bib_extra key="Url">https://en.wikipedia.org/wiki/Deepdreaming</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>wikiUniversalApprox</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Wikipedia: Universal Approximation Theorem (https://en.wikipedia.org/wiki/Universal_approximation_theorem)</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Owner">yky</bib_extra>
+			<bib_extra key="Timestamp">2017.01.15</bib_extra>
+			<bib_extra key="Url">https://en.wikipedia.org/wiki/Universal_approximation_theorem</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Rydeheard1988</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Computational category theory</bib_title>
+			<bib_authors>Rydeheard, and Burstall,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Awodey2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Category theory</bib_title>
+			<bib_authors>Awodey,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Simmons2011</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An introduction to category theory</bib_title>
+			<bib_authors>Simmons,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Miller2005</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Combinatorial commutative algebra</bib_title>
+			<bib_authors>Miller, and Sturmfels,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Publisher">GTM 227</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Brown2013</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Discrete structures and their interactions</bib_title>
+			<bib_authors>Brown,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Publisher">CRC Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Goldblatt2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Topoi –- the categorical analysis of logic</bib_title>
+			<bib_authors>Goldblatt,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1984, 2006</bib_year>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Caramello2018</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Theories, sites, toposes –- relating and studying mathematical theories through topos-theoretic ‘bridges’</bib_title>
+			<bib_authors>Caramello,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2018</bib_year>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Vickers1989</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Topology via logic</bib_title>
+			<bib_authors>Vickers,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1989</bib_year>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Goubault-Larrecq2013</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Non-Hausdorff topology and domain theory –- selected topics in point-set topology</bib_title>
+			<bib_authors>Goubault-Larrecq,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Publisher">Cambridge new mathematical monographs 22</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Battaglia2018</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Relational inductive bias, deep learning, and graph networks</bib_title>
+			<bib_authors>Battaglia, and others,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2018</bib_year>
+			<bib_extra key="Url">https://arxiv.org/pdf/1806.01261.pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Grilliette2017</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Functorial Link between Quivers and Hypergraphs</bib_title>
+			<bib_authors>Grilliette,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2017</bib_year>
+			<bib_extra key="__markedentry">[yky:]</bib_extra>
+			<bib_extra key="Month">07</bib_extra>
+			<bib_extra key="Url">https://www.researchgate.net/publication/305787097_A_Functorial_Link_between_Quivers_and_Hypergraphs</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bertsekas2013</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Abstract dynamic programming</bib_title>
+			<bib_authors>Bertsekas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+		</doc>
+	</doclist>
+</library>

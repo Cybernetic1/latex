@@ -50,11 +50,12 @@
          {#1}}
       {#1}}
 
-\setcounter{secnumdepth}{0}		% no section numbers
+\setcounter{secnumdepth}{1}		% no section numbers
 
 \titleformat{\section}[hang]{\bfseries\Large\color{blue}}{\thesection \hspace{10pt}}{0pt}{}
 \titleformat{\subsection}[hang]{\bfseries\large\color{blue}}{\thesubsection \hspace{5pt}}{0pt}{}
 
+\newcommand{\vect}[1]{\boldsymbol{#1}}
 \newcommand{\book}[1]{$\NewSym[0.4]{../book-icon.png} \quad$ \parbox{0.9\textwidth}{\footnotesize #1}}
 \newcommand{\code}[1]{{\footnotesize{\ttfamily #1}}}
 \newcommand{\tab}{\hspace*{2cm}}

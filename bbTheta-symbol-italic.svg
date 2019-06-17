@@ -17,7 +17,7 @@
    inkscape:export-filename="/home/yky/latex/bbTheta.png"
    inkscape:export-xdpi="960"
    inkscape:export-ydpi="960"
-   sodipodi:docname="bbTheta-symbol.svg">
+   sodipodi:docname="bbTheta-symbol-italic.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="30.05"
-     inkscape:cx="10.291054"
-     inkscape:cy="7.3073431"
+     inkscape:zoom="45.550671"
+     inkscape:cx="6.9850003"
+     inkscape:cy="9.9695728"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,8 +42,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false"
-     inkscape:snap-global="false" />
+     showguides="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,21 +77,25 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3349" />
     <g
-       aria-label="ϴ"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       id="text26">
+       id="g4310"
+       transform="matrix(0.90234375,0,0,0.86029918,24.675347,66.134407)">
+      <g
+         id="flowRoot4192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(266.65305,497.37394)">
+        <path
+           sodipodi:nodetypes="sssssscsscssccccc"
+           inkscape:connector-curvature="0"
+           id="path4242"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+           d="m -1.1775,-18.753675 c 0,-3.28 -2.04,-5.22 -4.56,-5.22 -4.1,0 -8.24,4.74 -8.24,9.38 0,3.02 1.88,5.1600001 4.6,5.1600001 4,0 8.2,-4.5000001 8.2,-9.3200001 z m -1.62,-0.72 c 0,1.44 -0.56,4.52 -2.02,6.66 -1.34,1.96 -3.04,2.9200001 -4.44,2.9200001 -1.84,0 -3.08,-1.5800001 -3.08,-4.0200001 0,-1.2 0.42,-4.14 2,-6.6 1.08,-1.68 2.82,-3.02 4.48,-3.02 1.9,0 3.06,1.7 3.06,4.06 z m 0.064544,2.220589 -6.1222719,0 -0.36,1.049508 6.1222719,0 z" />
+      </g>
       <path
-         d="m 252.63374,479.63913 c 0,-4.15625 1.99002,-6.23437 5.97006,-6.23437 1.96875,0 3.45746,0.52864 4.46614,1.58593 1.00868,1.05122 1.51302,2.6007 1.51302,4.64844 0,2.07813 -0.51042,3.64887 -1.53125,4.71224 -1.02083,1.06337 -2.50347,1.59505 -4.44791,1.59505 -1.93837,0 -3.41798,-0.52865 -4.43881,-1.58594 -1.02083,-1.06337 -1.53125,-2.63715 -1.53125,-4.72135 z m 3.89408,-0.54685 h 6.7068 c -0.0547,-1.72569 -0.64611,-2.9835 -1.30846,-3.77343 -0.65625,-0.78993 -1.98556,-1.1849 -3.32236,-1.1849 -1.32465,0 -2.65092,0.39193 -3.31325,1.17578 -0.66233,0.77778 -1.25377,2.03863 -1.30846,3.78255 l -0.009,0.76563 c 0.0121,1.85937 0.57928,3.22048 1.23555,4.08333 0.66232,0.85677 2.01593,1.28516 3.39528,1.28516 1.36719,0 2.71168,-0.42231 3.36793,-1.26693 0.66233,-0.85069 1.24162,-2.21788 1.272,-4.10156 h -6.71603"
-         style="font-size:18.66666603px"
-         id="path43"
+         sodipodi:nodetypes="cscccsc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sscssscscccsccccsccc" />
+         id="path4242-7"
+         d="m 259.41698,487.18218 c -1.84,0 -1.76397,-1.33314 -1.85235,-3.33119 -0.053,-1.19883 0.86286,-5.33195 2.00536,-6.97945 1.08,-1.68 1.57896,-2.46869 3.23896,-2.65619 l 0.0731,-0.36187 c -4.1,0 -5.57226,4.257 -6.2999,8.40772 -0.52147,2.97465 -0.19275,5.38098 2.52731,5.38098"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
-    <path
-       sodipodi:nodetypes="czssccsc"
-       inkscape:connector-curvature="0"
-       id="path4242-7-3"
-       d="m 259.5064,485.2362 c -1.66031,0 -2.01595,-1.40093 -2.21405,-2.5996 -0.1981,-1.19867 -0.0958,-1.94594 -0.12673,-3.18282 -0.0377,-1.49981 0.25723,-2.72747 0.42702,-3.22093 0.24335,-0.70723 0.56511,-1.99402 2.43694,-1.95233 l 0.16621,-0.51099 c -3.69961,0 -4.04997,3.66229 -3.94754,7.23315 0.0734,2.55909 0.61038,4.62926 3.06481,4.62926"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88107073px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

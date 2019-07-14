@@ -12,8 +12,8 @@
 \usepackage{enumitem}	% for \itemize custom labels
 \usepackage{turnstile}	% longer turnstiles
 \usepackage[sf,bf,big,raggedright,compact]{titlesec}	% change section color to blue
-\usepackage[backend=biber,bibstyle=authoryear,citestyle=../authoryearbrack]{biblatex}
-\bibliography{../AGI-book}
+%\usepackage[backend=biber,bibstyle=authoryear,citestyle=../authoryearbrack]{biblatex}
+%\bibliography{../AGI-book}
 
 \newtheorem{theorem}{Theorem}
 
@@ -41,14 +41,14 @@
 \setlength{\parindent}{0em}   % em = width of capital M
 
 % Fix spilling of titles in bibliography:
-\DeclareFieldFormat*{title}{#1}
-
-\DeclareFieldFormat*{titlecase}{%
-    \ifdef{\currentfield}
-      {\ifcurrentfield{title}
-         {\usefield{\uline}{\currentfield}}%
-         {#1}}
-      {#1}}
+%\DeclareFieldFormat*{title}{#1}
+%
+%\DeclareFieldFormat*{titlecase}{%
+%    \ifdef{\currentfield}
+%      {\ifcurrentfield{title}
+%         {\usefield{\uline}{\currentfield}}%
+%         {#1}}
+%      {#1}}
 
 \setcounter{secnumdepth}{2}		% no section numbers
 

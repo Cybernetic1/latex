@@ -1,3 +1,7 @@
 convert -density 300 FILE.pdf page_%02d.png
 
 convert -background white -alpha remove -trim page_??.png img_%02d.png
+
+***** if ImageMagick throws authorization error: 
+sudo nano /etc/ImageMagick-6/policy.xml
+     change PDF rights from "none" to "read|write"

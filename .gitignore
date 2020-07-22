@@ -12,6 +12,10 @@
 *.out
 *.toc
 
+## Don't know what these are -- added by YKY
+*.stc?
+*.stc??
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*

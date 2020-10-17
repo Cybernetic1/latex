@@ -1,4 +1,4 @@
-\documentclass[17pt, orivec]{extarticle} % 12pt, 14pt, 17pt, 20pt
+\documentclass[17pt, orivec]{extarticle}  % 12pt, 14pt, 17pt, 20pt
 \usepackage{amsmath}
 \usepackage{amssymb}    % for \rightsquigarrow
 \usepackage{wasysym}	% for frown face
@@ -18,24 +18,12 @@
 \newtheorem{theorem}{Theorem}
 
 \ifdefined\chinchin
-	\newcommand{\cc}[2]{#1}
-	\usepackage[CJKspace]{xeCJK}
-	%\setCJKmainfont[BoldFont=SimHei,ItalicFont=AR PL KaitiM GB]{Alibaba PuHuiTi}
-	\setCJKmainfont[ItalicFont=AR PL KaitiM GB]{Alibaba PuHuiTi}
-	\setmainfont[ItalicFont=Latin Modern Roman Slanted]{Alibaba Sans:style=Light}
+\usepackage[CJKspace]{xeCJK}
+\setCJKmainfont[BoldFont=SimHei,ItalicFont=AR PL KaitiM GB]{SimSun}
+\newcommand{\cc}[2]{#1}
 \else
-	\newcommand{\cc}[2]{#2}
-	\setmainfont[ItalicFont=Latin Modern Roman Slanted]{Alibaba Sans:style=Light}
-	%\renewcommand{\baselinestretch}{0.8} 
+\newcommand{\cc}[2]{#2}
 \fi
-
-%\ifdefined\chinchin
-%\newcommand{\cc}[2]{#1}
-%\usepackage[CJKspace]{xeCJK}
-%\setCJKmainfont[BoldFont=SimHei,ItalicFont=AR PL KaitiM GB]{SimSun}
-%\else
-%\newcommand{\cc}[2]{#2}
-%\fi
 
 \setlength{\headheight}{0cm}
 \setlength{\hoffset}{0cm}

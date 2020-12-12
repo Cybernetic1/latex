@@ -21,11 +21,11 @@
 	\newcommand{\cc}[2]{#1}
 	\usepackage[CJKspace]{xeCJK}
 	%\setCJKmainfont[BoldFont=SimHei,ItalicFont=AR PL KaitiM GB]{Alibaba PuHuiTi}
-	\setCJKmainfont[ItalicFont=AR PL KaitiM GB]{Alibaba PuHuiTi}
-	\setmainfont[ItalicFont=Latin Modern Roman Slanted]{Alibaba Sans:style=Light}
+	\setCJKmainfont[BoldFont=Alibaba PuHuiTi Medium, ItalicFont=AR PL KaitiM GB]{Alibaba PuHuiTi Light}
+	% \setmainfont[ItalicFont=Latin Modern Roman Slanted]{Alibaba Sans:style=Light}
 \else
 	\newcommand{\cc}[2]{#2}
-	\setmainfont[ItalicFont=Latin Modern Roman Slanted]{Alibaba Sans:style=Light}
+	% \setmainfont[ItalicFont=Latin Modern Roman Slanted]{Alibaba Sans:style=Light}
 	%\renewcommand{\baselinestretch}{0.8} 
 \fi
 
@@ -64,10 +64,12 @@
 
 \setcounter{secnumdepth}{2}		% no section numbers
 
-\titleformat{\section}[hang]{\bfseries\Large\color{blue}}{\thesection \hspace{10pt}}{0pt}{}
-\titleformat{\subsection}[hang]{\bfseries\large\color{blue}}{\thesubsection \hspace{5pt}}{0pt}{}
+\titleformat{\section}[hang]{\bfseries\Large\color{blue}}{\thesection \hspace{20pt}}{0pt}{}
+\titleformat{\subsection}[hang]{\bfseries\large\color{blue}}{\thesubsection \hspace{10pt}}{0pt}{}
+\titleformat{\subsubsection}[hang]{\bfseries\color{blue}}{}{0pt}{}
 
 \renewcommand{\labelitemi}{$\textbullet$}
+\itemsep0em
 
 \newcommand{\vect}[1]{\boldsymbol{#1}}
 \newcommand{\book}[1]{$\NewSym[0.4]{../book-icon.png} \quad$ \parbox{0.9\textwidth}{\footnotesize #1}}
@@ -92,4 +94,4 @@
 \interfootnotelinepenalty=10000
 
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{2.8ex plus0.8ex minus0.8ex}
+\setlength{\parskip}{1.8ex plus0.8ex minus0.8ex}

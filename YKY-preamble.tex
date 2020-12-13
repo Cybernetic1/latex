@@ -21,7 +21,7 @@
 	\newcommand{\cc}[2]{#1}
 	\usepackage[CJKspace]{xeCJK}
 	%\setCJKmainfont[BoldFont=SimHei,ItalicFont=AR PL KaitiM GB]{Alibaba PuHuiTi}
-	\setCJKmainfont[BoldFont=Alibaba PuHuiTi Medium, ItalicFont=AR PL KaitiM GB]{Alibaba PuHuiTi Light}
+	\setCJKmainfont[BoldFont=Alibaba PuHuiTi, ItalicFont=AR PL KaitiM GB]{Alibaba PuHuiTi Light}
 	% \setmainfont[ItalicFont=Latin Modern Roman Slanted]{Alibaba Sans:style=Light}
 \else
 	\newcommand{\cc}[2]{#2}
@@ -71,6 +71,7 @@
 \renewcommand{\labelitemi}{$\textbullet$}
 \itemsep0em
 
+\let\emptyset\varnothing		% round empty set 
 \newcommand{\vect}[1]{\boldsymbol{#1}}
 \newcommand{\book}[1]{$\NewSym[0.4]{../book-icon.png} \quad$ \parbox{0.9\textwidth}{\footnotesize #1}}
 \newcommand{\code}[1]{{\footnotesize{\ttfamily #1}}}

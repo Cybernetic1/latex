@@ -91,7 +91,11 @@
       $\color{white}\genfrac{}{}{1.5pt}0{\hphantom{#1}}{\hphantom{#2}}$\cr%
       $\color{white}\genfrac{}{}{1pt}0{\color{black}#1}{\color{black}#2}$}}
 
-\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+% \renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\usepackage{perpage}
+\MakePerPage{footnote}
+\renewcommand{\thefootnote}{\ifcase\value{footnote}\or{*}
+	\or{$\dagger$}\or{**}\or{$\ddagger$}\fi}
 \interfootnotelinepenalty=10000
 
 \setlength{\parindent}{0pt}

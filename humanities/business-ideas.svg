@@ -243,13 +243,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="500.4099"
+     inkscape:cx="438.4099"
      inkscape:cy="697.31697"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1059"
+     inkscape:window-width="1080"
+     inkscape:window-height="1899"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1292,15 +1292,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.252003"
-       y="149.35165"
+       x="15.664502"
+       y="141.41426"
        id="text299-9-15"
        inkscape:export-xdpi="384"
        inkscape:export-ydpi="384"><tspan
          sodipodi:role="line"
          id="tspan297-1-5"
-         x="17.252003"
-         y="149.35165"
+         x="15.664502"
+         y="141.41426"
          style="stroke-width:0.26458332">language model</tspan></text>
     <text
        xml:space="preserve"
@@ -1316,7 +1316,7 @@
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="g7188"
-       transform="matrix(0.03175,0,0,0.03175,24.195453,150.89957)"
+       transform="matrix(0.03175,0,0,0.03175,22.607952,142.96202)"
        inkscape:export-xdpi="384"
        inkscape:export-ydpi="384">
       <g

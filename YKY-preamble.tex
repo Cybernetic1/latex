@@ -68,8 +68,9 @@
 \titleformat{\subsection}[hang]{\bfseries\large\color{blue}}{\thesubsection \hspace{10pt}}{0pt}{}
 \titleformat{\subsubsection}[hang]{\bfseries\color{blue}}{}{0pt}{}
 
-\renewcommand{\labelitemi}{$\textbullet$}
 \itemsep0em
+\setlist[itemize]{noitemsep, topsep=-5pt, partopsep=-5pt}
+\renewcommand{\labelitemi}{$\textbullet$}
 
 \let\varzero\emptyset
 \let\emptyset\varnothing		% round empty set 

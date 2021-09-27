@@ -1,0 +1,85 @@
+\documentclass[20pt, orivec]{extarticle}  % 12pt, 14pt, 17pt, 20pt
+\usepackage{amsmath}
+\usepackage{amssymb}    % for \rightsquigarrow
+\usepackage{wasysym}	% for frown face
+\usepackage{mathrsfs} 	% for \mathscr
+\usepackage{stmaryrd}
+\usepackage[most]{tcolorbox}
+\usepackage{ulem}
+\usepackage{tikz-cd}		% commutative diagrams
+\usepackage{tikz}
+\usepackage{amsthm}
+\usepackage{enumitem}	% for \itemize custom labels
+\usepackage{turnstile}	% longer turnstiles
+\usepackage[sf,bf,big,raggedright,compact]{titlesec}	% change section color to blue
+% \usepackage[backend=biber,bibstyle=authoryear,citestyle=../authoryearbrack]{biblatex}
+% \bibliography{../AGI-book}
+
+\newtheorem{theorem}{Theorem}
+
+\ifdefined\chinchin
+\usepackage[CJKspace]{xeCJK}
+\setCJKmainfont[BoldFont=Alibaba-PuHuiTi-Heavy.ttf,
+ItalicFont=gkai00mp.ttf]{Alibaba-PuHuiTi-Regular.ttf}
+\setmainfont[BoldFont=AlibabaSans-Heavy.otf]{AlibabaSans-Medium.otf}
+\newcommand{\cc}[2]{#1}
+\else
+\newcommand{\cc}[2]{#2}
+\fi
+
+\setlength{\headheight}{0cm}
+\setlength{\hoffset}{0cm}
+\setlength{\topmargin}{-2cm}
+\setlength{\oddsidemargin}{-2cm}
+\setlength{\evensidemargin}{-2cm}
+\setlength{\textwidth}{20cm}
+\setlength{\textheight}{26cm}
+\setlength{\headsep}{0cm}
+\setlength{\topskip}{0cm}
+\setlength{\footskip}{0.9cm}  % between bottom of page and page number
+\setlength{\floatsep}{0cm}
+\setlength{\textfloatsep}{0.6cm}
+\setlength{\intextsep}{0.5cm}
+\setlength{\parindent}{0em}   % em = width of capital M
+
+% Fix spilling of titles in bibliography:
+%\DeclareFieldFormat*{title}{#1}
+%
+%\DeclareFieldFormat*{titlecase}{%
+%    \ifdef{\currentfield}
+%      {\ifcurrentfield{title}
+%         {\usefield{\uline}{\currentfield}}%
+%         {#1}}
+%      {#1}}
+
+\setcounter{secnumdepth}{2}		% no section numbers
+
+\titleformat{\section}[hang]{\bfseries\Large\color{blue}}{\thesection. \hspace{10pt}}{0pt}{}
+\titleformat{\subsection}[hang]{\bfseries\large\color{blue}}{\thesubsection. \hspace{5pt}}{0pt}{}
+
+\renewcommand{\labelitemi}{$\textbullet$}
+
+\newcommand{\vect}[1]{\boldsymbol{#1}}
+\newcommand{\book}[1]{$\NewSym[0.4]{../book-icon.png} \quad$ \parbox{0.9\textwidth}{\footnotesize #1}}
+\newcommand{\code}[1]{{\footnotesize{\ttfamily #1}}}
+\newcommand{\tab}{\hspace*{2cm}}
+\newcommand{\powerset}{\raisebox{.15\baselineskip}{\Large\ensuremath{\wp}}}
+\newcommand{\Chi}{\raisebox{2.5pt}{$\chi$}}
+\newcommand*\KB{\vcenter{\hbox{\includegraphics{../KB-symbol.png}}}}
+\newcommand*\NewSym[2][0.5]{\vcenter{\hbox{\includegraphics[scale=#1]{#2}}}}
+\newcommand*\sigmoid{\vcenter{\hbox{\includegraphics{../sigmoid3.png}}}}
+\newcommand{\smbox}[1]{\boxed{\footnotesize{\mbox{#1}}}}
+
+\newcommand{\tikzmark}[1]{\tikz[overlay,remember picture] \node (#1) {};}
+
+\newcommand{\Dfrac}[2]{%
+\ooalign{%
+      $\genfrac{}{}{2.9pt}0{\hphantom{#1}}{\hphantom{#2}}$\cr%
+      $\color{white}\genfrac{}{}{1.5pt}0{\hphantom{#1}}{\hphantom{#2}}$\cr%
+      $\color{white}\genfrac{}{}{1pt}0{\color{black}#1}{\color{black}#2}$}}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\interfootnotelinepenalty=10000
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2.8ex plus0.8ex minus0.8ex}

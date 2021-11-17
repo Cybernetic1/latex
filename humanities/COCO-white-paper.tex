@@ -11,6 +11,7 @@
 \usepackage{enumitem}	% for \itemize custom labels
 \usepackage{turnstile}	% longer turnstiles
 
+\usepackage{hyperref}
 \usepackage{minitoc}
 
 \usepackage[sf,bf,big,raggedright,compact]{titlesec}	% change section color to blue
@@ -59,7 +60,9 @@
 \addtolength{\evensidemargin}{-1in}
 \addtolength{\textwidth}{2in}
 
-\title{\color{blue} COCO white paper}
+\title{$\hbox{\includegraphics[scale=2]{COCO-logo.png}}$ \\
+	\vspace*{0.5em}
+	\color{blue} COCO white paper}
 % \author{\cc{甄景贤}{YKY}}
 
 \begin{document}
@@ -69,30 +72,30 @@
 \maketitle
 
 \begin{abstract}
-COCO is a decentralized, autonomous, anonymous, open-source, for-profit, platform for online collaborative projects based on virtual shares.
+COCO is a decentralized, autonomous, anonymous / named, open-source, for-profit, platform for online collaborative projects based on virtual shares.
 \end{abstract}
 
 \dosecttoc
 \tableofcontents
 
 \secttoc
-\section{\cc{問題的背景}{The problem's context}}
+\section{\cc{問題的背景}{Background of the problem}}
 
 \begin{itemize}
 	\item \cc{我是一个从小时候（80年代初）开始玩电脑的人，亲身经历了 programmer / hacker 文化的演变过程}
-	{}
+	{I first got in touch with computers in the early 1980's, witnessed the growth and change of the programmer / hacker culture}
 	
 	\item \cc{写程式是一件很有趣的，creative 的过程}
-	{}
+	{Writing code is a fascinating, creative process}
 	
 	\item \cc{但后来出现了 Windows 的 收费／闭源 和 Linux 免费／开源 的对立}
-	{}
+	{Then came the split between proprietary Windows versus open-source Linux}
 	
 	\item \cc{Open source 软件的 \textbf{奖励机制} 一直很有问题，开发者基本上抱著「无偿奉献」的心态，很难获得和付出成比例的回报}
-	{}
+	{From the beginnning, open source has lacked a good \textbf{reward mechanism}, developers have to make ``selfless sacrifice'', hard to expect compensation commensurate with their efforts}
 	
 	\item \cc{最近出现了 \textbf{License Zero} 这种 for-profit open-source 软件条款，或许可以改变 open-source 不赚钱的问题}
-	{}
+	{Recently appeared \textbf{License Zero} which is both for-profit and open-source, perhaps can solve the problem of earning money}
 \end{itemize}
 
 \secttoc
@@ -107,7 +110,7 @@ COCO is a decentralized, autonomous, anonymous, open-source, for-profit, platfor
 \end{itemize}
 
 \secttoc
-\section{\cc{实名 vs 匿名}{Real-name vs anonymity}}
+\section{\cc{实名 vs 匿名}{Real-name vs anonymous}}
 
 \begin{itemize}
 	\item All contributors are anonymous by default;  They can use their real names optionally
@@ -157,13 +160,25 @@ We decide to adopt an \textbf{anonymous} policy because:
 \section{Bid-vote combination scheme}
 
 \begin{itemize}
-	\item 我们使用一种混合 bidding 和 voting 的方法，理由是 因為 成員 在 公司 中主動貢獻的 contribs \textbf{不能收回}
+	\item \cc{
+	我们使用一种混合 bidding 和 voting 的方法，理由是 因為 成員 在 公司 中主動貢獻的 contribs \textbf{不能收回}}{
+	We consider a mixed voting-bidding scheme, the rationale being that a member's voluntary contribution cannot be \textbf{retracted}
+	}
+	
+	\item \cc{
+	如果單靠 voting 的話，貢獻者 處於被動}{
+	If we rely solely on voting, contributors are in a passive position
+	}
 
-	\item 如果單靠 voting 的話，貢獻者 處於被動
+	\item \cc{
+	Contributor 會比較熟悉自己貢獻的價值, which s/he claims in the bidding}{
+	Contributors would be more in touch with the value of their own contributions, which s/he claims in the bidding
+	}
 	
-	\item Contributor 會比較熟悉自己貢獻的價值, which s/he claims in the bidding
-	
-	\item Bid 和 vote 之间的 \textbf{差异}，可以表示 estimation 有没有问题，也可以引入某种 penalty
+	\item \cc{
+	Bid 和 vote 之间的 \textbf{差异}，可以表示 estimation 有没有问题，或者有争议}{
+	If there is a big difference between bid and voted values, it may indicate an inaccurate assessment or a disagreement.
+	}
 
 	\item The bidding can be of the form of:
 	\begin{itemize}
@@ -201,6 +216,13 @@ We decide to adopt an \textbf{anonymous} policy because:
 \end{itemize}
 
 \secttoc
+\section{Use of AI or default values to automate voting and reduce ``voting fatique''}
+
+Too much voting events would be detrimental to productivity.  We need to reduce the number of votings and simplify the voting process.  This can be achieved by default values either designed by humans or recommended by AI.
+
+As to AI recommendation of default votes, we need to decide what is the objective for recommending such votes, given the AI's limited intelligence (assuming it does not yet understand users' contents).
+
+\secttoc
 \section{Potential problems and possible solutions}
 
 \begin{itemize}
@@ -213,10 +235,13 @@ We decide to adopt an \textbf{anonymous} policy because:
 	\item How to prevent the possibility of a significant contributor spawning fake contribs?  But if all the votes are visible, the significant contributor may risk losing his reputation (in the project) even if he is anonymous.
 \end{itemize}
 
-其实 自愿 的 voting 和由此建立起的 reputation 有问题，因为 vote 别人不能带来直接的利益，而是一个 management task，传统上由 经理人 做。  但如果要取代这 management 角色，则需要一个相对地完备的机制。   Manager 接受 salary，他的工作是 control tasks, monitor work and give rewards.   问题是这件工作可不可以变成 distributive？  
+\cc{
+其实 自愿 的 voting 和由此建立起的 reputation 有问题，因为 vote 别人不能带来直接的利益，而是一个 management task，传统上由 经理人 做。  但如果要取代这 management 角色，则需要一个相对地完备的机制。   Manager 接受 salary，他的工作是 control tasks, monitor work and give rewards.   问题是这件工作可不可以变成 distributive？  }{
+There may be a problem with basing reputation upon voluntary votes.  Voting for someone does not benefit the voter;  This is a management task traditionally done by managers.  If we want to replace such a role, we need an adequate mechanism.  The traditional manager gets paid, and his responsibility is to control tasks, monitor work, and give rewards.  The question is whether this job can be decentralized?
+}
 
 % \pagebreak
-\footnotesize
+%\footnotesize
 
 \secttoc
 \subsection{\cc{Free-riders 问题}{The problem of free-riders}}
@@ -275,11 +300,24 @@ However, if all votes are openly visible, then statistically we may believe that
 
 Typical scenario:  a sub-group of insiders systematically up-vote themselves and down-vote outsiders.  They share their identities and contribs among themselves, contrary to COCO's anonymity intention.
 
-Solution:  If some users see their contribs are not voted fairly, they may initiate new branches.
+Solution:  If some users see their contribs are not voted fairly, they may file complaints or initiate new branches.
+
+\cc{
+首先在平台上可以查看各人投票是不是公平，如果有系统的偏差是可以侦察出来，这也是 AI 可以帮助到的，总比不记名投票好。}{
+On our platform, we can examine every vote to see if they are fair.  If there is systematic bias it can be detected by people or AI algorithms.  This is definitely an improvement over secret ballot.
+}
+
+\cc{
+而且公开地「结盟」本身违反了不歧视的原则，这是平台的守则不容许的，所以那些人也只能秘密进行，而这样的秘密很难大规模地维系，那已经好像阴谋论了}{
+It is clearly against Coco's policy to form off-platform ``alliances'' to try to influence voting.  Such collusions can only be conducted in secret and would be hard to maintain for large numbers of people.  
+}
+
+\cc{
+其实我们现代世界越来越接受不歧视各种各样的人，我觉得这趋势只会变得更好}{
+	
+}
 
 We may have an additional feature to penalize bad voting?
-
-% \iffalse
 
 \secttoc
 \section{Calculation of shares (draft)}

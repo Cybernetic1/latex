@@ -1,11 +1,11 @@
-\documentclass[12pt, orivec]{article}
+\documentclass[12pt, orivec, fleqn]{article}
 \usepackage[no-math]{fontspec}
 \usepackage{amsmath}
 \usepackage{amssymb}    % for \rightsquigarrow
 \usepackage{wasysym}	% for frown face
 \usepackage[most]{tcolorbox}
 \usepackage{ulem}
-\usepackage{tikz-cd}		% commutative diagrams
+\usepackage{tikz-cd}	% commutative diagrams
 \usepackage{tikz}
 \usepackage{amsthm}
 \usepackage{enumitem}	% for \itemize custom labels
@@ -19,9 +19,9 @@
 \bibliography{../AGI-book}
 
 \ifdefined\chinchin
-	\setromanfont{FreeSans}
+	\setromanfont{AlibabaSans-Light.otf}
 	\usepackage[CJKspace]{xeCJK}
-	\setCJKmainfont[FallBack, BoldFont=Noto Sans CJK SC Medium, ItalicFont=AR PL KaitiM GB]{Noto Sans CJK SC Light}
+	\setCJKmainfont[FallBack, BoldFont=Alibaba-PuHuiTi-Regular.ttf, ItalicFont=Alibaba-PuHuiTi-Medium.ttf]{Alibaba-PuHuiTi-Light.ttf}
 	\newcommand{\cc}[2]{#1}
 \else
 	\setromanfont{Ubuntu}
@@ -156,13 +156,37 @@ We decide to adopt an \textbf{anonymous} policy because:
 	\item After branching, all previous contribs up to that point are included in the new branch.  New contributors decide which branch they want to contribute to
 \end{itemize}
 
-\sectoc
+\secttoc
 \section{Exponential attenuation of votes}
 
-\begin{equation}
-\vcenter{\hbox{\includegraphics[scale=0.7]{exponential-voting.png}}}
-\end{equation}
-
+\begin{itemize}
+	\item 根据经济学统计，财富 服从 log normal（对数正态）分布 \\
+		亦即是说，财富的值「取 log 之后」服从正态分布
+		\begin{equation}
+		\vcenter{\hbox{\includegraphics[scale=0.5]{normal-vs-log-normal.png}}}
+		\end{equation}
+	\item 正态分布 是\textbf{对称}的（高个子与矮个子的比例相同）\\
+		但财富的分布并不对称； \\
+		富人的有钱程度（可能比平均值高出上万倍） \\
+		远远超出穷人的贫穷程度（平均值的十分之一就是赤贫了） \\
+		即财富分布曲线有右侧的长尾
+	\item 正态分布 形成的原因是 很多独立的因素 \textbf{相加} 而成 \\
+		对数正态分布 则是因为 独立因素的 \textbf{相乘} 而形成
+	\item 「成功」和「财富」呈 对数正态分布，\\
+		原因似乎是因为 成功 导致的 positive feedback
+		\footnote{
+			\href{https://www.johndcook.com/blog/2009/09/29/achievement-is-log-normal/}
+			{``Archievement is not Normal''}, John D Cook, 2009. \\
+			\href{https://www.twblogs.net/a/5bc3c5e92b717711c924dd07}
+			{機器學習中正態分佈爲什麼常見？}, 7125messi, 2018.
+		}
+	\item 玛莉莲梦露 在「性感」的尺度上高出平均的 1-2 个标准差  \\
+		但她的粉丝的数目是 $\propto$ 当时能看到她的人口数量
+		\begin{equation}
+		\vcenter{\hbox{\includegraphics[scale=0.5]{exponential-voting.png}}}
+		\end{equation}
+	\item 
+\end{itemize}
 
 \secttoc
 \section{Bid-vote combination scheme}

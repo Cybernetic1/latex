@@ -160,32 +160,63 @@ We decide to adopt an \textbf{anonymous} policy because:
 \section{Exponential attenuation of votes}
 
 \begin{itemize}
-	\item 根据经济学统计，财富 服从 log normal（对数正态）分布 \\
-		亦即是说，财富的值「取 log 之后」服从正态分布
+	\item \cc{
+	根据经济学统计，财富 服从 log normal（对数正态）分布 \\
+		亦即是说，财富的值「取 log 之后」服从正态分布}{
+	According to economic statistics, wealth follows the \textbf{log-normal} distribution \\
+	ie, the logarithm of wealth follows the normal distribution. 	
+	}
 		\begin{equation}
 		\vcenter{\hbox{\includegraphics[scale=0.5]{normal-vs-log-normal.png}}}
 		\end{equation}
-	\item 正态分布 是\textbf{对称}的（高个子与矮个子的比例相同）\\
+	\item \cc{
+	正态分布 是\textbf{对称}的（高个子与矮个子的比例相同）\\
 		但财富的分布并不对称； \\
 		富人的有钱程度（可能比平均值高出上万倍） \\
 		远远超出穷人的贫穷程度（平均值的十分之一就是赤贫了） \\
-		即财富分布曲线有右侧的长尾
-	\item 正态分布 形成的原因是 很多独立的因素 \textbf{相加} 而成 \\
-		对数正态分布 则是因为 独立因素的 \textbf{相乘} 而形成
-	\item 「成功」和「财富」呈 对数正态分布，\\
-		原因似乎是因为 成功 导致的 positive feedback
+		即财富分布曲线有右侧的长尾}{
+	The normal distribution is symmetric (equal proportion of tall and short people) \\
+		But the distribution of wealth is asymmetric; \\
+		The wealthiest people have orders of magnitude more wealth than average. \\
+		The log-normal distribution has a long tail, \\
+		meaning that values far from the mean are fairly common
+	}
+	\item \cc{
+	正态分布 形成的原因是 很多独立的因素 \textbf{相加} 而成 \\
+		\textbf{对数}正态分布 则是因为 独立因素的 \textbf{相乘} 而形成}{
+	The factors that contribute to a normal distribution are \textbf{additive} \\
+	but the factors that contribute to a \textbf{log}-normal distribution are \textbf{multiplicative}
+	}
+	\item \cc{
+	「成功／财富」呈 对数正态分布，\\
+		原因似乎是因为 成功 导致的 positive feedback}{
+	The reason why wealth or ``achievement'' is log-normal distributed \\
+		seems to be due to \textbf{positive feedback}
+	}	
 		\footnote{
 			\href{https://www.johndcook.com/blog/2009/09/29/achievement-is-log-normal/}
-			{``Archievement is not Normal''}, John D Cook, 2009. \\
-			\href{https://www.twblogs.net/a/5bc3c5e92b717711c924dd07}
-			{機器學習中正態分佈爲什麼常見？}, 7125messi, 2018.
+			{``Archievement is not Normal''}, John D Cook, 2009.
 		}
-	\item 玛莉莲梦露 在「性感」的尺度上高出平均的 1-2 个标准差  \\
-		但她的粉丝的数目是 $\propto$ 当时能看到她的人口数量
+	\item \cc{
+	打个比方，玛莉莲梦露 在「性感」的尺度上高出平均的 1-2 个标准差  \\
+		但她的粉丝的数目是 $\propto$ 当时能看到她的人口数量}{
+	Let's say Marilyn Monroe's ``sexy'' measure may be 1-2 standard deviations above average \\
+		but her number of fans is $\propto$ the size of the movie-going population at the time
+	}
 		\begin{equation}
 		\vcenter{\hbox{\includegraphics[scale=0.5]{exponential-voting.png}}}
 		\end{equation}
-	\item 
+	\item \cc{
+	暂时我还未完全理解 财富的 positive feedback 或 exponential 效应，\\
+		它大概跟上面的论述有关}{
+	I have not fully understood how wealth is related to positive feedback and exponentiation \\
+		but I guess the above observations may provide an explanation
+	}
+	\item \cc{
+	我个人觉得 Coco 可以用 投票得分 的 \textbf{logarithm} 加权，这样可以导致 更平均的奖励分配，但我暂时未能给出其合理性的一个 论证....}{
+	I think Coco may take the \textbf{log} of voting scores to weight shares, and this will give a more egalitarian distribution of rewards.  But I don't have a rigorous argument yet.
+	}
+	
 \end{itemize}
 
 \secttoc

@@ -24,7 +24,8 @@
 	\setCJKmainfont[FallBack, BoldFont=Alibaba-PuHuiTi-Regular.ttf, ItalicFont=Alibaba-PuHuiTi-Medium.ttf]{Alibaba-PuHuiTi-Light.ttf}
 	\newcommand{\cc}[2]{#1}
 \else
-	\setromanfont{Ubuntu}
+	\setromanfont{AlibabaSans-Light.otf}
+	% \setromanfont{Ubuntu}
 	\newcommand{\cc}[2]{#2}
 \fi
 
@@ -60,9 +61,10 @@
 \addtolength{\evensidemargin}{-1in}
 \addtolength{\textwidth}{2in}
 
-\title{$\hbox{\includegraphics[scale=2]{COCO-logo.png}}$ \\
+\title{\vspace{-4cm}$\hbox{\includegraphics[scale=2]{COCO-logo.png}}$ \\
 	\vspace*{0.5em}
-	\color{blue} COCO white paper}
+	\color{blue} COCO white paper
+	\vspace{-2cm}}
 % \author{\cc{甄景贤}{YKY}}
 
 \begin{document}
@@ -108,6 +110,36 @@ COCO is a decentralized, autonomous, anonymous / named, open-source, for-profit,
 	\item \cc{公司内部的\textbf{股份}，可以由公司自行决定，这是 COCO 企图解决的问题，希望做到比现有方法更好}
 	{How the company distributes its \textbf{shares} are decided internally;  This is where COCO tries to innovate}
 \end{itemize}
+
+\secttoc
+\section{\cc{没有阶级的管理}{Management without hierarchy}}
+
+\cc{
+	其实 自愿 的 voting 和由此建立起的 reputation 有问题，因为 vote 别人不能带来直接的利益，而是一个 management task，传统上由 经理人 做。  但如果要取代这 management 角色，则需要一个相对地完备的机制。   Manager 接受 salary，他的工作是 control tasks, monitor work and give rewards.   问题是这件工作可不可以变成 distributive？  }{
+	There may be a problem with basing reputation upon voluntary votes.  Voting for someone does not benefit the voter;  This is a management task traditionally done by managers.  If we want to replace such a role, we need an adequate mechanism.  The traditional manager gets paid, and his responsibility is to control tasks, monitor work, and give rewards.  The question is whether this job can be decentralized?
+}
+
+The Chinese researcher Hong Mei works on the theory of artificial collective intelligence:
+\begin{equation}
+\vcenter{\hbox{\includegraphics[scale=0.5]{Mei-Hong-梅宏.jpg}}}
+\qquad
+\vcenter{\hbox{\includegraphics[scale=0.7]{collective-intelligence.png}}}
+\nonumber
+\end{equation}
+
+%\begin{tabular}{|c|c|c|c|}
+%	\hline 
+%	& Solve $P_1$ & Solve $P_2$ & Total \\ 
+%	\hline 
+%	Alice & $1t$ & $10t$ & $11t$ \\ 
+%	\hline 
+%	Bob & $10t$ & $1t$ & $11t$ \\ 
+%	\hline 
+%\end{tabular} 
+
+\begin{equation}
+\vcenter{\hbox{\includegraphics[scale=0.5]{message-passing.png}}}
+\end{equation}
 
 \secttoc
 \section{\cc{实名 vs 匿名}{Real-name vs anonymous}}
@@ -297,11 +329,6 @@ As to AI recommendation of default votes, we need to decide what is the objectiv
 	
 	\item How to prevent the possibility of a significant contributor spawning fake contribs?  But if all the votes are visible, the significant contributor may risk losing his reputation (in the project) even if he is anonymous.
 \end{itemize}
-
-\cc{
-其实 自愿 的 voting 和由此建立起的 reputation 有问题，因为 vote 别人不能带来直接的利益，而是一个 management task，传统上由 经理人 做。  但如果要取代这 management 角色，则需要一个相对地完备的机制。   Manager 接受 salary，他的工作是 control tasks, monitor work and give rewards.   问题是这件工作可不可以变成 distributive？  }{
-There may be a problem with basing reputation upon voluntary votes.  Voting for someone does not benefit the voter;  This is a management task traditionally done by managers.  If we want to replace such a role, we need an adequate mechanism.  The traditional manager gets paid, and his responsibility is to control tasks, monitor work, and give rewards.  The question is whether this job can be decentralized?
-}
 
 % \pagebreak
 %\footnotesize

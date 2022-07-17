@@ -1,11 +1,12 @@
 \documentclass[17pt, orivec]{extarticle} % 12pt, 14pt, 17pt, 20pt
+\usepackage{parskip}
 \usepackage{amsmath}
 \usepackage{amssymb}    % for \rightsquigarrow
 \usepackage{wasysym}	% for frown face
 \usepackage{mathrsfs} 	% for \mathscr
 \usepackage{stmaryrd}
 \usepackage{unicode-math}
-\usepackage[most]{tcolorbox}
+\usepackage[many]{tcolorbox}
 \usepackage{ulem}
 \usepackage{tikz-cd}		% commutative diagrams
 \usepackage{tikz}
@@ -13,6 +14,7 @@
 \usepackage{enumitem}	% for \itemize custom labels
 \usepackage{turnstile}	% longer turnstiles
 \usepackage[sf,bf,big,raggedright,compact]{titlesec}	% change section color to blue
+\usepackage{graphicx}	% Allows including images
 % \usepackage[backend=biber,bibstyle=authoryear,citestyle=../authoryearbrack]{biblatex}
 % \bibliography{../AGI-book}
 
@@ -30,14 +32,6 @@
 	%\setmainfont{AlibabaSans-Light.otf}
 	%\renewcommand{\baselinestretch}{0.8} 
 \fi
-
-%\ifdefined\chinchin
-%\newcommand{\cc}[2]{#1}
-%\usepackage[CJKspace]{xeCJK}
-%\setCJKmainfont[BoldFont=SimHei,ItalicFont=AR PL KaitiM GB]{SimSun}
-%\else
-%\newcommand{\cc}[2]{#2}
-%\fi
 
 \setlength{\headheight}{0cm}
 \setlength{\hoffset}{0cm}
@@ -96,11 +90,12 @@
       $\color{white}\genfrac{}{}{1pt}0{\color{black}#1}{\color{black}#2}$}}
 
 % \renewcommand{\thefootnote}{\fnsymbol{footnote}}
-\usepackage{perpage}
-\MakePerPage{footnote}
-\renewcommand{\thefootnote}{\ifcase\value{footnote}\or{*}
-	\or{$\dagger$}\or{**}\or{$\ddagger$}\fi}
-\interfootnotelinepenalty=10000
+%\usepackage{perpage}
+%\MakePerPage{footnote}
+%\renewcommand{\thefootnote}{\ifcase\value{footnote}\or{*}
+%	\or{$\dagger$}\or{**}\or{$\ddagger$}\fi}
+%\renewcommand{\thefootnote}{\arabic{footnote}}
+%\setcounter{footnote}{0}
 
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{1.8ex plus0.8ex minus0.8ex}
+\usepackage[hang,flushmargin]{footmisc}
+\interfootnotelinepenalty=10000

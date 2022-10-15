@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:ns1="http://wanglongqi.github.io/WriteTeX"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -16,7 +14,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="collective-intelligence.svg"
-   inkscape:version="0.92.5 (0.92.5+69)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <defs
      id="defs2">
     <marker
@@ -218,21 +216,6 @@
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#800080;stroke-opacity:1;fill:#800080;fill-opacity:1"
          id="path2668" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="marker9520"
-       style="overflow:visible;"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path9518"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
     </marker>
     <marker
        inkscape:stockid="Arrow2Lend"
@@ -466,22 +449,6 @@
          inkscape:connector-curvature="0"
          id="path9518-1"
          style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker9520-5-7-0-3"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         inkscape:connector-curvature="0"
-         id="path9518-6-3-8-5"
-         style="fill:#4a7abd;fill-opacity:1;fill-rule:evenodd;stroke:#4a7abd;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
     </marker>
@@ -873,9 +840,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="198.9856"
-     inkscape:cy="808.2096"
+     inkscape:zoom="0.60278515"
+     inkscape:cx="617.83809"
+     inkscape:cy="244.85184"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -886,7 +853,8 @@
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      showborder="false"
-     units="px" />
+     units="px"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -895,7 +863,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -993,9 +961,9 @@
          id="text940"
          y="-96.632973"
          x="199.12628"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f2ea1a;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f2ea1a;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722242px;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';fill:#f2ea1a;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';fill:#f2ea1a;fill-opacity:1;stroke-width:0.264583"
            y="-96.632973"
            x="199.12628"
            id="tspan938"
@@ -1026,9 +994,9 @@
          id="text940-3"
          y="120.03871"
          x="-202.64671"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f2ea1a;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f2ea1a;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722242px;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';fill:#f2ea1a;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';fill:#f2ea1a;fill-opacity:1;stroke-width:0.264583"
            y="120.03871"
            x="-202.64671"
            id="tspan938-5"
@@ -1036,7 +1004,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583"
        x="72.152832"
        y="111.88338"
        id="text940-6"
@@ -1046,11 +1014,11 @@
          id="tspan938-2"
          x="72.152832"
          y="111.88338"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332">Problem is well-decomposed,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583">Problem is well-decomposed,</tspan><tspan
          sodipodi:role="line"
          x="72.152832"
          y="117.52782"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583"
          id="tspan78">division of labor among agents</tspan></text>
     <g
        id="g150"
@@ -1069,10 +1037,10 @@
          id="text940-6-9"
          y="192.39046"
          x="47.027267"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
            y="192.39046"
            x="47.027267"
            sodipodi:role="line">problem <tspan
@@ -1096,16 +1064,16 @@
          id="text940-6-9-7"
          y="192.39046"
          x="47.027267"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-2-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
            y="192.39046"
            x="47.027267"
            sodipodi:role="line">problem <tspan
    id="tspan117-3"
    style="font-style:italic">P<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
+   style="font-size:65%;baseline-shift:sub"
    id="tspan195">1</tspan></tspan></tspan></text>
     </g>
     <g
@@ -1125,16 +1093,16 @@
          id="text940-6-9-9"
          y="192.39046"
          x="47.027267"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-2-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
            y="192.39046"
            x="47.027267"
            sodipodi:role="line">problem <tspan
    id="tspan117-2"
    style="font-style:italic">P<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
+   style="font-size:65%;baseline-shift:sub"
    id="tspan193">2</tspan></tspan></tspan></text>
     </g>
     <g
@@ -1154,17 +1122,17 @@
          id="text940-6-9-7-3"
          y="194.53128"
          x="59.333511"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444399px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.21166666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.211667"
          xml:space="preserve"><tspan
            id="tspan78-2-5-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666654px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.21166666"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.211667"
            y="194.53128"
            x="59.333511"
            sodipodi:role="line">decompose</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583"
        x="172.20798"
        y="111.93173"
        id="text940-6-8"
@@ -1174,11 +1142,11 @@
          id="tspan938-2-7"
          x="172.20798"
          y="111.93173"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332">Fragments of information</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583">Fragments of information</tspan><tspan
          sodipodi:role="line"
          x="172.20798"
          y="117.57617"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#cd277d;fill-opacity:1;stroke-width:0.264583"
          id="tspan78-9">merge to greater information</tspan></text>
     <g
        id="g1983"
@@ -1196,10 +1164,10 @@
          id="text940-6-2"
          y="154.13892"
          x="99.211311"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-23"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
            y="154.13892"
            x="99.211311"
            sodipodi:role="line">Two Basic Principles of Local Collective Intelligence</tspan></text>
@@ -1214,7 +1182,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3c5ba8;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3c5ba8;fill-opacity:1;stroke-width:0.264583"
        x="66.700058"
        y="181.83311"
        id="text940-6-7"
@@ -1223,11 +1191,11 @@
          sodipodi:role="line"
          x="66.700058"
          y="181.83311"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#3c5ba8;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#3c5ba8;fill-opacity:1;stroke-width:0.264583"
          id="tspan78-92">Cooperate, costs only <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Bold';fill:#ff0000"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Bold';fill:#ff0000"
    id="tspan2012">2</tspan><tspan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Bold';fill:#ff0000"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Bold';fill:#ff0000"
    id="tspan2010">t</tspan></tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:#a3ca8d;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -1266,7 +1234,7 @@
        inkscape:export-ydpi="384" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
        x="173.62383"
        y="144.56119"
        id="text940-6-7-0"
@@ -1275,15 +1243,15 @@
          sodipodi:role="line"
          x="173.62383"
          y="144.56119"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          id="tspan78-92-3">Alice's info <tspan
-   style="fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+   style="fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
    id="tspan2012-6"><tspan
    style="fill:#ff0000"
    id="tspan2287">+</tspan> Bob's info</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
        x="151.16534"
        y="-170.86424"
        id="text2291"
@@ -1294,10 +1262,10 @@
          id="tspan2289"
          x="151.16534"
          y="-170.86424"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans Bold';fill:#ff0000;stroke-width:0.26458332">&gt;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans Bold';fill:#ff0000;stroke-width:0.264583">&gt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
        x="155.40703"
        y="180.4671"
        id="text940-6-7-0-7"
@@ -1306,11 +1274,11 @@
          sodipodi:role="line"
          x="155.40703"
          y="180.4671"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          id="tspan78-92-3-8">Alice's fragment</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
        x="193.50703"
        y="180.46712"
        id="text940-6-7-0-2"
@@ -1319,11 +1287,11 @@
          sodipodi:role="line"
          x="193.50703"
          y="180.46712"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          id="tspan78-92-3-7">Bob's fragment</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.1984375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.198437"
        x="158.32979"
        y="130.2975"
        id="text2560"
@@ -1333,10 +1301,10 @@
          id="tspan2558"
          x="158.32979"
          y="130.2975"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';stroke-width:0.1984375">x&gt;y</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';stroke-width:0.198437">x&gt;y</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.1984375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.198437"
        x="170.59395"
        y="130.35747"
        id="text2560-6"
@@ -1346,10 +1314,10 @@
          id="tspan2558-0"
          x="170.59395"
          y="130.35747"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';fill:#ffffff;stroke-width:0.1984375">y&gt;z</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';fill:#ffffff;stroke-width:0.198437">y&gt;z</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.1984375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.198437"
        x="189.64395"
        y="129.82831"
        id="text2560-0"
@@ -1359,10 +1327,10 @@
          id="tspan2558-6"
          x="189.64395"
          y="129.82831"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';fill:#ff0000;stroke-width:0.1984375">x&gt;z</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';fill:#ff0000;stroke-width:0.198437">x&gt;z</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.1984375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.198437"
        x="155.5127"
        y="165.01791"
        id="text2560-4"
@@ -1372,10 +1340,10 @@
          id="tspan2558-3"
          x="155.5127"
          y="165.01791"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';stroke-width:0.1984375">x&gt;y</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';stroke-width:0.198437">x&gt;y</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.1984375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.198437"
        x="192.02519"
        y="165.01793"
        id="text2560-7"
@@ -1385,7 +1353,7 @@
          id="tspan2558-5"
          x="192.02519"
          y="165.01793"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';fill:#ffffff;stroke-width:0.1984375">y&gt;z</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math Bold Italic';fill:#ffffff;stroke-width:0.198437">y&gt;z</tspan></text>
     <g
        id="g2876"
        transform="matrix(0.45,0,0,0.45,-50.182254,113.24824)"
@@ -1864,635 +1832,6 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <ellipse
-       style="opacity:0.5;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path3024-7"
-       cx="72.231247"
-       cy="283.77084"
-       rx="13.626041"
-       ry="11.90625"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
-    <g
-       id="g7289"
-       transform="matrix(-0.013722,0.499749,-0.499749,-0.013722,119.72269,275.1418)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#929baa;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6079"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6081"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g6944"
-       transform="matrix(-0.375701,0.329851,-0.329851,-0.375701,111.00364,311.51897)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6084"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6086"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3682"
-       transform="matrix(-0.499819,-0.011638,0.011638,-0.499819,80.774796,329.76701)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#a8f2f5;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6089"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6091"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g9698"
-       transform="matrix(-0.375701,-0.329851,0.329851,-0.375701,47.312625,323.68203)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ededed;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6094"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6096"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g9641"
-       transform="matrix(0.013722,-0.499749,0.499749,0.013722,24.751177,291.98568)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#019eeb;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6099"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6101"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g8412"
-       transform="matrix(0.390842,-0.311764,0.311764,0.390842,34.529707,254.53562)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd46e;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6104"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6106"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3362"
-       transform="matrix(0.499819,0.011638,-0.011638,0.499819,64.101912,237.78428)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#aad400;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6109"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6111"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g1578"
-       transform="matrix(0.359605,0.347328,-0.347328,0.359605,98.761785,244.74519)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ff695e;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6114"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6116"
-         inkscape:connector-curvature="0" />
-    </g>
-    <ellipse
-       style="opacity:0.5;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375001, 0.79375001;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path3024-7-4"
-       cx="173.56099"
-       cy="278.73895"
-       rx="13.626041"
-       ry="11.90625"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
-    <g
-       id="g7289-9"
-       transform="matrix(-0.013722,0.499749,-0.499749,-0.013722,221.05242,270.10989)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#929baa;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6079-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6081-3"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g6944-5"
-       transform="matrix(-0.375701,0.32985099,-0.32985099,-0.375701,212.33336,306.48705)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6084-1"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6086-1"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3682-0"
-       transform="matrix(-0.499819,-0.011638,0.011638,-0.499819,182.10452,324.7351)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#a8f2f5;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6089-0"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6091-7"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g9698-0"
-       transform="matrix(-0.375701,-0.32985099,0.32985099,-0.375701,148.64235,318.65013)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6094-8"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6096-1"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g9641-6"
-       transform="matrix(0.013722,-0.499749,0.499749,0.013722,126.08091,286.95377)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6099-4"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6101-1"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g8412-4"
-       transform="matrix(0.390842,-0.31176399,0.31176399,0.390842,135.85943,249.50371)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd46e;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6104-9"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6106-8"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3362-6"
-       transform="matrix(0.499819,0.011638,-0.011638,0.499819,165.43164,232.75238)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6109-22"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6111-5"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g1578-2"
-       transform="matrix(0.359605,0.34732799,-0.34732799,0.359605,200.09151,239.71329)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#c83737;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path6114-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         id="path6116-2"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-       x="72.774139"
-       y="285.82751"
-       id="text6343-5"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384"><tspan
-         sodipodi:role="line"
-         id="tspan6341-5"
-         x="72.774139"
-         y="285.82751"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';stroke-width:0.26458332">task<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan6367">1</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-       x="173.73346"
-       y="280.45471"
-       id="text6343-5-0"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384"><tspan
-         sodipodi:role="line"
-         id="tspan6341-5-5"
-         x="173.73346"
-         y="280.45471"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';stroke-width:0.26458332">task<tspan
-   style="font-size:4.58611059px;baseline-shift:sub;stroke-width:0.26458332"
-   id="tspan6367-2">2</tspan></tspan></text>
-    <ellipse
-       style="opacity:0.5;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375001, 0.79375001;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path3024-7-6"
-       cx="117.65688"
-       cy="222.87532"
-       rx="19.446875"
-       ry="17.727083"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
-    <g
-       id="g5132"
-       transform="matrix(-0.013328,0.499763,-0.499763,-0.013328,171.17755,214.39684)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9188"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9190"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g9140"
-       transform="matrix(-0.259899,0.427082,-0.427082,-0.259899,168.59466,240.92789)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffaaaa;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9193"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9195"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g7492"
-       transform="matrix(-0.431093,0.253204,-0.253204,-0.431093,153.74638,262.11871)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9198"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9200"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g7145"
-       transform="matrix(-0.496658,0.057334,-0.057334,-0.496658,132.85853,273.14032)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9203"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9205"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g4971"
-       transform="matrix(-0.470603,-0.168786,0.168786,-0.470603,108.0198,274.45968)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ededed;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9208"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9210"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g6705"
-       transform="matrix(-0.33988,-0.366647,0.366647,-0.33988,84.61972,264.41504)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9213"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9215"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g6476"
-       transform="matrix(-0.117879,-0.485847,0.485847,-0.117879,68.152624,243.86719)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#e9afaf;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9218"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9220"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g0418"
-       transform="matrix(0.143043,-0.479043,0.479043,0.143043,64.072963,217.34944)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9223"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9225"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g9619"
-       transform="matrix(0.374501,-0.331207,0.331207,0.374501,74.384275,191.65195)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9228"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9230"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g5147"
-       transform="matrix(0.477874,-0.146942,0.146942,0.477874,92.995724,176.64695)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9233"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9235"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g5472"
-       transform="matrix(0.49351,0.080027,-0.080027,0.49351,117.16721,170.76611)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#ff695e;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9238"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9240"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g4701"
-       transform="matrix(0.404963,0.293184,-0.293184,0.404963,141.69959,176.10355)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#808000;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9243"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9245"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <g
-       id="g4055"
-       transform="matrix(0.215154,0.451281,-0.451281,0.215154,161.83866,192.66836)"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384">
-      <path
-         style="opacity:1;vector-effect:none;fill:#aad400;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke"
-         d="m 15.544271,57.882818 h 6.614581 c 1.75895,0 3.175,1.41605 3.175,3.175 v 3.042704 H 12.36927 v -3.042704 c 0,-1.75895 1.41605,-3.175 3.175001,-3.175 z"
-         id="path9248"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path9250"
-         d="m 21.695833,54.575516 a 2.7119789,3.2411458 0 0 1 -2.711979,3.241146 2.7119789,3.2411458 0 0 1 -2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,-3.241146 2.7119789,3.2411458 0 0 1 2.711979,3.241146 z"
-         style="opacity:1;vector-effect:none;fill:#ffd5b2;fill-opacity:1;stroke:#0a0000;stroke-width:1.4552083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373;paint-order:markers fill stroke" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-       x="117.73959"
-       y="225.29788"
-       id="text6343"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384"><tspan
-         sodipodi:role="line"
-         id="tspan6341"
-         x="117.73959"
-         y="225.29788"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';stroke-width:0.26458332">root</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;stroke-width:0.26458332;"
-       x="120.38541"
-       y="266.04376"
-       id="text9422"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384"><tspan
-         sodipodi:role="line"
-         id="tspan9420"
-         x="120.38541"
-         y="266.04376"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';fill:#0000ff;stroke-width:0.26458332;">message-</tspan><tspan
-         sodipodi:role="line"
-         x="120.38541"
-         y="275.04666"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';fill:#0000ff;stroke-width:0.26458332;"
-         id="tspan9424">passing</tspan></text>
-    <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9520)"
-       d="m 98.160416,287.475 51.858334,-1.05833"
-       id="path9430"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
-    <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58750002, 1.58750002;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9520-5)"
-       d="m 168.20608,254.50434 -22.225,-15.875"
-       id="path9430-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
-    <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58750004, 1.58750004;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9520-5-7)"
-       d="m 132.8205,249.95575 20.37292,14.55208"
-       id="path9430-6-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
-    <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58750006, 1.58750006;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9520-5-7-0)"
-       d="M 86.917768,234.99428 73.953187,258.27762"
-       id="path9430-6-4-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
-    <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58750002, 1.58750002;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9520-8)"
-       d="m 153.52726,297.36684 -59.266673,1.32292"
-       id="path9430-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
-    <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58750008, 1.58750008;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9520-5-7-0-3)"
-       d="m 88.031411,266.05165 10.583333,-19.05"
-       id="path9430-6-4-0-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="384"
-       inkscape:export-ydpi="384" />
     <path
        style="opacity:1;vector-effect:none;fill:#67338f;fill-opacity:1;stroke:#67338f;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 184.83659,22.118545 c -0.41195,3e-5 -0.9309,0.29587 -0.91829,0.827081 0.016,0.673965 0.41529,0.48628 0.29533,0.88367 -0.0428,0.141925 -0.26735,0.277959 -0.39481,0.34623 h -2.1947 l 0.0266,2.438869 c 0.0852,0.115671 0.20692,0.262676 0.31911,0.313936 0.39406,0.180065 0.24248,-0.293395 0.87771,-0.266135 0.49766,0.02135 0.82712,0.50654 0.82709,0.91855 -3e-5,0.41195 -0.29587,0.930894 -0.82709,0.918289 -0.67395,-0.016 -0.48628,-0.41529 -0.88366,-0.295329 -0.12327,0.0372 -0.23868,0.208059 -0.31316,0.337445 l -0.0266,2.27583 h 6.54792 V 28.35098 c -0.0743,-0.118159 -0.17519,-0.248059 -0.27956,-0.279569 -0.39739,-0.11996 -0.20971,0.279335 -0.88367,0.295334 -0.53122,0.01261 -0.82706,-0.506345 -0.82709,-0.918289 -2e-5,-0.412016 0.32944,-0.897201 0.82709,-0.91855 0.63523,-0.02725 0.48366,0.4462 0.87773,0.266135 0.0964,-0.04405 0.20309,-0.162076 0.2855,-0.267945 v -2.35257 h -2.32362 c -0.11721,-0.0825 -0.30104,-0.224411 -0.35941,-0.352175 -0.18007,-0.39406 0.29339,-0.242486 0.26613,-0.877725 -0.0213,-0.497646 -0.50653,-0.82711 -0.91855,-0.827081 z"
@@ -2525,10 +1864,10 @@
          id="text940-6-2-2"
          y="154.13892"
          x="99.211311"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-23-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
            y="154.13892"
            x="99.211311"
            sodipodi:role="line">Constructive Model of Collective Intelligence: <tspan
@@ -2546,10 +1885,10 @@
          id="text940-6-8-6"
          y="-2.7943163"
          x="52.534863"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-9-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
            y="-2.7943163"
            x="52.534863"
            sodipodi:role="line">Feedback</tspan></text>
@@ -2595,10 +1934,10 @@
              id="text940-6-92"
              y="11.709408"
              x="51.963051"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
              xml:space="preserve"><tspan
                id="tspan78-237"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
                y="11.709408"
                x="51.963051"
                sodipodi:role="line">F</tspan></text>
@@ -2616,7 +1955,7 @@
                r="6.3499999" />
             <text
                xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
                x="48.559574"
                y="27.681671"
                id="text940-6-92-7"
@@ -2625,7 +1964,7 @@
                  sodipodi:role="line"
                  x="48.559574"
                  y="27.681671"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
                  id="tspan78-237-8">I</tspan></text>
           </g>
           <g
@@ -2639,7 +1978,7 @@
                r="6.3499999" />
             <text
                xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
                x="33.478325"
                y="25.035841"
                id="text940-6-92-5"
@@ -2648,7 +1987,7 @@
                  sodipodi:role="line"
                  x="33.478325"
                  y="25.035841"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
                  id="tspan78-237-7">E</tspan></text>
           </g>
         </g>
@@ -2659,10 +1998,10 @@
          id="text940-6-8-6-8"
          y="38.105202"
          x="40.865597"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-9-0-3"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
            y="38.105202"
            x="40.865597"
            sodipodi:role="line">Exploration</tspan></text>
@@ -2672,10 +2011,10 @@
          id="text940-6-8-6-1"
          y="38.105202"
          x="66.001007"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-9-0-8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
            y="38.105202"
            x="66.001007"
            sodipodi:role="line">Integration</tspan></text>
@@ -2685,10 +2024,10 @@
          id="text940-6-8-6-1-3"
          y="45.952213"
          x="53.433651"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-9-0-8-8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
            y="45.952213"
            x="53.433651"
            sodipodi:role="line">The EFI Loop of CI</tspan></text>
@@ -2712,10 +2051,10 @@
          id="text940-6-7-0-7-4"
          y="54.893135"
          x="146.84944"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-92-3-8-4"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
            y="54.893135"
            x="146.84944"
            sodipodi:role="line"><tspan
@@ -2727,30 +2066,30 @@
          id="text940-6-7-0-7-4-6"
          y="67.318901"
          x="153.11952"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-92-3-8-4-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
            y="67.318901"
            x="153.11952"
            sodipodi:role="line"><tspan
    id="tspan6318-4"
-   style="fill:#ff00ff;stroke-width:0.26458332">❖Feedback</tspan> : integrated information back to each individual</tspan></text>
+   style="fill:#ff00ff;stroke-width:0.264583">❖Feedback</tspan> : integrated information back to each individual</tspan></text>
       <text
          inkscape:export-ydpi="384"
          inkscape:export-xdpi="384"
          id="text940-6-7-0-7-4-8"
          y="61.10601"
          x="145.13861"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-92-3-8-4-8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
            y="61.10601"
            x="145.13861"
            sodipodi:role="line"><tspan
    id="tspan6318-8"
-   style="fill:#ff00ff;stroke-width:0.26458332">❖Integration</tspan> : combine information from individuals</tspan></text>
+   style="fill:#ff00ff;stroke-width:0.264583">❖Integration</tspan> : combine information from individuals</tspan></text>
     </g>
     <g
        id="g6258"
@@ -2771,20 +2110,20 @@
            y="148.24568" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
            x="55.327847"
            y="154.13892"
            id="text940-6-2-2-4"><tspan
              sodipodi:role="line"
              x="55.327847"
              y="154.13892"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.29999995;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.3;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
              id="tspan78-23-0-3">3 key factors of</tspan><tspan
              id="tspan6251"
              sodipodi:role="line"
              x="55.327847"
              y="160.94753"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.29999995;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.26458332">Collective Intelligence</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.3;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke-width:0.264583">Collective Intelligence</tspan></text>
       </g>
     </g>
     <g
@@ -2811,10 +2150,10 @@
          id="text940-6-92-7-3"
          y="25.035841"
          x="93.929787"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan78-237-8-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
            y="25.035841"
            x="93.929787"
            sodipodi:role="line">?</tspan></text>
@@ -2825,10 +2164,10 @@
        id="text940-6-8-6-1-9"
        y="32.983913"
        x="86.590195"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan78-9-0-8-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          y="32.983913"
          x="86.590195"
          sodipodi:role="line">Problem</tspan></text>
@@ -2846,11 +2185,11 @@
        id="text940-6-8-6-1-9-0"
        y="-107.26283"
        x="22.889786"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"
        transform="rotate(90)"><tspan
          id="tspan78-9-0-8-2-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          y="-107.26283"
          x="22.889786"
          sodipodi:role="line">Large-Scale Collective</tspan></text>
@@ -2970,7 +2309,7 @@
          style="fill:none;stroke:#4a7abd;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5887)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.264583"
          x="126.45913"
          y="20.774994"
          id="text940-6-8-6-1-9-3"
@@ -2979,7 +2318,7 @@
            sodipodi:role="line"
            x="126.45913"
            y="20.774994"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.264583"
            id="tspan78-9-0-8-2-6">Explore</tspan></text>
     </g>
     <path
@@ -3019,7 +2358,7 @@
       <text
          transform="rotate(90)"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="22.40962"
          y="-161.81154"
          id="text940-6-8-6-1-9-4"
@@ -3028,7 +2367,7 @@
            sodipodi:role="line"
            x="22.40962"
            y="-161.81154"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
            id="tspan78-9-0-8-2-5">Integration</tspan></text>
     </g>
     <path
@@ -3064,7 +2403,7 @@
          style="fill:none;stroke:#4a7abd;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5887-6)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.264583"
          x="126.45913"
          y="20.774994"
          id="text940-6-8-6-1-9-3-4"
@@ -3073,7 +2412,7 @@
            sodipodi:role="line"
            x="126.45913"
            y="20.774994"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.264583"
            id="tspan78-9-0-8-2-6-5">Explore</tspan></text>
     </g>
     <g
@@ -3091,7 +2430,7 @@
          style="fill:none;stroke:#4a7abd;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5887-2)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.264583"
          x="126.45913"
          y="20.774994"
          id="text940-6-8-6-1-9-3-43"
@@ -3100,7 +2439,7 @@
            sodipodi:role="line"
            x="126.45913"
            y="20.774994"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.264583"
            id="tspan78-9-0-8-2-6-0">Explore</tspan></text>
     </g>
     <text
@@ -3109,10 +2448,10 @@
        id="text940-6-8-6-1-9-3-4-8"
        y="-1.1933877"
        x="141.71873"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan78-9-0-8-2-6-5-4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#b41e23;fill-opacity:1;stroke-width:0.264583"
          y="-1.1933877"
          x="141.71873"
          sodipodi:role="line">Feedback</tspan></text>
@@ -3122,10 +2461,10 @@
        id="text940-6-8-6-1-9-31"
        y="46.174988"
        x="141.80495"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan78-9-0-8-2-4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          y="46.174988"
          x="141.80495"
          sodipodi:role="line">Info Fragments</tspan></text>
@@ -3135,10 +2474,10 @@
        id="text940-6-8-6-1-9-31-9"
        y="36.370529"
        x="187.6823"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan78-9-0-8-2-4-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.80000001;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:0.8;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-anchor:middle;fill:#4a7abd;fill-opacity:1;stroke-width:0.264583"
          y="36.370529"
          x="187.6823"
          sodipodi:role="line">Solution</tspan></text>

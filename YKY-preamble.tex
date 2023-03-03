@@ -64,13 +64,14 @@
 \titleformat{\subsection}[hang]{\bfseries\large\color{blue}}{\thesubsection \hspace{10pt}}{0pt}{}
 \titleformat{\subsubsection}[hang]{\bfseries\color{blue}}{}{0pt}{}
 
-\itemsep0em
-\setlist[itemize]{noitemsep, topsep=0pt, partopsep=0pt}
+\itemsep1em
+% \setlist[itemize]{noitemsep, topsep=15pt, partopsep=10pt}
+\setlist[itemize]{topsep=15pt, partopsep=10pt}
 \renewcommand{\labelitemi}{\textbullet}
 
 \let\varzero\emptyset
 \let\emptyset\varnothing		% round empty set 
-\newcommand{\vect}[1]{\boldsymbol{#1}}
+\newcommand{\vect}[1]{\symbf{#1}}
 \newcommand{\book}[1]{$\NewSym[0.4]{../book-icon.png} \quad$ \parbox{0.9\textwidth}{\footnotesize #1}}
 \newcommand{\code}[1]{{\small{\ttfamily #1}}}
 \newcommand{\tab}{\hspace*{2cm}}

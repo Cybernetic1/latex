@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   width="630.10443"
+   height="661.6189"
+   viewBox="-38.5 -38.5 104.79059 110.03165"
+   id="svg2"
+   sodipodi:docname="Dao_symbol.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="/home/yky/latex/humanities/DAOism-icon.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview84"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="317.5"
+     inkscape:cy="333.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1059"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <circle
+     cx="-14.177474"
+     cy="6.9654541"
+     r="22.799999"
+     id="circle4"
+     style="fill:none;stroke:#000000;stroke-width:0.6"
+     transform="scale(-1,1)" />
+  <path
+     d="m 14.177473,29.765453 a 11.4,11.4 0 1 0 0,-22.8000003 11.4,11.4 0 1 1 0,-22.7999997 22.8,22.8 0 1 1 0,45.6 m 0,-31.2000003 a 3.0000001,3.0000001 0 0 0 0,-6 3.0000001,3.0000001 0 0 0 0,6"
+     id="path8"
+     style="fill:#000000;stroke-width:0.6" />
+  <circle
+     cx="-14.177474"
+     cy="18.365454"
+     r="3"
+     id="circle10"
+     transform="scale(-1,1)"
+     style="fill:#000000;stroke-width:0.6" />
+  <text
+     xml:space="preserve"
+     style="font-weight:300;font-size:15.9654px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.166307"
+     x="13.755376"
+     y="48.349995"
+     id="text1133"><tspan
+       sodipodi:role="line"
+       id="tspan1131"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.9654px;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans Medium';stroke-width:0.166307"
+       x="13.755375"
+       y="48.349995">DAOism</tspan></text>
+  <rect
+     style="opacity:0.97;fill:none;stroke:#000000;stroke-width:0.24946;stroke-linecap:round;stroke-linejoin:round"
+     id="rect3196"
+     width="104.54112"
+     height="109.78219"
+     x="-38.375271"
+     y="-38.375271"
+     inkscape:export-filename="/home/yky/latex/humanities/DAOism-icon.png"
+     inkscape:export-xdpi="192"
+     inkscape:export-ydpi="192" />
+</svg>

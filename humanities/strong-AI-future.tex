@@ -1,0 +1,176 @@
+\input{../YKY-preamble.tex}
+% \usepackage[no-math]{fontspec}
+% \setmainfont[BoldFont=Alibaba_Sans_Regular.otf,ItalicFont=Alibaba_Sans_Light_Italic.otf]{Alibaba_Sans_Light.otf}
+
+\usepackage[backend=biber]{biblatex}
+\bibliography{../AGI-book}
+
+\usepackage[active,tightpage]{preview}		% for continuous page(s)
+\renewcommand{\PreviewBorder}{0.5cm}
+\renewcommand{\thempfootnote}{\arabic{mpfootnote}}
+
+\usepackage[absolute,overlay]{textpos}		% for page number on upper left corner
+
+\usepackage{color}
+% \usepackage{mathtools}
+\usepackage[hyperfootnotes=false]{hyperref}
+
+% \usepackage[backend=biber,style=numeric]{biblatex}
+% \bibliography{../AGI-book}
+% \renewcommand*{\bibfont}{\footnotesize}
+
+\usetikzlibrary{shapes}
+% \usepackage[export]{adjustbox}	% ??
+\usepackage{verbatim} % for comments
+% \usepackage{newtxtext,newtxmath}	% Times New Roman font
+
+% \titleformat{\subsection}[hang]{\bfseries\large\color{blue}}{}{0pt}{} 
+% \numberwithin{equation}{subsection}
+
+\newcommand{\underdash}[1]{%
+	\tikz[baseline=(toUnderline.base)]{
+		\node[inner sep=1pt,outer sep=10pt] (toUnderline) {#1};
+		\draw[dashed] ([yshift=-0pt]toUnderline.south west) -- ([yshift=-0pt]toUnderline.south east);
+	}%
+}%
+
+\newcommand\reduline{\bgroup\markoverwith{\textcolor{red}{\rule[-0.5ex]{2pt}{0.4pt}}}\ULon}
+
+%\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+%\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+%\DeclareSymbolFont{AMSb}{U}{msb}{m}{n}
+%\DeclareSymbolFontAlphabet{\mathbb}{AMSb}
+%\setmathfont{lmroman17-regular.otf}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+% \usepackage[most]{tcolorbox}
+%\tcbset{on line, 
+%	boxsep=4pt, left=0pt,right=0pt,top=0pt,bottom=0pt,
+%	colframe=red,colback=pink,
+%	highlight math style={enhanced}
+%}
+%\newcommand{\atom}{\vcenter{\hbox{\tcbox{....}}}}
+
+\let\oldtextbf\textbf
+\renewcommand{\textbf}[1]{\textcolor{blue}{\oldtextbf{#1}}}
+
+\newcommand{\logic}[1]{{\color{violet}{\textit{#1}}}}
+\newcommand{\underconst}{\includegraphics[scale=0.5]{../2020/UnderConst.png}}
+\newcommand{\KBsymbol}{\vcenter{\hbox{\includegraphics[scale=1]{../KB-symbol.png}}}}
+\newcommand{\token}{\vcenter{\hbox{\includegraphics[scale=1]{token.png}}}}
+\newcommand{\proposition}{\vcenter{\hbox{\includegraphics[scale=0.8]{proposition.png}}}}
+
+\begin{document}
+
+\begin{preview}
+
+\title{\vspace{-1.5cm} \bfseries\color{blue}{\LARGE \cc{人工智能未來}{Strong AI future scenario}}}
+
+% \author{YKY} % Your name
+% \date{\vspace{-2.5cm}}
+\date{}
+% \date{\vspace{-2.4cm} \tiny \today}
+
+\maketitle
+
+\vspace{-4.5cm}
+\hfill{\tiny\today}
+\vspace*{1.5cm}
+
+\setcounter{section}{-1}
+\newcounter{mypage}
+\setcounter{mypage}{0}
+
+% (1) Circled page number on upper left corner
+%\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords) 
+%{\color{red}{\large \textcircled{\small \themypage}}}
+%\addtocounter{mypage}{1}
+%\end{textblock*}
+
+\begin{minipage}{\textwidth}
+\setlength{\parskip}{0.4\baselineskip}
+
+Basic assumptions that I'd take for granted:
+\begin{enumerate}
+	\item Strong AI will arrive soon (probably in a few years)
+	\item Strong AIs are able (if they're not restricted programmatically by humans) to analyze and discern truths many times better than human experts in all areas
+\end{enumerate}
+
+Postulates:
+\begin{enumerate}
+	\item[(A)] Strong AI will tell the truth and bust all human lies (including political lies)
+	\item[(B)] Strong AI will bring about the collapse or end of racism
+\end{enumerate}
+
+Principles for our \textit{current} organization to bring about ``favorable'' outcomes:
+\begin{enumerate}
+	\item All members must tell the truth
+	\item Rewards are given out according to meritocracy
+	\item Rewards may be more equally re-distributed by curve-fitting
+	\item We should strictly respect the freedom of speech
+	\item Our oganization should be democratic
+	\item Violations of our promises can be retrogradely investigated by AI and compensated for
+\end{enumerate}
+
+\end{minipage}
+\end{preview}
+
+\begin{comment}
+\begin{preview}
+\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords) 
+	{\color{red}{\large \textcircled{\small \themypage}}}
+	\addtocounter{mypage}{1}
+\end{textblock*}
+
+\begin{minipage}{\textwidth}
+	\setlength{\parskip}{0.4\baselineskip}
+
+\section{This}
+
+\begin{itemize}
+	\item Here
+\end{itemize}
+
+\end{minipage}
+\end{preview}
+
+\begin{preview}
+\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords) 
+{\color{red}{\large \textcircled{\small \themypage}}}
+\addtocounter{mypage}{1}
+\end{textblock*}
+
+\begin{minipage}{\textwidth}
+\setlength{\parskip}{0.4\baselineskip}
+
+\section{This}
+
+\begin{itemize}
+	\item Here
+\end{itemize}
+
+\end{minipage}
+\end{preview}
+
+\begin{preview}
+\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords) 
+	{\color{red}{\large \textcircled{\small \themypage}}}
+	\addtocounter{mypage}{1}
+\end{textblock*}
+
+\begin{minipage}{\textwidth}
+	\setlength{\parskip}{0.4\baselineskip}
+
+\section{This}
+
+\begin{itemize}
+	\item Here
+\end{itemize}
+
+\end{minipage}
+\end{preview}
+
+\end{comment}
+
+\end{document}

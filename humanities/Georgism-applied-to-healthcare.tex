@@ -1,9 +1,12 @@
 \input{../YKY-preamble.tex}
+% Note: for best effect, use font size 12pt in YKY-preamble
 % \usepackage[no-math]{fontspec}
 % \setmainfont[BoldFont=Alibaba_Sans_Regular.otf,ItalicFont=Alibaba_Sans_Light_Italic.otf]{Alibaba_Sans_Light.otf}
 
-\usepackage[backend=biber]{biblatex}
-\bibliography{../AGI-book}
+%\usepackage[backend=biber]{biblatex}
+%\bibliography{../AGI-book}
+
+\usepackage{wrapfig}			% for Henry George pic
 
 \usepackage[active,tightpage]{preview}		% for continuous page(s)
 \renewcommand{\PreviewBorder}{0.5cm}
@@ -61,16 +64,23 @@
 \newcommand{\token}{\vcenter{\hbox{\includegraphics[scale=1]{token.png}}}}
 \newcommand{\proposition}{\vcenter{\hbox{\includegraphics[scale=0.8]{proposition.png}}}}
 
+\newtcolorbox{mybox}{
+	enhanced,
+	boxrule=1pt,
+	colback=yellow!40!white,
+	sharp corners
+}
+
 \begin{document}
 
 \begin{preview}
 
-\title{\vspace{-1.5cm} \bfseries\color{blue}{\LARGE \cc{Henry George 与全民医保}{Henry George applied to Universal Health Care}}}
+\title{\vspace{-1cm} \bfseries\color{blue}{\huge \cc{Georgism 应用到 全民医保}{Henry George applied to Universal Health Care}}}
 
 % \author{YKY} % Your name
 % \date{\vspace{-2.5cm}}
 % \date{\tiny\today}
-\date{\vspace{-2cm} \small \today}
+\date{\vspace{-1.5cm} \small \today}
 
 \maketitle
 
@@ -89,19 +99,45 @@
 %\end{textblock*}
 
 \begin{minipage}{\textwidth}
-\setlength{\parskip}{-20pt plus 10pt}
+\setlength{\parskip}{0pt}
 
 \section{Henry George 关于地产霸权的思想}
 
-``\textbf{Affordable housing}'' 这个术语 可以被翻译成「可负担住房」，但不纯粹是「廉价住房」那么简单。 它更接近于 习近平 所说的「房是用来住，不是用来炒」的意思，简称「\textbf{房住不炒}」。
+``\textbf{Affordable housing}'' 这个术语 可以被翻译成「可负担住房」，但不纯粹是「廉价住房」那么简单。 它更接近于 习近平 所说的「房是用来住，不是用来炒」的意思，简称「\textbf{房住不炒}」。\\
 
-其实 这个问题 很可能 已经在差不多一个半世纪以前 被美国经济学家 Henry George (1839-1897) 解决了。 他提出的方案是征收 \textbf{地税} (land tax) 来解决土地未被有效运用的问题。 土地税 可以阻止人们垄断土地 作为 “rent-seeking” 的弊端，也就是阻止 炒卖地产。 但这个想法一直没有被执政者 实施过，因为人们根深蒂固地认为 房地产 是经济的重要部分。
+其实 这个问题 很可能 已经在差不多一个半世纪以前 被美国经济学家 Henry George 解决了。 他提出的方案是征收 \textbf{地税} (land tax) 来解决土地未被有效运用的问题。 土地税 可以阻止人们垄断土地 作为 “rent-seeking” 的弊端，也就是阻止 炒卖地产。 但这个想法一直没有被执政者 实施过，因为人们根深蒂固地认为 房地产 是经济的重要部分。\\
 
-\textit{Henry George 是他那时代美国最有名的人之一。 他的「粉丝」包括 孙中山、Tolstoy、马克 $\cdot$ 吐温、和 当代 自由主义 经济学家 Milton Friedman 等。}
+\begin{wrapfigure}[9]{l}{3cm}		% first number = # of lines of narrow text
+	\label{wrap-fig:1}
+	\vspace{-0.5cm}
+	\includegraphics[width=3cm]{Henry-George.jpg}
+\end{wrapfigure}
+\textit{Henry George (1839-1897) 是他那时代 美国最有名的人之一。 他曾经参选 纽约 市长，但不幸在选举前 中风病逝。他的「粉丝」包括 孙中山、爱因斯坦、Tolstoy、马克$\cdot$吐温、George Bernard Shaw、甚至 马克思、和当代 自由主义经济学家 Milton Friedman、新凯因斯学派的 Joseph Stiglitz 等。 他和他的追随者有时被称为 “圣徒”，他自己有时也用神学的语言谈论经济学。 有人说，出于妒忌，同时代的经济学家 排斥和试图掩盖他的学说。 和马克思提出的共产主义不同之处是，George 认为 {\color{blue}\ 自由竞争} 是自然而合理的。 也可以说 Georgism 是一种社会主义，虽然他不喜欢 socialism 这个用语，但我纯粹用它表示不同于 共产主义极端 的任何较温和的左派思想。} \\
 
 \section{将 ``Georgism'' 应用到 全民医保}
 
+在数学上，有所谓 ``functor'' 的概念，意思是 将一个问题的解决方案，经过抽象以后，应用到另一个不同的问题上，``changing what needs to be changed'':
+\begin{equation}
+\begin{tikzcd}[column sep=2.5cm, row sep=2cm]
+\mbox{问题 1} \arrow[r, "functor"]
+\arrow[r, to path={ -- ([yshift=4ex]\tikztostart.north) -| (\tikztotarget)},
+rounded corners=12pt, dashed, red]
+\ar[phantom]{r}[yshift=8ex]{\footnotesize{\mbox{\color{red}将左边的解决方案，经过抽象后，应用到右边}}}
+% \arrow[r, dashed, bend left=90, "\footnotesize{\mbox{将左边的解决方案，经过抽象后，应用到右边}}"]
+& \mbox{问题 2}
+\end{tikzcd}
+\nonumber
+\end{equation}
+而我一直在思考的问题，就是如何将 George 对土地问题的解决方案 ``func'' 到 全民医保的问题上。 \\
 
+George 的地税思想，其抽象本质就是： 由于 土地 是 \textbf{稀缺资源}，而且它是 人类 \textbf{生命必需} 的资源，所以对它进行 征税 是合理的。 古典经济学的中心思想是 自由市场的 「看不见的手」，而 征税是属于自由市场之外的 ``externality''.  这一点在「资源经济学」或「环境经济学」里得到了肯定。 举例来说： 拥有河流上游的人不应该随便污染下游的水，因为水是 \textbf{稀缺而且生命必需} 的资源，所以它可以 \textbf{例外于} 自由市场的供求定律。\\
+
+那么根据这个看法，将 Georgism 转换到全民医保的方法，似乎就是：
+\begin{eqnarray}
+	\fcolorbox{black}{yellow}{\mbox{土地}} & \longrightarrow \mbox{征税} \nonumber \\
+	\fcolorbox{black}{yellow}{\mbox{医疗资源}} & \longrightarrow \mbox{征税} \nonumber
+\end{eqnarray}
+所不同的是，土地是一种 passive 的资源，但「医疗」是一种 active 或 dynamic 的资源，它本身是经济活动的成果。 这就是 ``what needs to be changed'' 的部分。 这个做法的好处是它保留了 医疗领域的 \textbf{自由竞争}，而这是 医疗技术 进步的必要条件。
 
 \end{minipage}
 \end{preview}

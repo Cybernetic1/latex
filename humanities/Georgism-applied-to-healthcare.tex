@@ -3,8 +3,8 @@
 % \usepackage[no-math]{fontspec}
 % \setmainfont[BoldFont=Alibaba_Sans_Regular.otf,ItalicFont=Alibaba_Sans_Light_Italic.otf]{Alibaba_Sans_Light.otf}
 
-%\usepackage[backend=biber]{biblatex}
-%\bibliography{../AGI-book}
+\usepackage[backend=biber]{biblatex}
+\bibliography{../humanities}
 
 \usepackage{wrapfig}			% for Henry George pic
 
@@ -75,12 +75,16 @@
 
 \begin{preview}
 
-\title{\vspace{-1cm} \bfseries\color{blue}{\huge \cc{Georgism 应用到 全民医保}{Henry George applied to Universal Health Care}}}
+\title{\vspace{-1cm} \bfseries\color{blue}{\huge \cc{Georgism 应用到 全民医保}{Georgism Applied to\\ Universal Healthcare}}}
 
 % \author{YKY} % Your name
 % \date{\vspace{-2.5cm}}
 % \date{\tiny\today}
+\cc{
 \date{\vspace{-1.5cm} \small \today}
+}{
+\date{\vspace{-1.2cm} \small \today}
+}
 
 \maketitle
 
@@ -101,11 +105,21 @@
 \begin{minipage}{\textwidth}
 \setlength{\parskip}{0pt}
 
-\section{Henry George 关于地产霸权的思想}
+\section{\cc{Henry George 关于地产霸权的思想}{Henry George's ideas on land reform}}
 
-``\textbf{Affordable housing}'' 这个术语 可以被翻译成「可负担住房」，但不纯粹是「廉价住房」那么简单。 它更接近于 习近平 所说的「房是用来住，不是用来炒」的意思，简称「\textbf{房住不炒}」。\\
+\cc{
+``\textbf{Affordable housing}'' 这个术语 可以被翻译成「可负担住房」，但不纯粹是「廉价住房」那么简单。 它更接近于 习近平 所说的「房是用来住，不是用来炒」的意思，简称「\textbf{房住不炒}」。\\ \nocite{潘慧娴2010}
+}{
+``\textbf{Affordable housing}'' is one of the main problems of social justice.  The traditional ideal of liberalism is for everyone to have the freedom to achieve their goals in life.  But if the basic necessities are deprived from people then they could be in situations that are virtually without freedom.\\
 
+Housing is an acute problem in most developed countries in particular in big cites.  In Hong Kong (where I'm from) the real-estate tycoon families were a ruling class established during the British colonial period, as a means of using locals to control the masses.  The unfair exploitation of housing became a problem in Hong Kong that persists to this day\cite{Poon2011}.  In China, Xi Jinping in 2016 proposed the political slogan, ``\textbf{Houses are for living, not for speculation}.''\\
+}
+
+\cc{
 其实 这个问题 很可能 已经在差不多一个半世纪以前 被美国经济学家 Henry George 解决了。 他提出的方案是征收 \textbf{地税} (land tax) 来解决土地未被有效运用的问题。 土地税 可以阻止人们垄断土地 作为 “rent-seeking” 的弊端，也就是阻止 炒卖地产。 但这个想法一直没有被执政者 实施过，因为人们根深蒂固地认为 房地产 是经济的重要部分。\\
+}{
+But the answer to the housing problem might have been proposed nearly one and a half century ago by the American economist Henry George.	His solution is the \textbf{land tax} \\
+}
 
 \begin{wrapfigure}[9]{l}{3cm}		% first number = # of lines of narrow text
 	\label{wrap-fig:1}
@@ -114,32 +128,36 @@
 \end{wrapfigure}
 \textit{Henry George (1839-1897) 是他那时代 美国最有名的人之一。 他曾经参选 纽约 市长，但不幸在选举前 中风病逝。他的「粉丝」包括 孙中山、爱因斯坦、Tolstoy、马克$\cdot$吐温、George Bernard Shaw、甚至 马克思、和当代 自由主义经济学家 Milton Friedman、新凯因斯学派的 Joseph Stiglitz 等。 他和他的追随者有时被称为 “圣徒”，他自己有时也用神学的语言谈论经济学。 有人说，出于妒忌，同时代的经济学家 排斥和试图掩盖他的学说。 和马克思提出的共产主义不同之处是，George 认为 {\color{blue}\ 自由竞争} 是自然而合理的。 也可以说 Georgism 是一种社会主义，虽然他不喜欢 socialism 这个用语，但我纯粹用它表示不同于 共产主义极端 的任何较温和的左派思想。} \\
 
-\section{将 ``Georgism'' 应用到 全民医保}
+\section{\cc{将 ``Georgism'' 应用到 全民医保}{Georgism applied to universal healthcare}}
 
 在数学上，有所谓 ``functor'' 的概念，意思是 将一个问题的解决方案，经过抽象以后，应用到另一个不同的问题上，``changing what needs to be changed'':
 \begin{equation}
 \begin{tikzcd}[column sep=2.5cm, row sep=2cm]
-\mbox{问题 1} \arrow[r, "functor"]
+\mbox{\cc{问题}{Domain} 1} \arrow[r, "functor"]
 \arrow[r, to path={ -- ([yshift=4ex]\tikztostart.north) -| (\tikztotarget)},
 rounded corners=12pt, dashed, red]
-\ar[phantom]{r}[yshift=8ex]{\footnotesize{\mbox{\color{red}将左边的解决方案，经过抽象后，应用到右边}}}
-% \arrow[r, dashed, bend left=90, "\footnotesize{\mbox{将左边的解决方案，经过抽象后，应用到右边}}"]
-& \mbox{问题 2}
+\ar[phantom]{r}[yshift=8ex]{\footnotesize{\mbox{\color{red}\cc{将左边的解决方案，经过抽象后，应用到右边}{abstract solution from the left and apply to the right}}}}
+% \arrow[r, dashed, bend left=90, "\footnotesize{\mbox{将左边的解决方案，经过抽象后，应用到右边}}}"]
+& \mbox{\cc{问题}{Domain} 2}
 \end{tikzcd}
 \nonumber
 \end{equation}
 而我一直在思考的问题，就是如何将 George 对土地问题的解决方案 ``func'' 到 全民医保的问题上。 \\
 
-George 的地税思想，其抽象本质就是： 由于 土地 是 \textbf{稀缺资源}，而且它是 人类 \textbf{生命必需} 的资源，所以对它进行 征税 是合理的。 古典经济学的中心思想是 自由市场的 「看不见的手」，而 征税是属于自由市场之外的 ``externality''.  这一点在「资源经济学」或「环境经济学」里得到了肯定。 举例来说： 拥有河流上游的人不应该随便污染下游的水，因为水是 \textbf{稀缺而且生命必需} 的资源，所以它可以 \textbf{例外于} 自由市场的供求定律。\\
+George 的地税思想，其抽象本质就是： 由于 土地 是 \textbf{稀缺资源}，而且它是 人类 \textbf{生命必需} 的资源，所以对它进行 征税 是合理的。 古典经济学的中心思想是 自由市场 「看不见的手」达致资源的最佳分配，而 征税是属于自由市场之外的 ``externality''.  这一点在「资源经济学」或「环境经济学」里得到了肯定。 举例来说： 拥有河流上游的人不应该随便污染下游的水，因为水是 \textbf{稀缺而且生命必需} 的资源，所以它可以 \textbf{例外于} 自由市场的供求定律。\\
 
 那么根据这个看法，将 Georgism 转换到全民医保的方法，似乎就是：
 \begin{eqnarray}
-	\fcolorbox{black}{yellow}{\mbox{土地}} & \longrightarrow \mbox{征税} \nonumber \\
-	\fcolorbox{black}{yellow}{\mbox{医疗资源}} & \longrightarrow \mbox{征税} \nonumber
+	\fcolorbox{black}{yellow}{\mbox{\cc{土地}{Land}}} & \longrightarrow \mbox{\cc{征税}{taxing}} \nonumber \\
+	\fcolorbox{black}{yellow}{\mbox{\cc{医疗资源}{Health Resources}}} & \longrightarrow \mbox{\cc{征税}{taxing}} \nonumber
 \end{eqnarray}
 所不同的是，土地是一种 passive 的资源，但「医疗」是一种 active, 复杂 而 dynamic 的资源，它本身是经济活动的成果。 这就是 ``what needs to be changed'' 的部分。 这个做法的好处是它保留了 医疗领域的 \textbf{自由竞争}，而这是 医疗技术 进步的必要条件。\\
 
-我暂时仍未弄清细节，但有一点好像违反直观： 对医疗资源 征税，岂不是减弱了人们 投资医疗领域的意欲？ 然而，医疗行业 的一个难题 明显就是（公立医院的）医护人员 over-worked and underpaid.  那这个有待提出的税收，有没有可能 反直观地 解决医护人手不足的问题？
+我暂时仍未弄清细节，但有一点好像违反直观： 对医疗资源 征税，岂不是减弱了人们 投资医疗领域的意欲？ 然而，医疗行业 的一个难题 明显就是（公立医院的）医护人员 over-worked and underpaid.  那这个有待提出的税收，有没有可能 反直观地 解决医护人手不足的问题？\\
+
+注意 征税 是针对 医疗资源的 \textbf{拥有者}（不一定是 医生护士等工作者），其作用是 让这些资源 \textbf{更有效} 地利用。 那会不会令 医疗变成一种 \textbf{不吸引} 的投资？ Looking back at land Georgism, its purpose is not to completely ban real estate as a profitable business, but it does make monopolizing land much harder.\\
+
+这种 Georgist 的医疗改革，跟现时的 status quo 不一定有很大差异，需要改革的「距离」或许不远。 它的重点是 提供一个理想或目标，一种改革的 \textbf{原则} (principle)，否则医疗改革的方向不清晰，容易出现腐败和混乱。
 
 \end{minipage}
 \end{preview}

@@ -24,7 +24,7 @@
 \usepackage{verbatim} % for comments
 % \usepackage{newtxtext,newtxmath}	% Times New Roman font
 
-% \titleformat{\subsection}[hang]{\bfseries\large\color{blue}}{}{0pt}{}
+\titleformat{\section}[hang]{\bfseries\large\color{cyan}}{}{0pt}{}
 % \numberwithin{equation}{subsection}
 
 \newcommand{\underdash}[1]{%
@@ -53,7 +53,7 @@
 %\newcommand{\atom}{\vcenter{\hbox{\tcbox{....}}}}
 
 \let\oldtextbf\textbf
-\renewcommand{\textbf}[1]{\textcolor{blue}{\oldtextbf{#1}}}
+\renewcommand{\textbf}[1]{\textcolor{cyan}{\oldtextbf{#1}}}
 
 \newcommand{\logic}[1]{{\color{violet}{\textit{#1}}}}
 \newcommand{\underconst}{\includegraphics[scale=0.5]{../2020/UnderConst.png}}
@@ -65,12 +65,24 @@
 
 \begin{preview}
 
-\title{\vspace{-1cm} \bfseries\color{blue}{\LARGE Solidi Coin - White Paper}}
+\cc{
+\title{\vspace{-1cm} \bfseries\color{cyan}{\Large Solidi 加密貨幣 - 白皮書}}
+}{
+\title{\vspace{-1cm} \bfseries\color{cyan}{\LARGE Solidi Coin - White Paper}}
+}
 
-\author{YKY (Yan King Yin)} % Your name
-% \date{\vspace{-2cm}} % Date, can be changed to a custom date
+% \cc{
+% \author{YKY (甄景賢)}}{
+% \author{YKY (Yan King Yin)}
+% }
 
+\date{\vspace{-1.5cm}\today} % Date, can be changed to a custom date
+
+\cc{
+\centerline{\includegraphics[scale=0.6]{凝聚力-logo-0.png}}
+}{
 \centerline{\includegraphics[scale=0.3]{Solidarity-logo-0.png}}
+}
 
 \maketitle
 
@@ -87,26 +99,51 @@
 \begin{minipage}{\textwidth}
 \setlength{\parskip}{0.4\baselineskip}
 
-\section{Economics of the Solidi Coin \\}
+\section{\cc{Solidi 的貨幣經濟學\\}{Economics of the Solidi Coin \\}}
 
 \begin{itemize}
+	\item Solidi 幣的特點 是以\textbf{投票}形式 賺取的，例如 在新聞平台上發評論，被點贊即能獲得 貨幣獎勵。幣值也稱爲 \textbf{聲譽}，也等於 \textbf{投票權} (下述)。
+
+\cc{
+	\item \textbf{指數式 兌換：}  用戶可以花錢買 聲譽/投票權，但所需的價錢 會隨着聲譽 \textbf{指數式}增加。 換句話說，即使最有錢的個人或基金，都無法用錢換取極大的聲譽值，這保障了 聲譽不會純粹被最有錢的個人或財團主導。也可以說 Solidi 跟現時世界上的 money 是不同類的一種價值，它可以糾正 貧富懸殊的 財富分配，因爲現時世界的財富分配服從 log-normal distribution (對數-正態分佈)。 以下說「現金」泛指傳統金錢。
+}{
 	\item \textbf{Exponential Conversion.}  A member can spend money to ``pump up'' his reputation.  As reputation gets higher, it is increasingly harder to increase one unit of reputation, following an \textbf{exponential} curve: $e^{kR}$ is required to increase one unit of $R$, where $R$ is reputation, $k$ is a scaling constant, eg. $1/1000$.
-	
+}
+
+\cc{
+	\item \textbf{提取款項：}  用 Solidi 兌換現金，即上述的逆運算，則可以得到對數式的現金值。但這樣，當某會員得到了稍為可觀的聲譽，就很有可能 cash-out (withdraw)，獲得現金，而導致平台因缺乏現金而崩盤。 解決辦法是： cash-out 是根據 整體 聲譽的 \textbf{比例} 計算的。 當現金儲備 (即傳統 money) 很少的時候，cash-out 微不足道。 用一句口號概括就是：「指數式買入、線性賣出」
+}{
 	\item \textbf{Withdrawals} can be performed as the inverse conversion of the above.  But this will be problematic; see below.
-	
+}
+
+\cc{
+	\item \textbf{Solidi 的慷概性：}  賺取 聲譽 是很容易的，例如，每次 ``like'' 別人的評論，則評論者獲得 +1 聲譽值，而點贊者 扣除 $\frac{1}{100}$ 聲譽值。 因此人們不會吝嗇給別人點贊。
+}{
 	\item \textbf{Generosity of Likes.}  Every time a member likes a comment, the creator of the comment get +1 unit reputation, while the sender gets $\frac{1}{100}$ deduction in reputation, ie 0.01 unit.
-	
-	\item \cc{
-		由于 exponential conversion，当某会员得到了稍为可观的声誉，就很有可能 cash-out (withdraw)，获得现金，而导致平台因缺乏现金而崩盘。 }{
-		Due to exponential conversion, when a member gets a considerable reputation, she may be tempted to cash-out (withdraw), causing the platform to run out of cash and collapse.  How to prevent this?
+}
+
+\cc{}{
+	\item Due to exponential conversion, when a member gets a considerable reputation, she may be tempted to cash-out (withdraw), causing the platform to run out of cash and collapse.  How to prevent this?
 	}
-	
-	\item \cc{
-		有个解决办法是： cash-out 是根据 整体 声誉 的比例 计算的。 当现金储备很少的时候，cash-out 微不足道。}{
-		A solution is:  withdrawals are calculated as a \textbf{proportion} of the reputation pool, instead of exponential conversion.  This means that when the total cash reserve of the platform is low, withdrawals would also be insignificant.
+
+\cc{}{
+	\item A solution is:  withdrawals are calculated as a \textbf{proportion} of the reputation pool, instead of exponential conversion.  This means that when the total cash reserve of the platform is low, withdrawals would also be insignificant.
 	}
-	
-	
+
+\cc{
+	\item 我們的核心價值是：
+	\begin{equation} \nonumber
+	\vcenter{\hbox{\includegraphics[scale=0.7]{DAO-核心價值.png}}}
+	\end{equation}
+	這些都是很經典的價值，在世界各地的文化裏都有其雛形，但在西方啓蒙時代系統性地提出，這並不表示盲目崇拜西方思想。 隨着科技進步，以上這些原則都是 \textbf{可驗證的} (verifiable)，例如 區塊鏈、開源軟件 等都是可驗證的。
+}{
+}
+
+\cc{
+	\item \textbf{投票權：} （這方面仍未想清楚） 一個科學家在他的研究領域是專家，但在別的領域不一定是專家，所以「聲譽」是有局部性的。 我們希望 Solidi 平台完全是由民主的方式運行的，也就是說，以 \textbf{加權投票} 決定平台的發展方向，而 權重 就是聲譽值。 這表示 投票權 必需以不同的 領域 劃分。
+}{
+}
+
 \end{itemize}
 
 \end{minipage}
@@ -122,16 +159,16 @@
 	\setlength{\parskip}{0.4\baselineskip}
 
 \begin{itemize}
-	\item 
-	
-	\item 
-	
-	\item 
+	\item
+
+	\item
+
+	\item
 	\begin{itemize}
-		\item 
-		\item 
-		\item 
-		
+		\item
+		\item
+		\item
+
 	\end{itemize}
 \end{itemize}
 

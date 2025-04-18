@@ -68,7 +68,7 @@
 \cc{
 \title{\vspace{-1cm} \bfseries\color{cyan}{\Large Solidi 加密貨幣 - 白皮書}}
 }{
-\title{\vspace{-1cm} \bfseries\color{cyan}{\LARGE Solidi Coin - White Paper}}
+\title{\vspace{-1cm} \bfseries\color{cyan}{\Large Solidi Coin - White Paper}}
 }
 
 % \cc{
@@ -76,12 +76,12 @@
 % \author{YKY (Yan King Yin)}
 % }
 
-\date{\vspace{-1.5cm}\today} % Date, can be changed to a custom date
+\date{\vspace{-1.5cm}{\small \today}} % Date, can be changed to a custom date
 
 \cc{
 \centerline{\includegraphics[scale=0.6]{凝聚力-logo-0.png}}
 }{
-\centerline{\includegraphics[scale=0.3]{Solidarity-logo-0.png}}
+\centerline{\includegraphics[scale=0.4]{Solidarity-logo-0.png}}
 }
 
 \maketitle
@@ -91,10 +91,10 @@
 \setcounter{mypage}{0}
 
 % (1) Circled page number on upper left corner
-\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords)
-{\color{red}{\large \textcircled{\small \themypage}}}
-\addtocounter{mypage}{1}
-\end{textblock*}
+%\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords)
+%{\color{red}{\large \textcircled{\small \themypage}}}
+%\addtocounter{mypage}{1}
+%\end{textblock*}
 
 \begin{minipage}{\textwidth}
 \setlength{\parskip}{0.4\baselineskip}
@@ -102,103 +102,78 @@
 \section{\cc{Solidi 的貨幣經濟學\\}{Economics of the Solidi Coin \\}}
 
 \begin{itemize}
-	\item Solidi 幣的特點 是以\textbf{投票}形式 賺取的，例如 在新聞平台上發評論，被點贊即能獲得 貨幣獎勵。幣值也稱爲 \textbf{聲譽}，也等於 \textbf{投票權} (下述)。
-
 \cc{
-	\item \textbf{指數式 兌換：}  用戶可以花錢買 聲譽/投票權，但所需的價錢 會隨着聲譽 \textbf{指數式}增加。 換句話說，即使最有錢的個人或基金，都無法用錢換取極大的聲譽值，這保障了 聲譽不會純粹被最有錢的個人或財團主導。也可以說 Solidi 跟現時世界上的 money 是不同類的一種價值，它可以糾正 貧富懸殊的 財富分配，因爲現時世界的財富分配服從 log-normal distribution (對數-正態分佈)。 以下說「現金」泛指傳統金錢。
+	\item Solidi 幣的特點 是以\textbf{投票}形式 賺取的，例如 在新聞平台上發評論，被 \textbf{點贊} 即能獲得 貨幣獎勵。幣值也稱爲 \textbf{聲譽}，也等於 \textbf{投票權} (下述)。
 }{
-	\item \textbf{Exponential Conversion.}  A member can spend money to ``pump up'' his reputation.  As reputation gets higher, it is increasingly harder to increase one unit of reputation, following an \textbf{exponential} curve: $e^{kR}$ is required to increase one unit of $R$, where $R$ is reputation, $k$ is a scaling constant, eg. $1/1000$.
+	\item Solidi coins are earned via \textbf{voting}.  For example, if your comment on a news site is liked by someone, you get rewarded with Solidi.  Coins are also synonymous with \textbf{reputation}, and also equivalent to \textbf{voting power} (explained below).
 }
 
 \cc{
-	\item \textbf{提取款項：}  用 Solidi 兌換現金，即上述的逆運算，則可以得到對數式的現金值。但這樣，當某會員得到了稍為可觀的聲譽，就很有可能 cash-out (withdraw)，獲得現金，而導致平台因缺乏現金而崩盤。 解決辦法是： cash-out 是根據 整體 聲譽的 \textbf{比例} 計算的。 當現金儲備 (即傳統 money) 很少的時候，cash-out 微不足道。 用一句口號概括就是：「指數式買入、線性賣出」
+	\item \textbf{指數式 兌換：}  用戶可以花錢買 聲譽/投票權，但所需的價錢 會隨着聲譽 \textbf{指數式}增加。 換句話說，即使最有錢的個人或基金，都無法用錢換取極大的聲譽值，這保障了 聲譽不會純粹被 資本 主導。也可以說 Solidi 跟現時世界上的 money 是不同類的一種價值，它可以糾正 貧富懸殊的 財富分配\footnote{譬如《正義》一書的作者、哈佛大學教授 Michael Sandel 說： 大部分人都很感激我們的中學、小學老師，而我們也欣賞 美斯 (Messi) 是世界足球明星，但 美斯 的薪金 卻是一般教師薪金 的好幾萬倍，這裏面似乎有點不妥。}，因爲現時世界的財富分配 服從 log-normal distribution (對數-正態分佈)。 以下說「現金」泛指傳統金錢。
 }{
-	\item \textbf{Withdrawals} can be performed as the inverse conversion of the above.  But this will be problematic; see below.
+	\item \textbf{Exponential Conversion.}  A member can spend money to ``pump up'' his reputation, but it gets \textbf{exponentially} more expensive as his reputation goes up.  % $e^{kR}$ is required to increase one unit of $R$, where $R$ is reputation, $k$ is a scaling constant, eg. $1/1000$.
+	This prevents reputation from being dominated solely by capital, as even the wealthiest individuals or funds could not buy a lot of reputation.  In other words, Solidi is essentially different from traditional money;  It may correct the problem of unfair wealth distribution\footnote{As Michael Sandel, Harvard professor and author of the book ``Justice,'' says:  most of us are grateful to our high school teachers, and we also appreciate the soccer skills of Lionel Messi, but Messi's salary is many thousands of times that of a school teacher's, making us question that something may be wrong with our society.}, as current wealth in our world follows a log-normal distribution.  Below, ``cash'' refers to traditional money.
 }
 
 \cc{
-	\item \textbf{Solidi 的慷概性：}  賺取 聲譽 是很容易的，例如，每次 ``like'' 別人的評論，則評論者獲得 +1 聲譽值，而點贊者 扣除 $\frac{1}{100}$ 聲譽值。 因此人們不會吝嗇給別人點贊。
+	\item \textbf{提取款項：}  用 Solidi 兌換現金， 即上述的逆運算，則可以得到對數式的現金值。但這樣，當某會員得到了稍為可觀的聲譽，就很有可能 cash-out (withdraw)，獲得現金，而導致平台因缺乏現金而崩盤。 解決辦法是： cash-out 是根據 整體 聲譽的 \textbf{比例} 計算的。 當現金儲備 (即傳統 money) 很少的時候，cash-out 微不足道。 用一句口號概括就是：「指數式買入、線性賣出」
 }{
-	\item \textbf{Generosity of Likes.}  Every time a member likes a comment, the creator of the comment get +1 unit reputation, while the sender gets $\frac{1}{100}$ deduction in reputation, ie 0.01 unit.
+	\item \textbf{Withdrawals} is the reverse of the above, but this may be problematic.  As some users get considerable reputation, they may be tempted to cash-out (withdraw), causing the platform to run out of cash and collapse.  How to prevent this?  A solution is to calculate withdrawal as a \textbf{proportion} of the reputation pool.  This means that when the total cash reserve of the platform is low, withdrawals are also insignificant.  In slogan this may be summarized as: \textit{buy exponentially, sell proportionately}.
 }
 
-\cc{}{
-	\item Due to exponential conversion, when a member gets a considerable reputation, she may be tempted to cash-out (withdraw), causing the platform to run out of cash and collapse.  How to prevent this?
-	}
-
-\cc{}{
-	\item A solution is:  withdrawals are calculated as a \textbf{proportion} of the reputation pool, instead of exponential conversion.  This means that when the total cash reserve of the platform is low, withdrawals would also be insignificant.
-	}
+\cc{
+	\item \textbf{Solidi 的慷概性：}  賺取 聲譽 是很容易的，例如，每次 ``like'' 別人的評論，則評論者獲得 +1 聲譽值，而點贊者 扣除 $\frac{1}{100}$ 聲譽值。 因此人們不會吝嗇 給別人點贊。
+}{
+	\item \textbf{Generosity of Likes.}  Every time a member likes a comment, the creator of the comment get +1 unit reputation, while the sender gets $\frac{1}{100}$ deduction in reputation.  This encourages users not to be stingy with likes.
+}
 
 \cc{
-	\item 我們的核心價值是：
+	\item 我們的 \textbf{核心價值} 是：
 	\begin{equation} \nonumber
-	\vcenter{\hbox{\includegraphics[scale=0.7]{DAO-核心價值.png}}}
+		\vcenter{\hbox{\includegraphics[scale=0.7]{DAO-核心價值.png}}}
 	\end{equation}
-	這些都是很經典的價值，在世界各地的文化裏都有其雛形，但在西方啓蒙時代系統性地提出，這並不表示盲目崇拜西方思想。 隨着科技進步，以上這些原則都是 \textbf{可驗證的} (verifiable)，例如 區塊鏈、開源軟件 等都是可驗證的。
+	這些都是很經典的價值，在世界各地的文化裏都有其雛形，但在西方 啓蒙時代 系統性地提出，這並不表示盲目崇拜西方思想。 隨着科技進步，以上這些原則都是 \textbf{可驗證的} (verifiable)，例如 區塊鏈、開源軟件 等都是可驗證的。
 }{
+	\item Our \textbf{Core Values} are:
+	\begin{equation} \nonumber
+		\vcenter{\hbox{\includegraphics[scale=0.7]{DAO-principles.png}}}
+	\end{equation}
+	These are all very classical ideas developed in the Enlightenment period in the West, but are increasingly promoted as ``universal'' as they have primitive roots in almost every culture.  It does not mean imposing Western values on the rest of the world.  As our technology progresses, all these notions can now be \textbf{verifiable}, eg. blockchains and open-source.
 }
 
 \cc{
-	\item \textbf{投票權：} （這方面仍未想清楚） 一個科學家在他的研究領域是專家，但在別的領域不一定是專家，所以「聲譽」是有局部性的。 我們希望 Solidi 平台完全是由民主的方式運行的，也就是說，以 \textbf{加權投票} 決定平台的發展方向，而 權重 就是聲譽值。 這表示 投票權 必需以不同的 領域 劃分。
+	\item \textbf{聲譽 有什麼價值？} 某個領域的專家，在別的領域不一定是專家，所以「聲譽」必需以不同的 領域 劃分。 我們希望 Solidi 平台完全是由 民主 的方式運行的，也就是說，以 \textbf{加權投票} 決定平台的發展方向，而 權重 就是聲譽值。 但 投票權 並不僅限於 Solidi 平台， 它可以發展到 任何領域，包括： 商業、科技、政治活動 (political activism).  很多人不明白 爲什麼 賺錢 要牽涉政治，其實在所有發展中國家（例如非洲），不完善的政治 institutions 是 阻礙 經濟發展的主要原因，包括各種 \textbf{貪腐}，導致經濟 停滯不前 甚至倒退。 後發展的人民必需改變政治制度，而 Solidi 平台是爲 全世界的 後發展國家 邁出的一步。
 }{
+	\item \textbf{What is the economic value of Reputation?}  Expertise in one domain does not imply it in other domains;  so Reputation should be classified by domain.  We intend the Solidi platform to operate strictly by democracy, ie. via \textbf{weighted voting} where weights are reputation.  But Reputation need not be confined to the Solidi platform;  it extends to other domains such as:  business, technology, and political activism.  Many people don't understand why business should involve politics, but the lack of well-functioning political institutions in developing countries is a major obstacle to their economic development.  This includes various forms of \textbf{corruption}.  The people of developing nations must strive to reform our political institutions, and Solidi is a step towards this direction.
 }
-
 \end{itemize}
 
 \end{minipage}
 \end{preview}
 
 \begin{preview}
-\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords)
-	{\color{red}{\large \textcircled{\small \themypage}}}
-	\addtocounter{mypage}{1}
-\end{textblock*}
-
-\begin{minipage}{\textwidth}
-	\setlength{\parskip}{0.4\baselineskip}
-
-\begin{itemize}
-	\item
-
-	\item
-
-	\item
-	\begin{itemize}
-		\item
-		\item
-		\item
-
-	\end{itemize}
-\end{itemize}
-
-
-\end{minipage}
-\end{preview}
-
-\begin{preview}
-\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords)
-{\color{red}{\large \textcircled{\small \themypage}}}
-\addtocounter{mypage}{1}
-\end{textblock*}
-
+%\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords)
+%{\color{red}{\large \textcircled{\small \themypage}}}
+%\addtocounter{mypage}{1}
+%\end{textblock*}
 \begin{minipage}{\textwidth}
 \setlength{\parskip}{0.4\baselineskip}
 
+Some formulas:
+\begin{itemize}
+	\item \textbf{To buy} $N$ Solidi with cash $W$:\\
+		\begin{equation}
+		W = e^{k \cdot N}
+		\end{equation}
+	where $k$ is a conversion constant such as 1000. \\
+	For example, with US\$100, one can buy
 
-\end{minipage}
-\end{preview}
+	\item \textbf{To sell} $m$ Solidi, withdrawing cash $W$.  Suppose the whole platform has a total of $N$ Solidi (generated by mutual ``liking'').  Suppose the actual cash pool of the Solidi platform is $T = e^{k \cdot n}$, in other words, $n$ Solidi.  We cannot simply let users withdraw $W = e^{k \cdot m}$ as that would eventually bankrupt the platform.  Instead we will let him withdraw, proportionately,
+	\begin{equation}
+		W = e^{k \cdot m \frac{n}{N}} .
+	\end{equation}
 
-\begin{preview}
-\begin{textblock*}{5cm}(2.1cm,2.3cm) % {block width} (coords)
-	{\color{red}{\large \textcircled{\small \themypage}}}
-	\addtocounter{mypage}{1}
-\end{textblock*}
-
-\begin{minipage}{\textwidth}
-	\setlength{\parskip}{0.4\baselineskip}
-
-\section{DAO -- more even distribution of earnings}
+\end{itemize}
 
 \end{minipage}
 \end{preview}

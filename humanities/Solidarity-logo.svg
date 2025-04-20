@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="solidarity-logo.svg"
+   sodipodi:docname="Solidarity-logo.svg"
    inkscape:export-filename="/home/yky/latex/humanities/Solidarity-logo-0.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192"
@@ -29,8 +29,8 @@
      inkscape:document-units="mm"
      showborder="true"
      inkscape:zoom="0.5"
-     inkscape:cx="571"
-     inkscape:cy="-321"
+     inkscape:cx="585"
+     inkscape:cy="-215"
      inkscape:window-width="1080"
      inkscape:window-height="1895"
      inkscape:window-x="0"
@@ -1108,12 +1108,193 @@
          in2="result6"
          id="feBlend26190-2-1" />
     </filter>
+    <filter
+       y="-0.28732241"
+       height="1.5817215"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter10583"
+       x="-0.086308602"
+       width="1.172228">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur10573" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite10575" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite10577" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix10579" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend10581" />
+    </filter>
+    <filter
+       y="-0.305425"
+       height="1.6108685"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter26180-1"
+       x="-0.30193069"
+       width="1.6038863">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur26170-3" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite26172-0" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite26174-1" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix26176-9" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend26178-9" />
+    </filter>
+    <filter
+       y="-0.30407755"
+       height="1.6081058"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter26192-2"
+       x="-0.29363493"
+       width="1.5872456">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur26182-0" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite26184-0" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite26186-7" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix26188-3" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend26190-9" />
+    </filter>
+    <filter
+       y="-0.28732241"
+       height="1.5817215"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter10583-7"
+       x="-0.086308602"
+       width="1.172228">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur10573-6" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite10575-4" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite10577-9" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix10579-3" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend10581-3" />
+    </filter>
+    <filter
+       y="-0.28732241"
+       height="1.5817215"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter31677"
+       x="-0.086308602"
+       width="1.172228">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur31667" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite31669" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite31671" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix31673" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend31675" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(194.09911,-13.454365)">
+     transform="translate(194.09911,-13.454365)"
+     style="display:inline">
     <rect
        style="display:inline;mix-blend-mode:luminosity;fill:#000000;fill-opacity:0.755139;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="rect51"
@@ -1122,6 +1303,16 @@
        x="-234.5136"
        y="-127.59224"
        inkscape:export-filename="/home/yky/latex/humanities/Solidarity-logo-dark.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="display:inline;mix-blend-mode:luminosity;fill:#000000;fill-opacity:0.755139;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect51-3"
+       width="378.88318"
+       height="135.13071"
+       x="-218.95221"
+       y="-270.55573"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-dark.png"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <image
@@ -1203,17 +1394,26 @@
     <path
        id="path4-0-8"
        style="display:inline;fill:none;stroke:#00ccff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter26180)"
-       d="m -68.094768,159.51047 c -3.01403,-2.4208 0.0624,-10.86402 5.38403,-16.27229 6.1426,-6.24263 14.5904,-8.21194 18.36045,-4.53651 5.12863,5.39453 1.82751,13.65622 -5.36304,20.27835 -8.30265,7.64633 -20.93751,10.04564 -27.1089,3.87426 -6.1714,-6.17139 -3.62833,-18.72024 5.68009,-28.02866 9.30842,-9.30842 21.85729,-11.85148 28.02868,-5.68009 l 3.97655,3.59799"
-       sodipodi:nodetypes="cscssscc" />
+       d="m -68.094768,161.09798 c -3.01403,-2.4208 0.0624,-10.86402 5.38403,-16.27229 6.1426,-6.24263 14.5904,-8.21194 18.36045,-4.53651 5.12863,5.39453 1.82751,13.65622 -5.36304,20.27835 -8.30265,7.64633 -20.93751,10.04564 -27.1089,3.87426 -6.1714,-6.17139 -3.62833,-18.72024 5.68009,-28.02866 9.30842,-9.30842 21.85729,-11.85148 28.02868,-5.68009 l 3.97655,3.59799"
+       sodipodi:nodetypes="cscssscc"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-0.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
     <path
        id="path5-7-4"
        style="display:inline;fill:none;stroke:#00ccff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter26192)"
-       d="m -46.644828,137.37042 c 1.82412,1.70811 -0.006,10.16065 -5.90803,15.84574 -6.36375,6.12991 -14.44392,8.74146 -18.47371,4.81563 -5.07977,-5.37294 -1.55415,-13.97139 5.63638,-20.59352 8.30266,-7.64633 20.93752,-10.04564 27.10892,-3.87425 6.171386,6.17138 3.628326,18.72023 -5.6801,28.02866 -9.30842,9.30841 -21.07551,12.32904 -28.55143,5.56784 l -4.61718,-4.67125"
-       sodipodi:nodetypes="cscssscc" />
+       d="m -46.644828,138.95793 c 1.82412,1.70811 -0.006,10.16065 -5.90803,15.84574 -6.36375,6.12991 -14.44392,8.74146 -18.47371,4.81563 -5.07977,-5.37294 -1.55415,-13.97139 5.63638,-20.59352 8.30266,-7.64633 20.93752,-10.04564 27.10892,-3.87425 6.171386,6.17138 3.628326,18.72023 -5.6801,28.02866 -9.30842,9.30841 -21.07551,12.32904 -28.55143,5.56784 l -4.61718,-4.67125"
+       sodipodi:nodetypes="cscssscc"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-0.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
     <g
        id="g26168"
        style="stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(0,21.166667)">
+       transform="translate(0,22.754168)"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-0.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
       <path
          id="path4-0-8-8"
          style="display:inline;fill:none;stroke:#00ccff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1304,77 +1504,6 @@
        x="-201.72307"
        y="345.36172"
        style="display:inline;opacity:0.6" />
-    <g
-       id="g3"
-       style="display:inline"
-       transform="translate(103.70878,-573.73153)">
-      <text
-         xml:space="preserve"
-         style="font-weight:300;font-size:8.46667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-         x="-117.0363"
-         y="749.95569"
-         id="text51-1"><tspan
-           sodipodi:role="line"
-           id="tspan51-2"
-           style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-           x="-117.0363"
-           y="749.95569">未</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:300;font-size:8.46667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-92.356346"
-         y="749.95569"
-         id="text51-1-9"><tspan
-           sodipodi:role="line"
-           id="tspan51-2-4"
-           style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-           x="-92.356346"
-           y="749.95569">來</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:300;font-size:8.46667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-67.612183"
-         y="749.95569"
-         id="text51-1-0"><tspan
-           sodipodi:role="line"
-           id="tspan51-2-3"
-           style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-           x="-67.612183"
-           y="749.95569">世</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:300;font-size:8.46667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-42.882839"
-         y="749.95569"
-         id="text51-1-3"><tspan
-           sodipodi:role="line"
-           id="tspan51-2-2"
-           style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-           x="-42.882839"
-           y="749.95569">界</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:300;font-size:8.46667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583"
-         x="-18.622692"
-         y="749.95569"
-         id="text51-1-5"><tspan
-           sodipodi:role="line"
-           id="tspan51-2-47"
-           style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-           x="-18.622692"
-           y="749.95569">民</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:300;font-size:8.46667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583"
-         x="6.5363383"
-         y="749.95569"
-         id="text51-1-37"><tspan
-           sodipodi:role="line"
-           id="tspan51-2-45"
-           style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-           x="6.5363383"
-           y="749.95569">主</tspan></text>
-    </g>
     <g
        id="g19437"
        transform="translate(10.102193,-66.953342)">
@@ -1496,9 +1625,92 @@
          y="250.88329">凝聚力</tspan></text>
     <g
        aria-label="凝聚力"
+       id="text1046-9-2"
+       style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1">
+      <path
+         d="m 144.5881,203.91737 1.87106,10.2562 6.36409,4.42818 -1.6056,-9.13957 z m -3.62131,42.32883 6.87385,-3.36702 3.78053,-12.56257 -3.82255,-7.11395 z m 23.66352,-32.30774 h -3.07579 v -1.88515 l 5.92375,-1.41363 2.8075,-6.22622 -8.73125,2.0836 v -2.57969 h -6.05234 v 15.67656 h 13.39453 l 2.28203,-7.24297 h -6.05234 z m 6.44921,23.71329 v -5.65547 h -4.86171 v -3.57188 h 4.66328 l -3.41748,-5.65547 h -7.19893 l 0.19844,-1.68672 h -5.35781 l -1.78594,9.42579 h 5.45703 l 0.49609,-2.0836 h 1.28985 v 3.57188 h -4.06744 l -2.77866,5.65547 h 5.55625 l -5.35781,9.5746 h 6.35 l 2.57969,-4.31601 1.88515,4.31601 h 5.95313 l -3.77031,-9.5746 z m 5.55625,9.5746 0.4961,-4.51445 4.7625,4.51445 h 8.13593 l -5.65546,-5.70507 v -7.54063 h 5.25859 l -2.61717,-5.8539 h -2.64142 v -4.7625 h 2.97656 l -0.39688,3.175 6.24823,-8.73125 h -5.5537 l -1.88515,-1.48829 4.56406,-8.43359 -4.83019,-3.96875 h -6.99564 l -5.63667,5.65547 h 10.61641 l -2.0836,4.06797 -4.7625,-3.27422 v 5.85391 l 2.48047,1.5875 h -4.46159 l -1.98765,5.55625 h 6.74688 v 13.98984 l -1.5875,-1.48828 v -5.99233 l -5.06016,-3.41713 V 236.858 l -1.38906,10.36835 h 5.25859 v 0 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#000000;stroke-opacity:1"
+         id="path14363"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <path
+         d="m 221.97872,231.89706 8.82199,-0.34149 6.55692,-5.21476 -38.39766,1.38906 4.62333,4.88678 11.25167,-0.42194 v 15.03164 h 7.14375 z m -25.69765,8.53281 16.76796,-3.07578 v -4.66328 l -12.19603,2.23714 z m -0.79375,6.8957 17.56171,-3.175 v -4.81211 l -11.29806,2.04259 z m 28.27734,-14.03945 v 6.44922 l 16.37109,7.78867 -1.62251,-6.84446 -4.23139,-1.9364 4.7625,-2.08359 v -5.55625 l -10.0211,4.56406 z m -6.44922,-9.32656 2.48047,-0.19844 v -4.46484 l -2.48047,0.29765 v -11.41015 h 1.98438 v -4.16719 H 200.9433 l -5.25755,4.16719 h 1.78594 v 13.29531 l -2.67891,0.19844 v 4.36562 l 15.77579,-1.38906 v 1.38906 h 6.74687 z m -6.94531,-15.77578 v 1.5875 H 204.417 v -1.5875 z m -5.95313,5.35781 h 5.95313 v 1.5875 H 204.417 Z m 0,5.35781 h 5.95313 v 1.19063 l -5.95313,0.59531 z m 21.92735,6.44922 3.86953,-3.37344 3.57187,3.37344 h 7.83828 l -7.24296,-7.34219 5.95312,-6.05234 -4.588,-7.24297 h -9.91061 l -4.84905,4.86172 h 12.40235 v 0.89297 l -3.57188,3.67109 -2.28203,-2.38125 h -7.54062 l 5.65547,6.35 -7.14375,7.24297 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#000000;stroke-opacity:1"
+         id="path14365"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <path
+         d="m 258.68966,203.91737 v 4.16719 h -11.1125 l 4.555,6.74687 h 5.86297 l -11.80703,32.39492 10.06792,-6.44383 9.37895,-25.95109 h 17.36328 l -5.9862,25.79688 h -7.47676 l -6.38079,6.59804 h 21.19974 l 5.93545,-31.74616 -5.74988,-7.39563 h -18.50796 v -4.16719 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#000000;stroke-opacity:1"
+         id="path14367"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       aria-label="凝聚力"
+       id="text1046-9-2-8"
+       style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       transform="translate(1.0328746,59.652599)">
+      <path
+         d="m 144.5881,203.91737 2.6789,14.68438 h 5.55625 l -2.57968,-14.68438 z m -0.0992,43.30898 h 5.65547 l 2.97656,-23.8621 h -5.75469 z m 20.14141,-33.28789 h -3.07579 v -1.88515 l 8.73125,-2.0836 v -5.55625 l -8.73125,2.0836 v -2.57969 h -6.05234 v 15.67656 h 13.39453 l 2.28203,-7.24297 h -6.05234 z m 6.44921,23.71329 v -5.65547 h -4.86171 v -3.57188 h 4.66328 v -5.65547 h -10.61641 l 0.19844,-1.68672 h -5.35781 l -1.78594,9.42579 h 5.45703 l 0.49609,-2.0836 h 1.28985 v 3.57188 h -6.8461 v 5.65547 h 5.55625 l -5.35781,9.5746 h 6.35 l 2.57969,-4.31601 1.88515,4.31601 h 5.95313 l -3.77031,-9.5746 z m 5.55625,9.5746 0.4961,-4.51445 4.7625,4.51445 h 8.13593 v -5.70507 h -5.65546 v -7.54063 h 5.25859 v -5.8539 h -5.25859 v -4.7625 h 1.38906 l -0.39688,3.175 h 3.96875 l 1.28985,-8.73125 h -2.97657 l -1.88515,-1.48829 4.56406,-8.43359 v -3.96875 h -17.4625 v 5.65547 h 10.61641 l -2.0836,4.06797 -4.7625,-3.27422 v 5.85391 l 2.48047,1.5875 H 172.667 v 5.55625 h 6.74688 v 13.98984 l -1.5875,-1.48828 v -8.63203 h -5.06016 v 9.62422 l -1.38906,10.36835 h 5.25859 v 0 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#000000;stroke-opacity:1"
+         id="path14363-0" />
+      <path
+         d="m 221.97872,231.89706 15.37891,-0.59531 v -4.96094 l -38.39766,1.38906 v 5.06016 l 15.875,-0.59532 v 15.03164 h 7.14375 z m -25.69765,8.53281 16.76796,-3.07578 v -4.66328 l -16.76796,3.07578 z m -0.79375,6.8957 17.56171,-3.175 v -4.81211 l -17.56171,3.175 z m 28.27734,-14.03945 v 6.44922 l 16.37109,7.78867 v -6.10195 l -5.8539,-2.67891 4.7625,-2.08359 v -5.55625 l -10.0211,4.56406 z m -6.44922,-9.32656 2.48047,-0.19844 v -4.46484 l -2.48047,0.29765 v -11.41015 h 1.98438 v -4.16719 h -23.61407 v 4.16719 h 1.78594 v 13.29531 l -2.67891,0.19844 v 4.36562 l 15.77579,-1.38906 v 1.38906 h 6.74687 z m -6.94531,-15.77578 v 1.5875 H 204.417 v -1.5875 z m -5.95313,5.35781 h 5.95313 v 1.5875 H 204.417 Z m 0,5.35781 h 5.95313 v 1.19063 l -5.95313,0.59531 z m 21.92735,6.44922 3.86953,-3.37344 3.57187,3.37344 h 7.83828 l -7.24296,-7.34219 5.95312,-6.05234 v -7.24297 h -19.34766 v 4.86172 h 12.40235 v 0.89297 l -3.57188,3.67109 -2.28203,-2.38125 h -7.54062 l 5.65547,6.35 -7.14375,7.24297 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#000000;stroke-opacity:1"
+         id="path14365-3" />
+      <path
+         d="m 258.68966,203.91737 v 4.16719 h -11.1125 v 6.74687 h 10.41797 l -11.80703,32.39492 h 7.73906 l 11.70781,-32.39492 h 17.36328 l -0.69453,25.79688 H 269.5045 v 6.59804 h 20.14141 l 0.79375,-39.14179 h -24.40781 v -4.16719 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#000000;stroke-opacity:1"
+         id="path14367-1" />
+    </g>
+    <g
+       aria-label="凝聚力"
+       id="text1046-9-3"
+       style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:none;stroke:#67cdf2;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10583)"
+       transform="translate(132.00122,359.2859)"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-0.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <path
+         d="m -157.53167,-236.36586 2.67891,14.68437 h 5.55625 l -2.57969,-14.68437 z m -0.0992,43.30898 h 5.65547 l 2.97656,-23.86211 h -5.75468 z m 20.14141,-33.28789 h -3.07578 v -1.88516 l 8.73125,-2.08359 v -5.55625 l -8.73125,2.0836 v -2.57969 h -6.05235 v 15.67656 h 13.39454 l 2.28203,-7.24297 h -6.05235 z m 6.44922,23.71328 v -5.65547 h -4.86172 v -3.57187 h 4.66328 v -5.65547 h -10.61641 l 0.19844,-1.68672 h -5.35781 l -1.78594,9.42578 h 5.45703 l 0.4961,-2.08359 h 1.28984 v 3.57187 h -6.84609 v 5.65547 h 5.55625 l -5.35782,9.57461 h 6.35 l 2.57969,-4.31601 1.88516,4.31601 h 5.95312 l -3.77031,-9.57461 z m 5.55625,9.57461 0.49609,-4.51445 4.7625,4.51445 h 8.13594 v -5.70508 h -5.65547 v -7.54062 h 5.25859 v -5.85391 h -5.25859 v -4.7625 h 1.38906 l -0.39687,3.175 h 3.96875 l 1.28984,-8.73125 h -2.97656 l -1.88516,-1.48828 4.56406,-8.43359 v -3.96875 h -17.46249 v 5.65547 h 10.6164 l -2.08359,4.06796 -4.7625,-3.27421 v 5.8539 l 2.48047,1.5875 h -6.44922 v 5.55625 h 6.74687 v 13.98985 l -1.5875,-1.48829 v -8.63203 h -5.06015 v 9.62422 l -1.38907,10.36836 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#67cdf2;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2918" />
+      <path
+         d="m -80.141044,-208.38618 15.378906,-0.59531 v -4.96094 l -38.397652,1.38907 v 5.06015 l 15.874996,-0.59531 v 15.03164 h 7.14375 z m -25.697656,8.53282 16.767968,-3.07578 v -4.66329 l -16.767968,3.07579 z m -0.79375,6.8957 17.561718,-3.175 v -4.81211 l -17.561718,3.175 z m 28.277343,-14.03945 v 6.44922 l 16.371094,7.78867 v -6.10196 l -5.853906,-2.6789 4.762499,-2.0836 v -5.55625 l -10.021093,4.56407 z m -6.449218,-9.32657 2.480468,-0.19843 v -4.46485 l -2.480468,0.29766 v -11.41016 h 1.984375 v -4.16718 h -23.61406 v 4.16718 h 1.78593 v 13.29532 l -2.6789,0.19843 v 4.36563 l 15.77578,-1.38906 v 1.38906 h 6.746875 z m -6.945313,-15.77578 v 1.5875 h -5.953125 v -1.5875 z m -5.953125,5.35782 h 5.953125 v 1.5875 h -5.953125 z m 0,5.35781 h 5.953125 v 1.19062 l -5.953125,0.59532 z m 21.927344,6.44922 3.869531,-3.37344 3.571875,3.37344 h 7.838281 l -7.242969,-7.34219 5.953125,-6.05234 v -7.24297 h -19.347656 v 4.86172 h 12.402344 v 0.89296 l -3.571875,3.6711 -2.282031,-2.38125 h -7.540625 l 5.655468,6.35 -7.143749,7.24297 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#67cdf2;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2915" />
+      <path
+         d="m -43.430107,-236.36586 v 4.16719 h -11.1125 v 6.74687 h 10.417968 l -11.807031,32.39492 h 7.739063 l 11.707812,-32.39492 h 17.363281 l -0.694531,25.79687 h -12.799219 v 6.59805 h 20.141406 l 0.79375,-39.14179 H -36.08792 v -4.16719 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#67cdf2;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2912" />
+    </g>
+    <g
+       aria-label="凝聚力"
+       id="text1046-9-3-9"
+       style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ecffff;fill-opacity:0.60000002;stroke:#67cdf2;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(132.00122,359.2859)"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-0.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <path
+         d="m -157.53167,-236.36586 2.67891,14.68437 h 5.55625 l -2.57969,-14.68437 z m -0.0992,43.30898 h 5.65547 l 2.97656,-23.86211 h -5.75468 z m 20.14141,-33.28789 h -3.07578 v -1.88516 l 8.73125,-2.08359 v -5.55625 l -8.73125,2.0836 v -2.57969 h -6.05235 v 15.67656 h 13.39454 l 2.28203,-7.24297 h -6.05235 z m 6.44922,23.71328 v -5.65547 h -4.86172 v -3.57187 h 4.66328 v -5.65547 h -10.61641 l 0.19844,-1.68672 h -5.35781 l -1.78594,9.42578 h 5.45703 l 0.4961,-2.08359 h 1.28984 v 3.57187 h -6.84609 v 5.65547 h 5.55625 l -5.35782,9.57461 h 6.35 l 2.57969,-4.31601 1.88516,4.31601 h 5.95312 l -3.77031,-9.57461 z m 5.55625,9.57461 0.49609,-4.51445 4.7625,4.51445 h 8.13594 v -5.70508 h -5.65547 v -7.54062 h 5.25859 v -5.85391 h -5.25859 v -4.7625 h 1.38906 l -0.39687,3.175 h 3.96875 l 1.28984,-8.73125 h -2.97656 l -1.88516,-1.48828 4.56406,-8.43359 v -3.96875 h -17.46249 v 5.65547 h 10.6164 l -2.08359,4.06796 -4.7625,-3.27421 v 5.8539 l 2.48047,1.5875 h -6.44922 v 5.55625 h 6.74687 v 13.98985 l -1.5875,-1.48829 v -8.63203 h -5.06015 v 9.62422 l -1.38907,10.36836 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:#ecffff;fill-opacity:0.60000002;stroke:#67cdf2;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2918-0" />
+      <path
+         d="m -80.141044,-208.38618 15.378906,-0.59531 v -4.96094 l -38.397652,1.38907 v 5.06015 l 15.874996,-0.59531 v 15.03164 h 7.14375 z m -25.697656,8.53282 16.767968,-3.07578 v -4.66329 l -16.767968,3.07579 z m -0.79375,6.8957 17.561718,-3.175 v -4.81211 l -17.561718,3.175 z m 28.277343,-14.03945 v 6.44922 l 16.371094,7.78867 v -6.10196 l -5.853906,-2.6789 4.762499,-2.0836 v -5.55625 l -10.021093,4.56407 z m -6.449218,-9.32657 2.480468,-0.19843 v -4.46485 l -2.480468,0.29766 v -11.41016 h 1.984375 v -4.16718 h -23.61406 v 4.16718 h 1.78593 v 13.29532 l -2.6789,0.19843 v 4.36563 l 15.77578,-1.38906 v 1.38906 h 6.746875 z m -6.945313,-15.77578 v 1.5875 h -5.953125 v -1.5875 z m -5.953125,5.35782 h 5.953125 v 1.5875 h -5.953125 z m 0,5.35781 h 5.953125 v 1.19062 l -5.953125,0.59532 z m 21.927344,6.44922 3.869531,-3.37344 3.571875,3.37344 h 7.838281 l -7.242969,-7.34219 5.953125,-6.05234 v -7.24297 h -19.347656 v 4.86172 h 12.402344 v 0.89296 l -3.571875,3.6711 -2.282031,-2.38125 h -7.540625 l 5.655468,6.35 -7.143749,7.24297 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:#ecffff;fill-opacity:0.60000002;stroke:#67cdf2;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2915-8" />
+      <path
+         d="m -43.430107,-236.36586 v 4.16719 h -11.1125 v 6.74687 h 10.417968 l -11.807031,32.39492 h 7.739063 l 11.707812,-32.39492 h 17.363281 l -0.694531,25.79687 h -12.799219 v 6.59805 h 20.141406 l 0.79375,-39.14179 H -36.08792 v -4.16719 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:#ecffff;fill-opacity:0.60000002;stroke:#67cdf2;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2912-1" />
+    </g>
+    <g
+       aria-label="凝聚力"
        id="text1046-0"
        style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter26339);stop-color:#000000"
-       transform="translate(13.004295,-151.07223)">
+       transform="translate(208.79603,-151.07223)"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-0.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
       <path
          d="m -17.209952,287.03006 q -3.6068,-0.5588 -3.6068,-4.7244 l 0.0508,-4.572 q 0,-3.3528 -0.3556,-5.4864 v -0.1524 q 0,-0.3556 0.254,-0.6096 0.254,-0.254 0.508,-0.2032 1.778,0.2032 2.8956,0.508 1.1684,0.3048 1.9304,0.9144 0.508,0.4572 0.508,0.9652 l -0.1016,0.6096 q -0.1524,0.762 -0.508,3.302 l -0.2032,1.2192 0.9144,-0.9652 q 0.1524,-0.1524 0.9652,-1.016 0.8636,-0.8636 1.6764,-2.3876 0.3556,-0.6096 0.8128,-0.6096 0.4064,0 0.7112,0.3048 1.4224002,1.4224 2.1336002,3.302 0.0508,0.1524 0.0508,0.4064 0,0.6604 -0.8636,0.9652 -2.5400002,1.3716 -6.6548002,3.7084 0.0508,0.508 0.254,0.762 0.254,0.254 0.8128,0.4064 0.9144,0.1524 1.4732,0.1524 0.6604,0 1.4732,-0.2032 1.2192,-0.3556 1.6256,-1.2192 0.5080002,-0.9144 0.7112002,-2.794 0.0508,-0.3556 0.254,-0.4064 0.2032,-0.0508 0.3048,0.254 0.3556,1.1176 1.524,2.6416 0.5588,0.8128 0.8636,1.3716 0.3048,0.508 0.3048,0.9144 0,0.7112 -0.508,1.4224 -0.508,0.6604 -1.5748,0.9144 -2.1336002,0.6096 -5.0800002,0.6096 -2.0828,0 -3.556,-0.3048 z m -18.440399,19.1516 q -0.0508,-0.1524 -0.0508,-0.4064 0,-0.5588 0.3556,-0.762 0.4064,-0.2032 1.3208,-0.2032 0.6604,0 1.4732,-0.4064 0.8128,-0.4572 1.524,-1.3208 2.844799,-3.7084 4.622799,-6.5024 1.8288,-2.794 3.4036,-6.35 0.508,-1.016 0.8636,-1.016 0.3048,0 0.3048,0.762 0,0.3556 -0.1524,0.9652 -0.6604,3.048 -1.4732,6.2484 1.3208,-1.7272 2.3876,-4.3688 1.1176,-2.6924 0.9144,-4.1148 l -0.0508,-0.3556 q 0,-0.4064 0.254,-0.5588 0.254,-0.1524 0.8636,-0.1524 1.0668,0 1.9812,0.508 0.9652,0.4572 1.6256,1.1684 0.3556,0.4064 0.3556,0.8128 0,0.254 -0.1524,0.508 1.8796,-0.4064 2.9972,-0.762 0.5588,-0.2032 0.9652,-0.2032 0.6096,0 0.9652,0.3556 1.0668002,1.0668 1.5240002,2.1336 0.2032,0.4064 0.2032,0.8128 0,0.6604 -0.8636,0.762 -1.1176002,0.1016 -5.1816002,0.8128 1.2192,0.508 1.6764,1.3716 0.2032,0.2032 0.2032,0.762 0,0.508 -0.1524,1.1176 h 0.254 q 0.6604,0 1.016,0.254 1.1176,0.6604 2.0320002,1.9304 0.3556,0.4064 0.3556,0.8128 0,0.5588 -1.0668002,0.7112 -0.9144,0.1524 -3.9116,0.9144 l -0.6096,1.6256 q 1.8796,0.7112 2.6924,1.4732 1.016,0.8128 1.016,2.1844 0,1.016 -0.5588,1.9812 -0.5588,0.9144 -1.4732,1.4732 -0.1016,0.1016 -0.4064,0.1016 -0.3556,0 -0.7112,-0.2032 -0.3556,-0.254 -0.4572,-0.4572 -0.254,-0.4064 -1.778,-3.048 -2.3368,4.2672 -5.5372,6.858 -3.2004,2.6416 -6.7564,3.1496 -0.2032,0.0508 -0.508,0.0508 -0.457199,0 -0.457199,-0.2032 0,-0.3048 0.609599,-0.762 2.9464,-2.3876 5.1816,-5.7912 2.2352,-3.4544 3.6576,-6.9596 -0.6096,0.1016 -0.8128,0.1016 -0.9144,0 -1.524,-0.4572 -0.6096,-0.508 -1.3208,-1.5748 -0.1524,-0.3048 -0.1524,-0.6096 0,-0.4064 0.254,-0.6604 0.3048,-0.3048 0.8636,-0.3556 0.9652,-0.0508 4.1148,-0.762 0.0508,-0.2032 0.3048,-1.3208 0.254,-1.1684 0.254,-1.9812 0,-0.7112 -0.2032,-1.27 -2.1336,2.1844 -4.2672,3.2512 -0.508,0.254 -0.9652,0.254 -1.27,4.826 -2.5908,8.5344 -1.27,3.7084 -2.032,4.9276 -0.762,1.1684 -2.031999,1.1684 -0.9652,0 -1.6764,-0.6096 -1.016,-1.0668 -2.032,-2.8956 -1.016,-1.8288 -1.4732,-3.4544 z m 2.794,-26.8732 q -0.7112,-0.5588 -0.7112,-0.9144 0,-0.3556 1.1684,-0.508 0.4064,-0.0508 1.1684,-0.0508 2.793999,0 5.232399,1.1176 2.4892,1.1176 3.4036,2.794 0.4064,0.762 0.4064,1.6256 0,1.27 -0.762,2.4892 -0.762,1.1684 -1.3716,1.4732 -0.8128,0.3048 -1.524,0.3048 -1.27,0 -2.0828,-1.3208 -1.4224,-2.54 -2.590799,-4.2672 -1.1176,-1.778 -2.3368,-2.7432 z m 20.421599,34.3916 q 1.778,-3.302 2.7432002,-6.858 1.016,-3.6068 1.016,-6.4516 0,-1.3716 -0.2032,-2.2352 -0.1016,-0.508 -0.1016,-0.8128 0,-0.9144 0.508,-0.9652 1.4732,0.0508 3.0987999,1.0668 1.6256,0.9652 1.6256,1.9304 0,0.5588 -0.4572,1.9304 -0.4064,2.2352 -0.8636,3.6576 0.762,0.5588 2.3876,1.5748 v -0.4064 -2.3876 q 0,-8.8392 -0.3048,-9.7028 -0.1524,-0.4572 -0.1524,-0.762 l -2.032,0.4572 q -0.3556,0.1524 -0.8636,0.1524 -0.4571999,0 -0.9651999,-0.254 -0.8128,-0.508 -1.2192,-1.27 -0.4064,-0.762 -0.508,-0.8636 -0.3556,-0.7112 -0.3556,-1.1684 0,-0.6604 0.6096,-0.7112 1.2192,-0.0508 3.8607999,-0.5588 2.6924,-0.508 4.92759995,-1.016 l -0.254,-0.3048 q -0.81279998,-1.0668 -2.08279995,-2.0828 -1.2192,-1.016 -1.4732,-1.2192 -1.3208,-1.016 -1.8796,-1.524 -0.2032,-0.2032 -0.2032,-0.508 0,-0.3556 0.5588,-0.4572 0.7112,-0.1524 1.8288,-0.1524 2.1336,0 4.06399994,0.4572 0.60959996,-1.4732 0.96519996,-2.6416 v -0.1524 q 0,-0.8128 -0.7112,-0.6604 -0.76199995,0.1524 -5.4355999,1.5748 -0.3556,0.1524 -0.8128,0.1524 -0.4572,0 -0.8636,-0.254 -0.7111999,-0.508 -1.1175999,-1.3208 -0.4064,-0.8128 -0.5588,-1.016 -0.254,-0.6096 -0.254,-0.8636 0,-0.508 0.762,-0.5588 1.5239999,-0.1016 3.7083999,-0.7112 2.2352,-0.6604 3.70839995,-1.2192 0.40639999,-0.1524 1.26999995,-0.6096 0.3556,-0.2032 0.7112,-0.3556 0.3556,-0.1524 0.6604,-0.1016 0.9144,0.2032 1.8288,0.9144 0.9144,0.7112 1.5748,1.524 1.1683999,1.3208 1.1683999,2.4384 0,0.8128 -0.8127999,1.2192 -0.9652,0.508 -2.286,1.4224 -1.27,0.9144 -2.2352,1.8288 1.1176,0.8128 1.1176,2.032 0,0.7112 -0.4572,1.4732 -0.4572,0.762 -1.27,1.4224 l 1.3208,-0.3556 q 0.7112,-0.254 1.0668,-0.508 0.4572,-0.254 0.8636,-0.3556 0.4064,-0.1524 0.762,-0.1016 2.0319999,0.4064 4.1655999,3.2004 0.7620001,1.0668 0.7620001,1.9812 0,0.7112 -0.6604001,0.9144 -1.3716,0.4064 -3.0987999,1.0668 -1.6764,0.6096 -2.3876,1.016 -0.3556,0.2032 -0.6096,0.2032 -0.254,0 -0.254,-0.254 0,-0.254 0.2032,-0.508 0.508,-0.7112 0.9652,-1.9304 0.1016,-0.2032 0.1016,-0.3048 0,-0.254 -0.508,-0.2032 -0.762,0.1016 -2.0828,0.4064 -1.26999996,0.254 -1.93039995,0.4064 l -1.06679998,0.254 q 1.72719997,0.4572 2.79399993,1.3208 0.3556,0.1524 0.3556,0.9144 0,0.3556 -0.0508,0.508 -0.0508,0.2032 -0.0508,0.8636 l 0.4572,-0.1524 q 0.508,-0.1016 0.762,-0.1016 0.8128,0 1.3716,0.508 0.4064,0.3048 0.9652,1.016 0.5588,0.7112 0.9144,1.3716 0.2032,0.3556 0.2032,0.762 0,0.8636 -1.016,0.9144 -1.27,0.1524 -3.7084,0.5588 v 3.9624 q 0,2.3876 -0.0508,3.0988 l -0.1016,0.8636 q 1.8796,0.9144 4.2672,1.7272 2.8447999,0.8636 6.1468,0.8636 0.7112,0 0.7112,0.4572 0,0.3556 -0.4572,0.7112 -2.8448001,2.1336 -4.3688001,2.5908 -1.3208,0.5588 -2.7939999,0.5588 -1.6256,0 -3.048,-0.7112 -2.99719994,-1.778 -7.2643999,-5.2832 l -1.6763999,-1.4732 q -1.9812,3.8608 -5.1308002,5.9436 -0.508,0.3556 -0.762,0.3556 -0.254,0 -0.254,-0.3556 0,-0.3556 0.2032,-0.8128 z"
          style="font-weight:normal;font-family:'Alimama DongFangDaKai';-inkscape-font-specification:'Alimama DongFangDaKai';font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
@@ -1515,19 +1727,22 @@
     <g
        aria-label="凝聚力"
        id="text1046"
-       style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;opacity:1;fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       transform="translate(13.004295,-151.07223)">
+       style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffec;fill-opacity:0.604912;stroke:#67cdf2;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       transform="translate(208.79603,-151.07223)"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-0.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
       <path
          d="m -17.209952,287.03006 q -3.6068,-0.5588 -3.6068,-4.7244 l 0.0508,-4.572 q 0,-3.3528 -0.3556,-5.4864 v -0.1524 q 0,-0.3556 0.254,-0.6096 0.254,-0.254 0.508,-0.2032 1.778,0.2032 2.8956,0.508 1.1684,0.3048 1.9304,0.9144 0.508,0.4572 0.508,0.9652 l -0.1016,0.6096 q -0.1524,0.762 -0.508,3.302 l -0.2032,1.2192 0.9144,-0.9652 q 0.1524,-0.1524 0.9652,-1.016 0.8636,-0.8636 1.6764,-2.3876 0.3556,-0.6096 0.8128,-0.6096 0.4064,0 0.7112,0.3048 1.4224002,1.4224 2.1336002,3.302 0.0508,0.1524 0.0508,0.4064 0,0.6604 -0.8636,0.9652 -2.5400002,1.3716 -6.6548002,3.7084 0.0508,0.508 0.254,0.762 0.254,0.254 0.8128,0.4064 0.9144,0.1524 1.4732,0.1524 0.6604,0 1.4732,-0.2032 1.2192,-0.3556 1.6256,-1.2192 0.5080002,-0.9144 0.7112002,-2.794 0.0508,-0.3556 0.254,-0.4064 0.2032,-0.0508 0.3048,0.254 0.3556,1.1176 1.524,2.6416 0.5588,0.8128 0.8636,1.3716 0.3048,0.508 0.3048,0.9144 0,0.7112 -0.508,1.4224 -0.508,0.6604 -1.5748,0.9144 -2.1336002,0.6096 -5.0800002,0.6096 -2.0828,0 -3.556,-0.3048 z m -18.440399,19.1516 q -0.0508,-0.1524 -0.0508,-0.4064 0,-0.5588 0.3556,-0.762 0.4064,-0.2032 1.3208,-0.2032 0.6604,0 1.4732,-0.4064 0.8128,-0.4572 1.524,-1.3208 2.844799,-3.7084 4.622799,-6.5024 1.8288,-2.794 3.4036,-6.35 0.508,-1.016 0.8636,-1.016 0.3048,0 0.3048,0.762 0,0.3556 -0.1524,0.9652 -0.6604,3.048 -1.4732,6.2484 1.3208,-1.7272 2.3876,-4.3688 1.1176,-2.6924 0.9144,-4.1148 l -0.0508,-0.3556 q 0,-0.4064 0.254,-0.5588 0.254,-0.1524 0.8636,-0.1524 1.0668,0 1.9812,0.508 0.9652,0.4572 1.6256,1.1684 0.3556,0.4064 0.3556,0.8128 0,0.254 -0.1524,0.508 1.8796,-0.4064 2.9972,-0.762 0.5588,-0.2032 0.9652,-0.2032 0.6096,0 0.9652,0.3556 1.0668002,1.0668 1.5240002,2.1336 0.2032,0.4064 0.2032,0.8128 0,0.6604 -0.8636,0.762 -1.1176002,0.1016 -5.1816002,0.8128 1.2192,0.508 1.6764,1.3716 0.2032,0.2032 0.2032,0.762 0,0.508 -0.1524,1.1176 h 0.254 q 0.6604,0 1.016,0.254 1.1176,0.6604 2.0320002,1.9304 0.3556,0.4064 0.3556,0.8128 0,0.5588 -1.0668002,0.7112 -0.9144,0.1524 -3.9116,0.9144 l -0.6096,1.6256 q 1.8796,0.7112 2.6924,1.4732 1.016,0.8128 1.016,2.1844 0,1.016 -0.5588,1.9812 -0.5588,0.9144 -1.4732,1.4732 -0.1016,0.1016 -0.4064,0.1016 -0.3556,0 -0.7112,-0.2032 -0.3556,-0.254 -0.4572,-0.4572 -0.254,-0.4064 -1.778,-3.048 -2.3368,4.2672 -5.5372,6.858 -3.2004,2.6416 -6.7564,3.1496 -0.2032,0.0508 -0.508,0.0508 -0.457199,0 -0.457199,-0.2032 0,-0.3048 0.609599,-0.762 2.9464,-2.3876 5.1816,-5.7912 2.2352,-3.4544 3.6576,-6.9596 -0.6096,0.1016 -0.8128,0.1016 -0.9144,0 -1.524,-0.4572 -0.6096,-0.508 -1.3208,-1.5748 -0.1524,-0.3048 -0.1524,-0.6096 0,-0.4064 0.254,-0.6604 0.3048,-0.3048 0.8636,-0.3556 0.9652,-0.0508 4.1148,-0.762 0.0508,-0.2032 0.3048,-1.3208 0.254,-1.1684 0.254,-1.9812 0,-0.7112 -0.2032,-1.27 -2.1336,2.1844 -4.2672,3.2512 -0.508,0.254 -0.9652,0.254 -1.27,4.826 -2.5908,8.5344 -1.27,3.7084 -2.032,4.9276 -0.762,1.1684 -2.031999,1.1684 -0.9652,0 -1.6764,-0.6096 -1.016,-1.0668 -2.032,-2.8956 -1.016,-1.8288 -1.4732,-3.4544 z m 2.794,-26.8732 q -0.7112,-0.5588 -0.7112,-0.9144 0,-0.3556 1.1684,-0.508 0.4064,-0.0508 1.1684,-0.0508 2.793999,0 5.232399,1.1176 2.4892,1.1176 3.4036,2.794 0.4064,0.762 0.4064,1.6256 0,1.27 -0.762,2.4892 -0.762,1.1684 -1.3716,1.4732 -0.8128,0.3048 -1.524,0.3048 -1.27,0 -2.0828,-1.3208 -1.4224,-2.54 -2.590799,-4.2672 -1.1176,-1.778 -2.3368,-2.7432 z m 20.421599,34.3916 q 1.778,-3.302 2.7432002,-6.858 1.016,-3.6068 1.016,-6.4516 0,-1.3716 -0.2032,-2.2352 -0.1016,-0.508 -0.1016,-0.8128 0,-0.9144 0.508,-0.9652 1.4732,0.0508 3.0987999,1.0668 1.6256,0.9652 1.6256,1.9304 0,0.5588 -0.4572,1.9304 -0.4064,2.2352 -0.8636,3.6576 0.762,0.5588 2.3876,1.5748 v -0.4064 -2.3876 q 0,-8.8392 -0.3048,-9.7028 -0.1524,-0.4572 -0.1524,-0.762 l -2.032,0.4572 q -0.3556,0.1524 -0.8636,0.1524 -0.4571999,0 -0.9651999,-0.254 -0.8128,-0.508 -1.2192,-1.27 -0.4064,-0.762 -0.508,-0.8636 -0.3556,-0.7112 -0.3556,-1.1684 0,-0.6604 0.6096,-0.7112 1.2192,-0.0508 3.8607999,-0.5588 2.6924,-0.508 4.92759995,-1.016 l -0.254,-0.3048 q -0.81279998,-1.0668 -2.08279995,-2.0828 -1.2192,-1.016 -1.4732,-1.2192 -1.3208,-1.016 -1.8796,-1.524 -0.2032,-0.2032 -0.2032,-0.508 0,-0.3556 0.5588,-0.4572 0.7112,-0.1524 1.8288,-0.1524 2.1336,0 4.06399994,0.4572 0.60959996,-1.4732 0.96519996,-2.6416 v -0.1524 q 0,-0.8128 -0.7112,-0.6604 -0.76199995,0.1524 -5.4355999,1.5748 -0.3556,0.1524 -0.8128,0.1524 -0.4572,0 -0.8636,-0.254 -0.7111999,-0.508 -1.1175999,-1.3208 -0.4064,-0.8128 -0.5588,-1.016 -0.254,-0.6096 -0.254,-0.8636 0,-0.508 0.762,-0.5588 1.5239999,-0.1016 3.7083999,-0.7112 2.2352,-0.6604 3.70839995,-1.2192 0.40639999,-0.1524 1.26999995,-0.6096 0.3556,-0.2032 0.7112,-0.3556 0.3556,-0.1524 0.6604,-0.1016 0.9144,0.2032 1.8288,0.9144 0.9144,0.7112 1.5748,1.524 1.1683999,1.3208 1.1683999,2.4384 0,0.8128 -0.8127999,1.2192 -0.9652,0.508 -2.286,1.4224 -1.27,0.9144 -2.2352,1.8288 1.1176,0.8128 1.1176,2.032 0,0.7112 -0.4572,1.4732 -0.4572,0.762 -1.27,1.4224 l 1.3208,-0.3556 q 0.7112,-0.254 1.0668,-0.508 0.4572,-0.254 0.8636,-0.3556 0.4064,-0.1524 0.762,-0.1016 2.0319999,0.4064 4.1655999,3.2004 0.7620001,1.0668 0.7620001,1.9812 0,0.7112 -0.6604001,0.9144 -1.3716,0.4064 -3.0987999,1.0668 -1.6764,0.6096 -2.3876,1.016 -0.3556,0.2032 -0.6096,0.2032 -0.254,0 -0.254,-0.254 0,-0.254 0.2032,-0.508 0.508,-0.7112 0.9652,-1.9304 0.1016,-0.2032 0.1016,-0.3048 0,-0.254 -0.508,-0.2032 -0.762,0.1016 -2.0828,0.4064 -1.26999996,0.254 -1.93039995,0.4064 l -1.06679998,0.254 q 1.72719997,0.4572 2.79399993,1.3208 0.3556,0.1524 0.3556,0.9144 0,0.3556 -0.0508,0.508 -0.0508,0.2032 -0.0508,0.8636 l 0.4572,-0.1524 q 0.508,-0.1016 0.762,-0.1016 0.8128,0 1.3716,0.508 0.4064,0.3048 0.9652,1.016 0.5588,0.7112 0.9144,1.3716 0.2032,0.3556 0.2032,0.762 0,0.8636 -1.016,0.9144 -1.27,0.1524 -3.7084,0.5588 v 3.9624 q 0,2.3876 -0.0508,3.0988 l -0.1016,0.8636 q 1.8796,0.9144 4.2672,1.7272 2.8447999,0.8636 6.1468,0.8636 0.7112,0 0.7112,0.4572 0,0.3556 -0.4572,0.7112 -2.8448001,2.1336 -4.3688001,2.5908 -1.3208,0.5588 -2.7939999,0.5588 -1.6256,0 -3.048,-0.7112 -2.99719994,-1.778 -7.2643999,-5.2832 l -1.6763999,-1.4732 q -1.9812,3.8608 -5.1308002,5.9436 -0.508,0.3556 -0.762,0.3556 -0.254,0 -0.254,-0.3556 0,-0.3556 0.2032,-0.8128 z"
-         style="font-weight:normal;font-family:'Alimama DongFangDaKai';-inkscape-font-specification:'Alimama DongFangDaKai';font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-weight:normal;font-family:'Alimama DongFangDaKai';-inkscape-font-specification:'Alimama DongFangDaKai';font-variation-settings:normal;fill:#ffffec;fill-opacity:0.604912;stroke:#67cdf2;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="path13455" />
       <path
          d="m 18.705552,309.48366 q -0.6604,0 -0.6604,-0.254 0,-0.1524 0.4064,-0.4064 2.2352,-1.27 4.9784,-4.0132 2.7432,-2.7432 4.318,-5.6896 -1.9304,0 -2.8448,-0.0508 -0.5588,-0.0508 -1.1176,-0.2032 -0.508,-0.2032 -0.508,-0.4064 0,-0.254 0.8636,-0.4064 7.4168,-1.4224 12.8524,-2.8448 5.4356,-1.4732 6.4516,-2.8956 0.4572,-0.6604 1.1176,-0.6604 0.5588,0 1.27,0.3556 1.3208,0.7112 2.5908,1.778 1.27,1.016 1.27,1.8288 0,0.508 -0.762,1.0668 -0.762,0.508 -2.032,0.8128 -1.4224,0.4064 -5.08,0.8128 -0.2032,0.6096 -0.254,0.9652 l -0.1524,0.8128 q 1.2192,1.3716 2.8956,2.54 2.7432,-1.8288 4.4704,-3.4036 1.778,-1.6256 1.6256,-2.8448 v -0.0508 q 0,-0.3048 0.5588,-0.3048 0.4064,0 0.7112,0.1524 2.032,0.6096 3.302,1.4224 1.27,0.8128 1.6256,1.3208 0.5588,0.6604 0.5588,1.1176 0,0.9144 -1.9812,1.4732 -5.9944,1.5748 -9.1948,2.3368 3.6576,2.3876 8.3312,4.6228 4.7244,2.1844 7.2644,3.048 1.016,0.4572 1.016,0.9144 0,0.4064 -0.5588,0.7112 -2.6924,1.6256 -6.4008,2.4384 -0.9652,0.3048 -1.8288,0.3048 -1.8288,0 -3.6576,-1.6764 -3.048,-2.8956 -8.7884,-9.0424 l 0.0508,2.7432 q 0.1016,4.064 0.1016,6.4516 0,2.6416 -0.4572,3.81 -0.4572,1.1684 -1.7272,1.1684 -1.0668,0 -2.3368,-0.6096 -1.27,-0.6096 -2.1844,-1.6764 -0.9144,-1.016 -0.9652,-2.286 0,-0.3048 0.3048,-1.4224 0.2032,-0.762 0.4064,-1.7272 0.2032,-1.016 0.254,-2.1336 -7.7216,6.4516 -17.8308,7.62 l -0.5588,0.0508 q -0.7112,0 -0.7112,-0.254 0,-0.3048 0.9144,-0.762 4.4196,-2.1844 8.3312,-5.2832 3.9624,-3.0988 6.4516,-5.842 2.4892,-2.7432 2.7432,-3.7084 0.1524,-0.508 0.7112,-0.6604 l -0.0508,-1.3716 v -0.3556 q -1.3208,0.1016 -1.9304,0.1016 0.508,0.3048 0.8636,0.762 0.254,0.3556 0.254,0.508 0,0.2032 -0.2032,0.4572 -0.2032,0.2032 -0.508,0.4572 -0.6604,0.508 -0.8128,0.7112 -2.7432,3.4544 -6.7056,5.2832 -3.9116,1.8288 -6.858,2.286 z m -0.9144,-34.1884 q -0.0508,-0.1016 -0.0508,-0.3048 0,-0.3048 0.254,-0.508 0.254,-0.254 0.7112,-0.254 2.8956,-0.1016 8.5852,-0.8636 5.6896,-0.8128 9.4996,-1.778 1.4224,-0.3556 2.286,-0.3556 0.7112,0 1.1684,0.1524 0.4572,0.1524 0.5588,0.2032 1.1684,0.6096 2.2352,2.3368 0.1016,0.254 0.1016,0.6604 0,0.5588 -0.3556,0.8636 -0.3048,0.3048 -0.8636,0.3048 -2.4384,0 -3.7592,0.1016 0,0.3048 -0.1016,1.524 0.7112,-0.254 2.032,-0.4572 l 1.524,-0.3048 q 4.318,-0.7112 5.842,-1.1684 1.524,-0.4572 2.6416,-1.0668 0.5588,-0.3556 1.1684,-0.3556 0.4064,0 0.8636,0.1524 0.508,0.1524 0.7112,0.2032 1.27,0.6096 2.2352,1.3208 0.9652,0.6604 0.9652,1.3208 0.0508,0.3048 -0.1524,0.6096 -0.1524,0.254 -0.4572,0.6096 -0.3048,0.3556 -0.4064,0.5588 -1.6764,3.7084 -3.2512,5.9436 0.254,0.1016 0.4572,0.2032 0.2032,0.1016 0.3556,0.1524 4.7244,2.286 4.7244,5.0292 0,0.8128 -0.508,1.7272 -1.4224,2.0828 -2.7432,2.0828 -1.1684,0 -2.54,-1.6256 -1.2192,-1.4732 -3.556,-3.5052 -3.048,2.3368 -8.2804,4.0132 -0.254,0.1016 -0.7112,0.1016 -0.6604,0 -0.6604,-0.3556 0,-0.2032 0.4064,-0.5588 3.3528,-2.3368 5.9944,-5.9436 l -3.6576,-2.8956 q -0.762,-0.5588 -1.3716,-1.0668 -0.762,-0.6096 -0.762,-0.8636 0,-0.3048 0.9652,-0.3048 2.4892,0 7.0104,1.7272 0.9144,-1.778 1.3208,-2.9464 v -0.1524 q 0,-0.2032 -0.508,-0.1524 -0.3048,0 -1.4732,0.254 -4.7752,0.8128 -5.842,0.8636 -0.4572,0 -0.8128,-0.1016 -0.3048,-0.1524 -0.6096,-0.3556 -0.254,-0.2032 -0.3556,-0.254 l -0.5588,-0.5588 q 0.1524,7.9248 0.1524,11.3792 0,0.8636 -0.0508,1.27 0,0.4064 0,0.5588 -0.2032,1.3208 -1.27,2.0828 -0.6096,0.4572 -1.4224,0.6604 -0.8128,0.2032 -1.524,0.1016 -1.524,-0.1016 -1.524,-3.2004 v -0.4572 l -1.4224,1.2192 q -2.0828,1.9812 -4.572,3.556 -0.9652,0.508 -1.524,0.508 -0.4064,0 -0.8636,-0.2032 -0.4064,-0.254 -0.6096,-0.3556 -1.27,-0.6096 -2.4892,-1.7272 -1.1684,-1.1176 -1.1684,-1.778 l -0.0508,-0.254 q 0,-0.508 1.1684,-0.762 l 1.7272,-0.4064 q 0.1524,-1.8288 0.1524,-3.8608 0,-1.8796 -0.0508,-2.8956 -0.0508,-1.0668 -0.0508,-1.4732 0,-3.4036 -0.4572,-5.1308 -0.4064,0.1016 -0.6604,0.1016 -1.016,0 -2.0828,-0.762 -1.016,-0.8128 -1.6764,-2.1336 z m 10.5156,1.6256 q 0.2032,0.4572 0.1524,0.9652 -0.0508,0.4572 -0.0508,0.5588 v 1.016 q 0.6096,-0.1524 1.1176,-0.2032 0.5588,-0.1016 1.016,-0.2032 1.016,-0.2032 1.8288,-0.1524 0,-1.8288 -0.0508,-2.54 -1.8288,0.2032 -4.0132,0.5588 z m 0.2032,7.62 q 1.6256,-0.254 2.286,-0.3556 0.4572,-0.1524 1.5748,-0.1524 v -2.0828 q -1.7272,0.0508 -3.9116,0.3048 z m 0.254,5.334 3.6576,-1.0668 v -1.7272 q -2.3368,0.1016 -3.81,0.3048 z"
-         style="font-weight:normal;font-family:'Alimama DongFangDaKai';-inkscape-font-specification:'Alimama DongFangDaKai';font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-weight:normal;font-family:'Alimama DongFangDaKai';-inkscape-font-specification:'Alimama DongFangDaKai';font-variation-settings:normal;fill:#ffffec;fill-opacity:0.604912;stroke:#67cdf2;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="path13428" />
       <path
          d="m 71.740656,317.61166 q -1.1176,0.3556 -1.9304,0.3556 -0.8128,0 -0.8128,-0.4064 0,-0.2032 0.4572,-0.6096 11.3792,-9.144 14.9352,-26.0604 -0.3048,0.1016 -0.9144,0.2032 l -3.6576,0.7112 q -1.2192,0.2032 -2.54,-1.1684 -1.27,-1.4224 -2.032,-2.9464 -0.2032,-0.508 -0.2032,-0.6604 0,-0.5588 1.2192,-0.5588 2.54,-0.1016 9.0932,-1.0668 0.3556,-2.8956 0.5588,-6.6548 0.2032,-2.6416 -1.1176,-6.35 -0.1524,-0.3048 -0.1524,-0.6096 0,-0.8128 1.524,-0.8128 1.8288,0.0508 4.2672,1.3208 2.4384,1.27 3.6576,2.4384 0.5588,0.508 0.5588,1.1684 0,0.6604 -0.508,1.524 -0.7112,1.3208 -0.8636,2.9972 l -0.508,3.9116 q 6.4516,-1.0668 7.416804,-1.5748 1.016,-0.508 1.9812,-0.508 0.6096,0 1.016,0.2032 1.2192,0.6604 2.3876,1.778 1.2192,1.1176 1.7272,2.032 0.254,0.6096 0.254,0.8636 0,0.254 -0.3048,1.0668 -0.3048,0.6604 -0.508,2.9464 -0.4572,3.81 -1.778,10.8712 -1.27,7.0612 -2.2352,10.16 -0.6096,1.9304 -1.1684,2.9972 -0.508,1.1176 -1.625604,2.032 -1.4224,1.1176 -2.7432,1.1176 -1.5748,0 -2.4384,-1.4224 -1.9304,-3.302 -4.3688,-5.842 -0.4572,-0.5588 -0.4572,-0.762 0,-0.4064 0.7112,-0.2032 2.3368,0.6604 3.302,0.6604 0.6096,0 0.9652,-0.254 0.3556,-0.3048 0.7112,-1.1176 1.0668,-2.3876 2.2352,-8.4328 1.1684,-6.0452 1.6764,-11.7856 l 0.0508,-0.4064 q 0,-0.4572 -0.508,-0.4572 l -0.7112,0.1016 -6.5532,1.1176 q -2.0828,9.8552 -6.8072,17.7292 -4.6736,7.8232 -13.2588,10.3632 z"
-         style="font-weight:normal;font-family:'Alimama DongFangDaKai';-inkscape-font-specification:'Alimama DongFangDaKai';font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#00ccff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-weight:normal;font-family:'Alimama DongFangDaKai';-inkscape-font-specification:'Alimama DongFangDaKai';font-variation-settings:normal;fill:#ffffec;fill-opacity:0.604912;stroke:#67cdf2;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="path13425" />
     </g>
     <g
@@ -1701,5 +1916,109 @@
          id="text11866"
          style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:0px;word-spacing:0px;opacity:0.05;fill:#67cdf2;stroke-width:0.264583" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:9.87778px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:18.5208px;word-spacing:0px;fill:#000000;stroke-width:0.264583"
+       x="-28.401152"
+       y="178.65128"
+       id="text7575"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-0.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         sodipodi:role="line"
+         id="tspan7573"
+         style="font-size:9.87778px;fill:#000000;stroke-width:0.264583"
+         x="-28.401152"
+         y="178.65128">未來世界民主</tspan></text>
+    <path
+       id="path4-0-8-80"
+       style="display:inline;fill:none;stroke:#00ccff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter26180-1)"
+       d="m -127.81375,-195.82578 c -3.01403,-2.4208 0.0624,-10.86402 5.38403,-16.27229 6.1426,-6.24263 14.5904,-8.21194 18.36045,-4.53651 5.128633,5.39453 1.82751,13.65622 -5.36304,20.27835 -8.30265,7.64633 -20.93751,10.04564 -27.1089,3.87426 -6.1714,-6.17139 -3.62833,-18.72024 5.68009,-28.02866 9.30842,-9.30842 21.85729,-11.85148 28.02868,-5.68009 l 3.976553,3.59799"
+       sodipodi:nodetypes="cscssscc"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-dark.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       id="path5-7-4-3"
+       style="display:inline;fill:none;stroke:#00ccff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter26192-2)"
+       d="m -106.36381,-217.96583 c 1.82412,1.70811 -0.006,10.16065 -5.90803,15.84574 -6.36375,6.12991 -14.44392,8.74146 -18.47371,4.81563 -5.07977,-5.37294 -1.55415,-13.97139 5.63638,-20.59352 8.30266,-7.64633 20.93752,-10.04564 27.108923,-3.87425 6.171386,6.17138 3.628326,18.72023 -5.680103,28.02866 -9.30842,9.30841 -21.07551,12.32904 -28.55143,5.56784 l -4.61718,-4.67125"
+       sodipodi:nodetypes="cscssscc"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-dark.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <g
+       id="g26168-7"
+       style="display:inline;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(-59.718979,-334.16959)"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-dark.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <path
+         id="path4-0-8-8-1"
+         style="display:inline;fill:none;stroke:#00ccff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -68.094768,138.34379 c -3.01403,-2.4208 0.0624,-10.86402 5.38403,-16.27229 6.1426,-6.24263 14.5904,-8.21194 18.36045,-4.53651 5.12863,5.39453 1.82751,13.65622 -5.36304,20.27835 -8.30265,7.64633 -20.93751,10.04564 -27.1089,3.87426 -6.1714,-6.17139 -3.62833,-18.72024 5.68009,-28.02866 9.30842,-9.30842 21.85729,-11.85148 28.02868,-5.68009 l 3.97655,3.59799"
+         sodipodi:nodetypes="cscssscc" />
+      <path
+         id="path5-7-4-1-5"
+         style="display:inline;fill:none;stroke:#00ccff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -46.644828,116.20374 c 1.82412,1.70811 -0.006,10.16065 -5.90803,15.84574 -6.36375,6.12991 -14.44392,8.74146 -18.47371,4.81563 -5.07977,-5.37294 -1.55415,-13.97139 5.63638,-20.59352 8.30266,-7.64633 20.93752,-10.04564 27.10892,-3.87425 6.171386,6.17138 3.628326,18.72023 -5.6801,28.02866 -9.30842,9.30841 -21.07551,12.32904 -28.55143,5.56784 l -4.61718,-4.67125"
+         sodipodi:nodetypes="cscssscc" />
+    </g>
+    <g
+       aria-label="凝聚力"
+       id="text1046-9-3-1"
+       style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:none;stroke:#67cdf2;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter31677)"
+       transform="translate(72.282241,2.3620903)"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-dark.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <path
+         d="m -157.53167,-236.36586 2.67891,14.68437 h 5.55625 l -2.57969,-14.68437 z m -0.0992,43.30898 h 5.65547 l 2.97656,-23.86211 h -5.75468 z m 20.14141,-33.28789 h -3.07578 v -1.88516 l 8.73125,-2.08359 v -5.55625 l -8.73125,2.0836 v -2.57969 h -6.05235 v 15.67656 h 13.39454 l 2.28203,-7.24297 h -6.05235 z m 6.44922,23.71328 v -5.65547 h -4.86172 v -3.57187 h 4.66328 v -5.65547 h -10.61641 l 0.19844,-1.68672 h -5.35781 l -1.78594,9.42578 h 5.45703 l 0.4961,-2.08359 h 1.28984 v 3.57187 h -6.84609 v 5.65547 h 5.55625 l -5.35782,9.57461 h 6.35 l 2.57969,-4.31601 1.88516,4.31601 h 5.95312 l -3.77031,-9.57461 z m 5.55625,9.57461 0.49609,-4.51445 4.7625,4.51445 h 8.13594 v -5.70508 h -5.65547 v -7.54062 h 5.25859 v -5.85391 h -5.25859 v -4.7625 h 1.38906 l -0.39687,3.175 h 3.96875 l 1.28984,-8.73125 h -2.97656 l -1.88516,-1.48828 4.56406,-8.43359 v -3.96875 h -17.46249 v 5.65547 h 10.6164 l -2.08359,4.06796 -4.7625,-3.27421 v 5.8539 l 2.48047,1.5875 h -6.44922 v 5.55625 h 6.74687 v 13.98985 l -1.5875,-1.48829 v -8.63203 h -5.06015 v 9.62422 l -1.38907,10.36836 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#67cdf2;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2918-2" />
+      <path
+         d="m -80.141044,-208.38618 15.378906,-0.59531 v -4.96094 l -38.397652,1.38907 v 5.06015 l 15.874996,-0.59531 v 15.03164 h 7.14375 z m -25.697656,8.53282 16.767968,-3.07578 v -4.66329 l -16.767968,3.07579 z m -0.79375,6.8957 17.561718,-3.175 v -4.81211 l -17.561718,3.175 z m 28.277343,-14.03945 v 6.44922 l 16.371094,7.78867 v -6.10196 l -5.853906,-2.6789 4.762499,-2.0836 v -5.55625 l -10.021093,4.56407 z m -6.449218,-9.32657 2.480468,-0.19843 v -4.46485 l -2.480468,0.29766 v -11.41016 h 1.984375 v -4.16718 h -23.61406 v 4.16718 h 1.78593 v 13.29532 l -2.6789,0.19843 v 4.36563 l 15.77578,-1.38906 v 1.38906 h 6.746875 z m -6.945313,-15.77578 v 1.5875 h -5.953125 v -1.5875 z m -5.953125,5.35782 h 5.953125 v 1.5875 h -5.953125 z m 0,5.35781 h 5.953125 v 1.19062 l -5.953125,0.59532 z m 21.927344,6.44922 3.869531,-3.37344 3.571875,3.37344 h 7.838281 l -7.242969,-7.34219 5.953125,-6.05234 v -7.24297 h -19.347656 v 4.86172 h 12.402344 v 0.89296 l -3.571875,3.6711 -2.282031,-2.38125 h -7.540625 l 5.655468,6.35 -7.143749,7.24297 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#67cdf2;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2915-2" />
+      <path
+         d="m -43.430107,-236.36586 v 4.16719 h -11.1125 v 6.74687 h 10.417968 l -11.807031,32.39492 h 7.739063 l 11.707812,-32.39492 h 17.363281 l -0.694531,25.79687 h -12.799219 v 6.59805 h 20.141406 l 0.79375,-39.14179 H -36.08792 v -4.16719 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:none;stroke:#67cdf2;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2912-13" />
+    </g>
+    <g
+       aria-label="凝聚力"
+       id="text1046-9-3-9-2"
+       style="font-weight:300;font-size:50.8px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.1;stroke:#8de2ff;stroke-width:1.32299993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(72.282241,2.3620903)"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-dark.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <path
+         d="m -157.53167,-236.36586 2.67891,14.68437 h 5.55625 l -2.57969,-14.68437 z m -0.0992,43.30898 h 5.65547 l 2.97656,-23.86211 h -5.75468 z m 20.14141,-33.28789 h -3.07578 v -1.88516 l 8.73125,-2.08359 v -5.55625 l -8.73125,2.0836 v -2.57969 h -6.05235 v 15.67656 h 13.39454 l 2.28203,-7.24297 h -6.05235 z m 6.44922,23.71328 v -5.65547 h -4.86172 v -3.57187 h 4.66328 v -5.65547 h -10.61641 l 0.19844,-1.68672 h -5.35781 l -1.78594,9.42578 h 5.45703 l 0.4961,-2.08359 h 1.28984 v 3.57187 h -6.84609 v 5.65547 h 5.55625 l -5.35782,9.57461 h 6.35 l 2.57969,-4.31601 1.88516,4.31601 h 5.95312 l -3.77031,-9.57461 z m 5.55625,9.57461 0.49609,-4.51445 4.7625,4.51445 h 8.13594 v -5.70508 h -5.65547 v -7.54062 h 5.25859 v -5.85391 h -5.25859 v -4.7625 h 1.38906 l -0.39687,3.175 h 3.96875 l 1.28984,-8.73125 h -2.97656 l -1.88516,-1.48828 4.56406,-8.43359 v -3.96875 h -17.46249 v 5.65547 h 10.6164 l -2.08359,4.06796 -4.7625,-3.27421 v 5.8539 l 2.48047,1.5875 h -6.44922 v 5.55625 h 6.74687 v 13.98985 l -1.5875,-1.48829 v -8.63203 h -5.06015 v 9.62422 l -1.38907,10.36836 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:#000000;fill-opacity:0.1;stroke:#8de2ff;stroke-width:1.32299993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2918-0-7" />
+      <path
+         d="m -80.141044,-208.38618 15.378906,-0.59531 v -4.96094 l -38.397652,1.38907 v 5.06015 l 15.874996,-0.59531 v 15.03164 h 7.14375 z m -25.697656,8.53282 16.767968,-3.07578 v -4.66329 l -16.767968,3.07579 z m -0.79375,6.8957 17.561718,-3.175 v -4.81211 l -17.561718,3.175 z m 28.277343,-14.03945 v 6.44922 l 16.371094,7.78867 v -6.10196 l -5.853906,-2.6789 4.762499,-2.0836 v -5.55625 l -10.021093,4.56407 z m -6.449218,-9.32657 2.480468,-0.19843 v -4.46485 l -2.480468,0.29766 v -11.41016 h 1.984375 v -4.16718 h -23.61406 v 4.16718 h 1.78593 v 13.29532 l -2.6789,0.19843 v 4.36563 l 15.77578,-1.38906 v 1.38906 h 6.746875 z m -6.945313,-15.77578 v 1.5875 h -5.953125 v -1.5875 z m -5.953125,5.35782 h 5.953125 v 1.5875 h -5.953125 z m 0,5.35781 h 5.953125 v 1.19062 l -5.953125,0.59532 z m 21.927344,6.44922 3.869531,-3.37344 3.571875,3.37344 h 7.838281 l -7.242969,-7.34219 5.953125,-6.05234 v -7.24297 h -19.347656 v 4.86172 h 12.402344 v 0.89296 l -3.571875,3.6711 -2.282031,-2.38125 h -7.540625 l 5.655468,6.35 -7.143749,7.24297 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:#000000;fill-opacity:0.1;stroke:#8de2ff;stroke-width:1.32299993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2915-8-4" />
+      <path
+         d="m -43.430107,-236.36586 v 4.16719 h -11.1125 v 6.74687 h 10.417968 l -11.807031,32.39492 h 7.739063 l 11.707812,-32.39492 h 17.363281 l -0.694531,25.79687 h -12.799219 v 6.59805 h 20.141406 l 0.79375,-39.14179 H -36.08792 v -4.16719 z"
+         style="font-weight:normal;font-family:'锐字锐线怒放黑简1.0';-inkscape-font-specification:'锐字锐线怒放黑简1.0';fill:#000000;fill-opacity:0.1;stroke:#8de2ff;stroke-width:1.32299993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2912-1-5" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:9.87778px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:18.5208px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="-88.120125"
+       y="-178.27264"
+       id="text7575-9"
+       inkscape:export-filename="/home/yky/latex/humanities/凝聚力-logo-dark.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         sodipodi:role="line"
+         id="tspan7573-6"
+         style="font-size:9.87778px;fill:#ffffff;stroke-width:0.264583"
+         x="-88.120125"
+         y="-178.27264">未來世界民主</tspan></text>
   </g>
 </svg>

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
    sodipodi:docname="DAO-principles.svg"
    inkscape:export-filename="/home/yky/latex/humanities/DAO principles.png"
    inkscape:export-xdpi="192"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1"
-     inkscape:cx="196.5"
-     inkscape:cy="-313.5"
-     inkscape:window-width="1080"
+     inkscape:cx="-469"
+     inkscape:cy="-23"
+     inkscape:window-width="1082"
      inkscape:window-height="1895"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -41,8 +41,8 @@
      inkscape:snap-global="false"><inkscape:page
        x="0"
        y="0"
-       width="167.54091"
-       height="111.59479"
+       width="134.78673"
+       height="104.35591"
        id="page9"
        margin="5"
        bleed="0"
@@ -234,18 +234,18 @@
        xml:space="preserve"><tspan
          x="44.894447"
          y="95.545471"
-         id="tspan72936"><tspan
+         id="tspan6"><tspan
            style="font-weight:300;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi Light'"
-           id="tspan72930">Icons are from the </tspan><tspan
+           id="tspan2">Icons are from the </tspan><tspan
            style="font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan72932">Noun Project</tspan><tspan
+           id="tspan3">Noun Project</tspan><tspan
            style="font-weight:300;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi Light'"
-           id="tspan72934"> created by (clockwise from top left) Luis Prado, Shape'Br, </tspan></tspan><tspan
+           id="tspan5"> created by (clockwise from top left) Luis Prado, Shape'Br, </tspan></tspan><tspan
          x="44.894447"
          y="100.38206"
-         id="tspan72940"><tspan
+         id="tspan8"><tspan
            style="font-weight:300;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi Light'"
-           id="tspan72938">WEBTECHOPS LLP, ranukumbolo lab, FBianchi, Hanbai, gravisio, Future 365, Thomas Deckert, Jino</tspan></tspan></text><path
+           id="tspan7">WEBTECHOPS LLP, ranukumbolo lab, FBianchi, Hanbai, gravisio, Future 365, Thomas Deckert, Jino</tspan></tspan></text><path
        d="m 71.696068,32.910098 0.49371,0.22146 c 0.0754,0.0337 0.0718,0.1393 -0.001,0.17105 l -0.49848,0.21709 -0.22145,0.49491 c -0.0337,0.0742 -0.13851,0.071 -0.16986,-0.001 l -0.21829,-0.49847 -0.49371,-0.22146 c -0.0754,-0.0337 -0.0718,-0.1393 10e-4,-0.17105 l 0.49848,-0.21828 0.22145,-0.49372 c 0.0337,-0.0754 0.13851,-0.071 0.16987,10e-4 z m -3.60998,-0.36552 0.49371,0.22146 c 0.0754,0.0337 0.071,0.1397 -10e-4,0.17105 l -0.49847,0.21709 -0.22146,0.49371 c -0.0337,0.0754 -0.1397,0.0718 -0.17105,0 l -0.21709,-0.49847 -0.49371,-0.22146 c -0.0754,-0.0337 -0.0718,-0.1397 0,-0.17105 l 0.49847,-0.21828 0.22146,-0.49371 c 0.0337,-0.0754 0.1397,-0.071 0.17105,10e-4 z m -3.61116,0.36552 0.49371,0.22146 c 0.0754,0.0337 0.0718,0.1393 0,0.17105 l -0.49848,0.21709 -0.22145,0.49491 c -0.0337,0.0742 -0.13931,0.071 -0.17106,-0.001 l -0.21828,-0.49847 -0.49371,-0.22146 c -0.0754,-0.0337 -0.0718,-0.1393 10e-4,-0.17105 l 0.49847,-0.21828 0.22146,-0.49372 c 0.0337,-0.0754 0.1393,-0.071 0.17105,10e-4 z m 6.19402,6.781794 c -1.59543,-1.596227 -4.18385,-1.596227 -5.78008,0 -1.59623,1.59623 -1.59623,4.18386 0,5.780087 1.59623,1.59623 4.18504,1.59623 5.78008,0 1.59663,-1.596227 1.59663,-4.183857 0,-5.780087 z m -0.81319,0.79971 c -1.15412,-1.154117 -3.02617,-1.154117 -4.18068,0 -1.15412,1.15411 -1.15412,3.02617 0,4.18068 1.15411,1.154107 3.02617,1.154107 4.18068,0 1.1553,-1.15451 1.1553,-3.02657 0,-4.18068 z m -2.09034,-1.183477 c 1.80776,0 3.27382,1.466047 3.27382,3.273817 0,1.80776 -1.46606,3.273817 -3.27382,3.273817 -1.80777,0 -3.27383,-1.466057 -3.27383,-3.273817 0,-1.80777 1.46606,-3.273817 3.27383,-3.273817 z m -0.15875,2.880907 v -0.97195 c -0.46474,0.0913 -0.65127,0.5469 -0.30837,0.82908 0.0833,0.0687 0.1893,0.11946 0.30837,0.14287 z m 0.3175,0.3433 v 1.41843 c 0.70524,-0.098 1.00568,-0.78859 0.49609,-1.20729 -0.13057,-0.10756 -0.30281,-0.18415 -0.49609,-0.21114 z m -0.3175,-2.01136 c 0,-0.20797 0.3171,-0.20797 0.3171,0 v 0.37465 c 0.42426,0.0595 0.80208,0.37345 0.80208,0.80645 0,0.20915 -0.3171,0.20915 -0.3171,0 0,-0.25519 -0.23614,-0.43657 -0.48498,-0.48499 v 0.99656 c 1.01362,0.11231 1.43193,1.1676 0.69731,1.77204 -0.18574,0.15201 -0.42743,0.25519 -0.69731,0.28575 v 0.37108 c 0,0.20796 -0.3171,0.20796 -0.3171,0 v -0.37108 c -0.55682,-0.0619 -1.0676,-0.46355 -1.0676,-1.02949 0,-0.20796 0.31711,-0.20796 0.31711,0 0,0.38815 0.36909,0.65603 0.75049,0.70882 v -1.44105 c -0.7751,-0.11153 -1.07673,-0.92909 -0.5084,-1.39621 0.13613,-0.11231 0.31274,-0.19129 0.5084,-0.21828 z m -7.07827,-3.276207 c -0.0742,1.01481 0.67945,1.56726 1.57044,1.84627 0.70405,-1.143 1.75061,-2.06217 2.98132,-2.60549 0.1901,-0.0845 0.31829,0.20598 0.127,0.29012 -1.19697,0.52863 -2.21297,1.43113 -2.88211,2.55151 -1.48828,2.495147 -1.09458,5.684434 0.96282,7.742224 2.47968,2.47968 6.50042,2.47968 8.9797,0 1.593054,-1.59305 2.246714,-3.944137 1.631154,-6.178547 -0.501654,-1.823637 -1.813324,-3.348027 -3.551634,-4.115187 -0.19011,-0.0845 -0.0631,-0.37465 0.12819,-0.29012 1.23071,0.54332 2.27687,1.46249 2.98132,2.60549 0.890994,-0.27901 1.644654,-0.83146 1.570444,-1.84627 -0.30361,0.18772 -0.66953,0.34886 -1.1049,0.49292 -0.198044,0.0651 -0.298064,-0.23614 -0.0988,-0.30162 1.30492,-0.4322 2.09827,-1.02275 2.04311,-2.48285 -0.41751,0.42743 -0.96203,0.75485 -1.54226,0.98306 -0.19447,0.0754 -0.31035,-0.21948 -0.11588,-0.29607 1.56051,-0.61198 2.65707,-1.943897 1.89547,-3.630217 -0.83264,2.21496 -4.660904,2.922587 -6.744494,3.828257 -0.67271,0.29369 -0.66953,1.3073 0.15637,1.56368 1.05171,0.32743 2.05422,1.09895 2.69557,1.98795 1.56726,2.173687 1.32199,5.161357 -0.57031,7.053654 -2.1328,2.13281 -5.59356,2.13281 -7.72636,0 -1.8923,-1.892297 -2.13876,-4.880367 -0.57031,-7.053654 0.64135,-0.8886 1.64346,-1.66052 2.69557,-1.98795 0.82471,-0.25638 0.82908,-1.26999 0.15637,-1.56368 -2.08359,-0.90567 -5.91185,-1.613297 -6.74449,-3.828257 -0.77272,1.71014 0.36433,3.027357 1.89547,3.630217 0.19447,0.0766 0.0778,0.37107 -0.11588,0.29607 -0.58182,-0.22821 -1.12633,-0.55563 -1.54226,-0.98306 -0.0226,0.59293 0.0865,1.05767 0.35004,1.42994 0.3183,0.45005 0.86956,0.78065 1.69307,1.05291 0.19804,0.0651 0.0988,0.36671 -0.0988,0.30162 -0.43577,-0.14406 -0.80129,-0.3048 -1.1049,-0.49292 z"
        id="path1-7"
        style="stroke-width:0.0396874" /><text
@@ -316,14 +316,14 @@
        transform="translate(207.38397,-34.120762)"><tspan
          x="-175.78125"
          y="45.289181"
-         id="tspan72944"><tspan
+         id="tspan13"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan72942">These are our core values: (which are all very basic </tspan></tspan><tspan
+           id="tspan9">These are our core values: (which are all very basic </tspan></tspan><tspan
          x="-175.78125"
          y="53.226681"
-         id="tspan72948"><tspan
+         id="tspan16"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan72946">values in political science)</tspan></tspan></text><text
+           id="tspan15">values in political science)</tspan></tspan></text><text
        xml:space="preserve"
        style="font-weight:300;font-size:6.35px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:162.472;display:inline;stroke-width:0.264583"
        x="-175.78125"
@@ -332,298 +332,298 @@
        transform="translate(22.762965,107.45427)"><tspan
          x="-175.78125"
          y="45.289181"
-         id="tspan72954"><tspan
+         id="tspan19"><tspan
            style="font-size:4.93889px"
-           id="tspan72950">[ These values are often associated with American idealism but </tspan><tspan
+           id="tspan17">[ These values are often associated with American idealism but </tspan><tspan
            style="font-size:4.93889px"
-           id="tspan72952">increasing </tspan></tspan><tspan
+           id="tspan18">increasing </tspan></tspan><tspan
          x="-175.78125"
          y="53.226681"
-         id="tspan72960"><tspan
+         id="tspan22"><tspan
            style="font-size:4.93889px"
-           id="tspan72956">they are eroded in practice.  For example, China is paying </tspan><tspan
+           id="tspan20">they are eroded in practice.  For example, China is paying </tspan><tspan
            style="font-size:4.93889px"
-           id="tspan72958">YouTube and </tspan></tspan><tspan
+           id="tspan21">YouTube and </tspan></tspan><tspan
          x="-175.78125"
          y="61.164181"
-         id="tspan72966"><tspan
+         id="tspan25"><tspan
            style="font-size:4.93889px"
-           id="tspan72962">Facebook to censor contents that are unfavorable to the </tspan><tspan
+           id="tspan23">Facebook to censor contents that are unfavorable to the </tspan><tspan
            style="font-size:4.93889px"
-           id="tspan72964">regime.  Section </tspan></tspan><tspan
+           id="tspan24">regime.  Section </tspan></tspan><tspan
          x="-175.78125"
          y="69.101681"
-         id="tspan72972"><tspan
+         id="tspan28"><tspan
            style="font-size:4.93889px"
-           id="tspan72968">230 of the US Communications Decency Act grants </tspan><tspan
+           id="tspan26">230 of the US Communications Decency Act grants </tspan><tspan
            style="font-size:4.93889px"
-           id="tspan72970">media the freedom to </tspan></tspan><tspan
+           id="tspan27">media the freedom to </tspan></tspan><tspan
          x="-175.78125"
          y="77.039181"
-         id="tspan72978"><tspan
+         id="tspan31"><tspan
            style="font-size:4.93889px"
-           id="tspan72974">censor contents with immunity from civil </tspan><tspan
+           id="tspan29">censor contents with immunity from civil </tspan><tspan
            style="font-size:4.93889px"
-           id="tspan72976">liability.  This is unlikely  to </tspan></tspan><tspan
+           id="tspan30">liability.  This is unlikely  to </tspan></tspan><tspan
          x="-175.78125"
          y="84.976681"
-         id="tspan72984"><tspan
+         id="tspan34"><tspan
            style="font-size:4.93889px"
-           id="tspan72980">change any time soon.  In the meantime, </tspan><tspan
+           id="tspan32">change any time soon.  In the meantime, </tspan><tspan
            style="font-size:4.93889px"
-           id="tspan72982">the world desperately needs </tspan></tspan><tspan
+           id="tspan33">the world desperately needs </tspan></tspan><tspan
          x="-175.78125"
          y="92.914181"
-         id="tspan72990"><tspan
+         id="tspan37"><tspan
            style="font-size:4.93889px"
-           id="tspan72986">neutral media platfoms to educate </tspan><tspan
+           id="tspan35">neutral media platfoms to educate </tspan><tspan
            style="font-size:4.93889px"
-           id="tspan72988">people about political issues, </tspan></tspan><tspan
+           id="tspan36">people about political issues, </tspan></tspan><tspan
          x="-175.78125"
          y="100.85168"
-         id="tspan72996"><tspan
+         id="tspan40"><tspan
            style="font-size:4.93889px"
-           id="tspan72992">particularly in what are formerly called </tspan><tspan
+           id="tspan38">particularly in what are formerly called </tspan><tspan
            style="font-size:4.93889px"
-           id="tspan72994">third-world or developing </tspan></tspan><tspan
+           id="tspan39">third-world or developing </tspan></tspan><tspan
          x="-175.78125"
          y="108.78918"
-         id="tspan73002"><tspan
+         id="tspan43"><tspan
            style="font-size:4.93889px"
-           id="tspan72998">countries. ]</tspan><tspan
+           id="tspan41">countries. ]</tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73000">
+           id="tspan42">
 </tspan></tspan><tspan
          x="-175.78125"
          y="116.72668"
-         id="tspan73006"><tspan
+         id="tspan45"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73004">
+           id="tspan44">
 </tspan></tspan><tspan
          x="-175.78125"
          y="124.66418"
-         id="tspan73014"><tspan
+         id="tspan49"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73008">Our </tspan><tspan
+           id="tspan46">Our </tspan><tspan
            style="font-weight:500;-inkscape-font-specification:'Alibaba PuHuiTi Medium';fill:#0000ff"
-           id="tspan73010">DAO</tspan><tspan
+           id="tspan47">DAO</tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73012"> (decentralized autonomous organization) </tspan></tspan><tspan
+           id="tspan48"> (decentralized autonomous organization) </tspan></tspan><tspan
          x="-175.78125"
          y="132.60168"
-         id="tspan73018"><tspan
+         id="tspan51"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73016">would be run adhering to these principles, not just </tspan></tspan><tspan
+           id="tspan50">would be run adhering to these principles, not just </tspan></tspan><tspan
          x="-175.78125"
          y="140.53918"
-         id="tspan73026"><tspan
+         id="tspan55"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73020">loosely but in straightly </tspan><tspan
+           id="tspan52">loosely but in straightly </tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Alibaba PuHuiTi Bold';fill:#0000ff"
-           id="tspan73022">verifiable</tspan><tspan
+           id="tspan53">verifiable</tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73024"> ways, for example </tspan></tspan><tspan
+           id="tspan54"> ways, for example </tspan></tspan><tspan
          x="-175.78125"
          y="148.47668"
-         id="tspan73030"><tspan
+         id="tspan57"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73028">verifiable freedom of speech.
+           id="tspan56">verifiable freedom of speech.
 </tspan></tspan><tspan
          x="-175.78125"
          y="156.41418"
-         id="tspan73034"><tspan
+         id="tspan59"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73032">
+           id="tspan58">
 </tspan></tspan><tspan
          x="-175.78125"
          y="164.35168"
-         id="tspan73038"><tspan
+         id="tspan61"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73036">The reputation earned from &quot;likes&quot; translates to </tspan></tspan><tspan
+           id="tspan60">The reputation earned from &quot;likes&quot; translates to </tspan></tspan><tspan
          x="-175.78125"
          y="172.28918"
-         id="tspan73044"><tspan
+         id="tspan64"><tspan
            style="font-weight:500;-inkscape-font-specification:'Alibaba PuHuiTi Medium';fill:#0000ff"
-           id="tspan73040">voting power</tspan><tspan
+           id="tspan62">voting power</tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73042"> in this community.  The reputations can </tspan></tspan><tspan
+           id="tspan63"> in this community.  The reputations can </tspan></tspan><tspan
          x="-175.78125"
          y="180.22668"
-         id="tspan73048"><tspan
+         id="tspan66"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73046">be used to launch sub-communities for political </tspan></tspan><tspan
+           id="tspan65">be used to launch sub-communities for political </tspan></tspan><tspan
          x="-175.78125"
          y="188.16418"
-         id="tspan73052"><tspan
+         id="tspan68"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
-           id="tspan73050">activism or commercial projects.</tspan></tspan></text><text
+           id="tspan67">activism or commercial projects.</tspan></tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;shape-padding:0;shape-margin:0;inline-size:518.442;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;shape-padding:0;shape-margin:0;inline-size:518.442;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        x="81.287201"
        y="613.00708"
        id="text6831"
        transform="matrix(0.26458333,0,0,0.26458333,-11.149649,-11.805783)"><tspan
          x="81.287201"
          y="613.00708"
-         id="tspan73054">为什么不成功？
+         id="tspan69">为什么不成功？
 </tspan><tspan
          x="81.287201"
          y="636.34047"
-         id="tspan73056">民主并不一定公平，但怎样才公平？
+         id="tspan70">民主并不一定公平，但怎样才公平？
 </tspan><tspan
          x="81.287201"
          y="659.67385"
-         id="tspan73058">民主是一种决策的方式，但它不一定公平
+         id="tspan71">民主是一种决策的方式，但它不一定公平
 </tspan><tspan
          x="81.287201"
          y="683.00722"
-         id="tspan73060">只有“自由竞争”才是合理的
+         id="tspan72">只有“自由竞争”才是合理的
 </tspan><tspan
          x="81.287201"
          y="706.3406"
-         id="tspan73062">
+         id="tspan73">
 </tspan><tspan
          x="81.287201"
          y="729.67397"
-         id="tspan73064">我曾经提出问题：
+         id="tspan74">我曾经提出问题：
 </tspan><tspan
          x="81.287201"
          y="753.00734"
-         id="tspan73066">民主的公平性：民主本来可以是公平的
+         id="tspan75">民主的公平性：民主本来可以是公平的
 </tspan><tspan
          x="81.287201"
          y="776.34072"
-         id="tspan73068">我们假设民主涌现 meritocracy
+         id="tspan76">我们假设民主涌现 meritocracy
 </tspan><tspan
          x="81.287201"
          y="799.67409"
-         id="tspan73070">但历史制造了不公平，有些人坚持历史正义
+         id="tspan77">但历史制造了不公平，有些人坚持历史正义
 </tspan><tspan
          x="81.287201"
          y="823.00747"
-         id="tspan73072">“历史正义”是存在的
+         id="tspan78">“历史正义”是存在的
 </tspan><tspan
          x="81.287201"
          y="846.34084"
-         id="tspan73074">但“历史正义”并不等于绝对平等
+         id="tspan79">但“历史正义”并不等于绝对平等
 </tspan><tspan
          x="81.287201"
          y="869.67421"
-         id="tspan73076">例如：
+         id="tspan80">例如：
 </tspan><tspan
          x="81.287201"
          y="893.00759"
-         id="tspan73078">1）欧洲人殖民美洲、非洲
+         id="tspan81">1）欧洲人殖民美洲、非洲
 </tspan><tspan
          x="81.287201"
          y="916.34096"
-         id="tspan73080">    European colonization of Americas &amp; Africa
+         id="tspan82">    European colonization of Americas &amp; Africa
 </tspan><tspan
          x="81.287201"
          y="939.67434"
-         id="tspan73082">2）英国人殖民印度
+         id="tspan83">2）英国人殖民印度
 </tspan><tspan
          x="81.287201"
          y="963.00771"
-         id="tspan73084">    British colonization of India
+         id="tspan84">    British colonization of India
 </tspan><tspan
          x="81.287201"
          y="986.34109"
-         id="tspan73086">3）伊斯兰 扩张
+         id="tspan85">3）伊斯兰 扩张
 </tspan><tspan
          x="81.287201"
          y="1009.6745"
-         id="tspan73088">    expansion of Islam
+         id="tspan86">    expansion of Islam
 </tspan><tspan
          x="81.287201"
          y="1033.0078"
-         id="tspan73090">考虑因素：
+         id="tspan87">考虑因素：
 </tspan><tspan
          x="81.287201"
          y="1056.3413"
-         id="tspan73092">A）「换了是你也一样」= 当时的道德标准
+         id="tspan88">A）「换了是你也一样」= 当时的道德标准
 </tspan><tspan
          x="81.287201"
          y="1079.6746"
-         id="tspan73094">    地理决定某个群体的 dominance
+         id="tspan89">    地理决定某个群体的 dominance
 </tspan><tspan
          x="81.287201"
          y="1103.008"
-         id="tspan73096">    群体之间开始争斗，带来战争伤亡
+         id="tspan90">    群体之间开始争斗，带来战争伤亡
 </tspan><tspan
          x="81.287201"
          y="1126.3414"
-         id="tspan73098">    很难判断 谁是谁非
+         id="tspan91">    很难判断 谁是谁非
 </tspan><tspan
          x="81.287201"
          y="1149.6748"
-         id="tspan73100">B）非正义遗留下来的不平等是否那么大？
+         id="tspan92">B）非正义遗留下来的不平等是否那么大？
 </tspan><tspan
          x="81.287201"
          y="1173.0081"
-         id="tspan73102">    但这条问题的答案明显是“yes”
+         id="tspan93">    但这条问题的答案明显是“yes”
 </tspan><tspan
          x="81.287201"
          y="1196.3415"
-         id="tspan73104">    而这妨碍了 meritocracy 和 民主
+         id="tspan94">    而这妨碍了 meritocracy 和 民主
 </tspan><tspan
          x="81.287201"
          y="1219.6749"
-         id="tspan73106">C）历史正义 是可以补偿的
+         id="tspan95">C）历史正义 是可以补偿的
 </tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;shape-padding:0;shape-margin:0;inline-size:439.237;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:pre;shape-padding:0;shape-margin:0;inline-size:439.237;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        x="372.57214"
        y="486.64288"
        id="text20834"
        transform="matrix(0.26458333,0,0,0.26458333,15.444149,21.575044)"><tspan
          x="372.57214"
          y="486.64288"
-         id="tspan73108">换句话说，历史上存在的不平等与不正义
+         id="tspan96">换句话说，历史上存在的不平等与不正义
 </tspan><tspan
          x="372.57214"
          y="509.97625"
-         id="tspan73110">干扰了民主和才能主义合作的可能
+         id="tspan97">干扰了民主和才能主义合作的可能
 </tspan><tspan
          x="372.57214"
          y="533.30965"
-         id="tspan73112">但合作又是赚钱的先决条件
+         id="tspan98">但合作又是赚钱的先决条件
 </tspan><tspan
          x="372.57214"
          y="556.64303"
-         id="tspan73114">
+         id="tspan99">
 </tspan><tspan
          x="372.57214"
          y="579.9764"
-         id="tspan73116">举例来说，故意造成饥荒、破坏教育机构
+         id="tspan100">举例来说，故意造成饥荒、破坏教育机构
 </tspan><tspan
          x="372.57214"
          y="603.30977"
-         id="tspan73118">影响了某个地区人民的平均才能
+         id="tspan101">影响了某个地区人民的平均才能
 </tspan><tspan
          x="372.57214"
          y="626.64315"
-         id="tspan73120">故此 才能主义并不公平，除非作出历史补偿
+         id="tspan102">故此 才能主义并不公平，除非作出历史补偿
 </tspan><tspan
          x="372.57214"
          y="649.97652"
-         id="tspan73122">才能主义、公平竞争是没有历史之下的合作原则
+         id="tspan103">才能主义、公平竞争是没有历史之下的合作原则
 </tspan><tspan
          x="372.57214"
          y="673.3099"
-         id="tspan73124">但在历史的扰乱下，必需找出合作的方案
+         id="tspan104">但在历史的扰乱下，必需找出合作的方案
 </tspan><tspan
          x="372.57214"
          y="696.64327"
-         id="tspan73126">在历史扰乱下，群众有各自的历史正义
+         id="tspan105">在历史扰乱下，群众有各自的历史正义
 </tspan><tspan
          x="372.57214"
          y="719.97664"
-         id="tspan73128">所以在我们组织里面，似乎有必要算出历史正义
+         id="tspan106">所以在我们组织里面，似乎有必要算出历史正义
 </tspan><tspan
          x="372.57214"
          y="743.31002"
-         id="tspan73130">(!!)</tspan></text><path
+         id="tspan107">(!!)</tspan></text><path
        id="path48580"
        style="fill:url(#linearGradient48780);stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
        d="m 40.745831,356.59705 v -32.20606 h 64.373489 l -0.7963,51.67052 -21.442769,-2.08317 z"
@@ -726,7 +726,57 @@
        style="stroke-width:0.211666"
        inkscape:export-filename="/home/yky/latex/humanities/DAO principles.png"
        inkscape:export-xdpi="192"
-       inkscape:export-ydpi="192" /></g><g
+       inkscape:export-ydpi="192" /><text
+       xml:space="preserve"
+       style="font-weight:300;font-size:24px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';text-align:end;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:162.472;display:inline;fill:#000000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="-767"
+       y="53"
+       id="text1"
+       transform="matrix(0.26458333,0,0,0.26458333,40.745831,324.39099)" /><text
+       xml:space="preserve"
+       style="font-weight:300;font-size:21.3333px;line-height:1.25;font-family:'Alibaba PuHuiTi';-inkscape-font-specification:'Alibaba PuHuiTi, Light';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:422.368;display:inline;fill:#000000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="-751.36792"
+       y="156"
+       id="text3"
+       transform="matrix(0.26458333,0,0,0.26458333,40.745831,324.39099)"><tspan
+         x="-751.36792"
+         y="156"
+         id="tspan109"><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Alibaba PuHuiTi'"
+   id="tspan108">身份的问题：</tspan>
+</tspan><tspan
+         x="-751.36792"
+         y="182.66662"
+         id="tspan110">AI 可以假扮人类的身份
+</tspan><tspan
+         x="-751.36792"
+         y="209.33325"
+         id="tspan111">认证人类身份是必输的竞赛
+</tspan><tspan
+         x="-751.36792"
+         y="235.99987"
+         id="tspan112">而且弱势人群很难认证身份
+</tspan><tspan
+         x="-751.36792"
+         y="262.6665"
+         id="tspan113">所以辨认「贡献」更合理
+</tspan><tspan
+         x="-751.36792"
+         y="289.33311"
+         id="tspan114">但 AI 可以不断 spawn 贡献
+</tspan><tspan
+         x="-751.36792"
+         y="315.99974"
+         id="tspan115">这岂不是证明了 AI 完全可以取代人？
+</tspan><tspan
+         x="-751.36792"
+         y="342.66636"
+         id="tspan116">所以问题其实是人的意志 (free will)
+</tspan><tspan
+         x="-751.36792"
+         y="369.33299"
+         id="tspan117">但即使是 free will 也可以被模仿
+</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="English"

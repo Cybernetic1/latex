@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="Iran-political-forces.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,14 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.2561409"
-     inkscape:cx="396.85039"
-     inkscape:cy="561.64083"
+     inkscape:cx="397.24843"
+     inkscape:cy="562.4369"
      inkscape:window-width="1080"
      inkscape:window-height="1897"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <marker
@@ -186,6 +187,82 @@
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-3-2-0" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.80000001"
+       markerHeight="0.80000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.80000001"
+       markerHeight="0.80000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-7-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.80000001"
+       markerHeight="0.80000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3-8-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-1-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.80000001"
+       markerHeight="0.80000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3-2-6" />
+    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -194,36 +271,36 @@
     <path
        id="path4"
        style="opacity:1;fill:#ffff00;fill-opacity:0.5;stroke-width:1.19062;stroke-linejoin:round;paint-order:markers fill stroke"
-       d="m 125.11535,56.133402 c 0.15068,17.87044 -4.09158,18.85157 -14.11234,25.80241 -15.675914,10.87351 -13.502164,-3.54431 -14.533604,-24.74925 -1.05316,-21.651268 -9.1673,-29.449212 9.267814,-24.538615 14.23338,3.791377 19.28626,12.589695 19.37813,23.485455 z"
+       d="m 74.385648,60.582538 c 0.15068,17.87044 -4.09158,18.85157 -14.11234,25.80241 -15.675914,10.87351 -13.502164,-3.54431 -14.533604,-24.74925 -1.05316,-21.651268 -9.1673,-29.449212 9.267814,-24.538615 14.23338,3.791377 19.28626,12.589695 19.37813,23.485455 z"
        sodipodi:nodetypes="sssss" />
     <path
        style="fill:none;stroke:#008000;stroke-width:1.19062;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-       d="M 99.944956,58.142242 113.84666,42.134225"
+       d="M 49.215254,62.591378 63.116958,46.583361"
        id="path2" />
     <path
        style="fill:none;stroke:#008000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-       d="M 99.936916,58.107002 86.035218,74.115022"
+       d="M 49.207214,62.556138 35.305516,78.564158"
        id="path1" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.926042;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9)"
-       d="m 100.24033,58.268322 19.71218,8.61003"
+       d="m 49.510628,62.717458 19.71218,8.61003"
        id="path2-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9)"
-       d="M 100.27557,58.260282 84.267543,44.358582"
+       d="M 49.545868,62.709418 33.537841,48.807718"
        id="path3" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-7)"
-       d="m 99.663046,58.423392 1.489394,21.14936"
+       d="m 48.933344,62.872528 1.489394,21.14936"
        id="path2-2-3" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-7)"
-       d="m 99.693646,58.442632 -1.4894,-21.149374"
+       d="m 48.963944,62.891768 -1.4894,-21.149374"
        id="path3-6" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-1)"
-       d="M 99.962806,58.231402 79.319902,52.953742"
+       d="M 49.233104,62.680538 28.5902,57.402878"
        id="path3-1"
        sodipodi:nodetypes="cc" />
     <text
@@ -239,47 +316,47 @@
        x="448.19815"
        y="308.88254"
        id="text3"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.42126374,-45.285858)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-51.150966,-40.836722)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan2">反殖民</tspan></text>
+         id="tspan26802">反殖民</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:0.95;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="448.19815"
        y="308.88254"
        id="text3-9"
-       transform="matrix(0.26458333,0,0,0.26458333,11.411972,-13.573168)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-39.31773,-9.1240321)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan4">進步/
+         id="tspan26804">進步/
 </tspan><tspan
          x="448.19815"
          y="328.39158"
-         id="tspan11">世俗化</tspan></text>
+         id="tspan26806">世俗化</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="448.19815"
        y="308.88254"
        id="text3-9-7"
-       transform="matrix(0.26458333,0,0,0.26458333,-41.494431,-40.445383)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-92.224133,-35.996247)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan12">宗教</tspan></text>
+         id="tspan26808">宗教</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="448.19815"
        y="308.88254"
        id="text3-9-7-9"
-       transform="matrix(0.26458333,0,0,0.26458333,-47.232294,-27.507368)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-97.961996,-23.058232)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan13">保守</tspan></text>
+         id="tspan26810">保守</tspan></text>
     <g
        id="layer1-9"
-       transform="translate(-58.460187,-11.872591)"
+       transform="translate(-109.18989,-7.4234551)"
        style="fill:#008000">
       <text
          xml:space="preserve"
@@ -290,7 +367,7 @@
          transform="matrix(0.26458333,0,0,0.26458333,21.695085,12.006018)"><tspan
            x="448.19815"
            y="308.88254"
-           id="tspan14">帝國</tspan></text>
+           id="tspan26812">帝國</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -298,67 +375,195 @@
        x="448.19815"
        y="308.88254"
        id="text3-2"
-       transform="matrix(0.26458333,0,0,0.26458333,-20.830976,-48.899484)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-71.560678,-44.450348)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan15">右派</tspan></text>
+         id="tspan26814">右派</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#ff0000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="448.19815"
        y="308.88254"
        id="text3-2-4"
-       transform="matrix(0.26458333,0,0,0.26458333,-16.626468,5.9335645)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-67.35617,10.3827)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan16">左派</tspan></text>
+         id="tspan26816">左派</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:484.092;display:inline;fill:#000000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="284.99988"
        y="273.05856"
        id="text4"
-       transform="matrix(0.26458333,0,0,0.26458333,28.014042,-53.921765)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-22.71566,-49.472629)"><tspan
          x="284.99988"
          y="273.05856"
-         id="tspan17">伊朗各勢力分佈（粗箭頭代表強度）
+         id="tspan26818">伊朗各勢力分佈（粗箭頭代表強度）
 </tspan><tspan
          x="284.99988"
          y="294.58058"
-         id="tspan18">黃色 = 改革派需要凝聚之力量</tspan></text>
+         id="tspan26820">黃色 = 改革派需要凝聚之力量</tspan></text>
+    <path
+       id="path4-1"
+       style="fill:#ffff00;fill-opacity:0.5;stroke-width:1.19062;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 178.31659,59.22469 c 0.15068,17.87044 -4.09158,18.85157 -14.11234,25.80241 -15.67591,10.87351 -13.50216,-3.54431 -14.5336,-24.74925 -1.05316,-21.651268 -9.1673,-29.449212 9.26781,-24.538615 14.23338,3.791377 19.28626,12.589695 19.37813,23.485455 z"
+       sodipodi:nodetypes="sssss" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.92604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-5)"
+       d="M 153.1462,61.23353 167.0479,45.225513"
+       id="path2-1" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-5)"
+       d="m 153.13816,61.19829 -13.9017,16.00802"
+       id="path1-5" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.926042;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-9)"
+       d="m 153.44157,61.35961 19.71218,8.61003"
+       id="path2-2-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-9)"
+       d="M 153.47681,61.35157 137.46878,47.44987"
+       id="path3-8" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-7-3)"
+       d="m 152.86429,61.51468 1.48939,21.14936"
+       id="path2-2-3-4" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-7-3)"
+       d="m 152.89489,61.53392 -1.4894,-21.149374"
+       id="path3-6-8" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-1-5)"
+       d="M 153.16405,61.32269 132.52114,56.04503"
+       id="path3-1-1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#008000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="448.19815"
+       y="308.88254"
+       id="text3-0"
+       transform="matrix(0.26458333,0,0,0.26458333,63.866335,-42.306198)"><tspan
+         x="448.19815"
+         y="308.88254"
+         id="tspan26822">反帝国主义</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:0.95;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="448.19815"
+       y="308.88254"
+       id="text3-9-3"
+       transform="matrix(0.26458333,0,0,0.26458333,74.174547,-17.776089)"><tspan
+         x="448.19815"
+         y="308.88254"
+         id="tspan26824">言论自由
+</tspan><tspan
+         x="448.19815"
+         y="328.39158"
+         id="tspan26826">/ 人权</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="448.19815"
+       y="308.88254"
+       id="text3-9-7-04"
+       transform="matrix(0.26458333,0,0,0.26458333,5.9793328,-35.078251)"><tspan
+         x="448.19815"
+         y="308.88254"
+         id="tspan26828">一党专政</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="448.19815"
+       y="308.88254"
+       id="text3-9-7-9-4"
+       transform="matrix(0.26458333,0,0,0.26458333,5.9689502,-24.41608)"><tspan
+         x="448.19815"
+         y="308.88254"
+         id="tspan26830">保守</tspan></text>
+    <g
+       id="layer1-9-4"
+       transform="translate(-7.9258335,-9.7259063)"
+       style="fill:#008000">
+      <text
+         xml:space="preserve"
+         style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#008000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+         x="448.19815"
+         y="308.88254"
+         id="text3-1-4"
+         transform="matrix(0.26458333,0,0,0.26458333,23.864231,11.87895)"><tspan
+           x="448.19815"
+           y="308.88254"
+           id="tspan26832">亲西方</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#ff0000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="448.19815"
+       y="308.88254"
+       id="text3-2-7"
+       transform="matrix(0.26458333,0,0,0.26458333,32.370268,-45.808196)"><tspan
+         x="448.19815"
+         y="308.88254"
+         id="tspan26834">右派</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#ff0000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="448.19815"
+       y="308.88254"
+       id="text3-2-4-63"
+       transform="matrix(0.26458333,0,0,0.26458333,36.574776,9.0248525)"><tspan
+         x="448.19815"
+         y="308.88254"
+         id="tspan26836">左派</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:484.092;display:inline;fill:#000000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
+       x="284.99988"
+       y="273.05856"
+       id="text4-1"
+       transform="matrix(0.26458333,0,0,0.26458333,81.215286,-50.830477)"><tspan
+         x="284.99988"
+         y="273.05856"
+         id="tspan26838">中国政治取向分佈（粗箭頭代表強度）
+</tspan><tspan
+         x="284.99988"
+         y="294.58058"
+         id="tspan26840">黃色 = 改革派需要凝聚之力量</tspan></text>
     <path
        id="path4-6"
        style="fill:#ffff00;fill-opacity:0.5;stroke-width:1.19062;stroke-linejoin:round;paint-order:markers fill stroke"
-       d="m 130.08674,157.94046 c 0.15068,17.87044 -4.09158,18.85157 -14.11234,25.80241 -15.67591,10.87351 -13.50217,-3.54431 -14.5336,-24.74925 -1.05317,-21.65127 -9.167304,-29.44921 9.26781,-24.53862 14.23338,3.79138 19.28626,12.5897 19.37813,23.48546 z"
+       d="m 95.406715,132.3421 c 0.15068,17.87044 -4.09158,18.85157 -14.11234,25.80241 -15.67591,10.87351 -13.50217,-3.54431 -14.5336,-24.74925 -1.05317,-21.65127 -9.167304,-29.44921 9.26781,-24.53862 14.23338,3.79138 19.28626,12.5897 19.37813,23.48546 z"
        sodipodi:nodetypes="sssss" />
     <path
        style="fill:none;stroke:#008000;stroke-width:1.19062;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-93)"
-       d="m 104.91635,159.9493 13.9017,-16.00802"
+       d="m 70.236325,134.35094 13.9017,-16.00802"
        id="path5" />
     <path
        style="fill:none;stroke:#008000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-93)"
-       d="M 104.9083,159.91406 91.006606,175.92208"
+       d="M 70.228275,134.3157 56.326581,150.32372"
        id="path6" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.926042;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-5)"
-       d="m 105.21172,160.07538 19.71218,8.61003"
+       d="m 70.531695,134.47702 19.71218,8.61003"
        id="path2-2-8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-5)"
-       d="M 105.24696,160.06734 89.238926,146.16564"
+       d="M 70.566935,134.46898 54.558901,120.56728"
        id="path7" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-7-7)"
-       d="m 104.63444,160.23045 1.48939,21.14936"
+       d="m 69.954415,134.63209 1.48939,21.14936"
        id="path2-2-3-8" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-7-7)"
-       d="m 104.66503,160.24969 -1.48939,-21.14937"
+       d="m 69.985005,134.65133 -1.48939,-21.14937"
        id="path3-6-4" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-1-3)"
-       d="M 104.93419,160.03846 84.291287,154.7608"
+       d="M 70.254165,134.4401 49.611262,129.16244"
        id="path3-1-3"
        sodipodi:nodetypes="cc" />
     <text
@@ -367,47 +572,47 @@
        x="448.19815"
        y="308.88254"
        id="text3-14"
-       transform="matrix(0.26458333,0,0,0.26458333,9.184023,57.153096)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-25.496002,31.554739)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan19">anti-colonial</tspan></text>
+         id="tspan26842">anti-colonial</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:0.95;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="448.19815"
        y="308.88254"
        id="text3-9-2"
-       transform="matrix(0.26458333,0,0,0.26458333,24.808633,89.076418)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-9.8713924,63.478061)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan20">progressives/
+         id="tspan26844">progressives/
 </tspan><tspan
          x="448.19815"
          y="326.61591"
-         id="tspan21">secularism</tspan></text>
+         id="tspan26846">secularism</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="448.19815"
        y="308.88254"
        id="text3-9-7-0"
-       transform="matrix(0.26458333,0,0,0.26458333,-43.895162,63.04673)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-78.575187,37.448373)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan22">theocracy</tspan></text>
+         id="tspan26848">theocracy</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#0000ff;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="448.19815"
        y="308.88254"
        id="text3-9-7-9-6"
-       transform="matrix(0.26458333,0,0,0.26458333,-52.792504,74.094233)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-87.472529,48.495876)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan23">conservatives</tspan></text>
+         id="tspan26850">conservatives</tspan></text>
     <g
        id="layer1-9-8"
-       transform="translate(-53.488802,89.934467)"
+       transform="translate(-88.168827,64.33611)"
        style="fill:#008000">
       <text
          xml:space="preserve"
@@ -418,7 +623,7 @@
          transform="matrix(0.26458333,0,0,0.26458333,20.636751,9.8893503)"><tspan
            x="448.19815"
            y="308.88254"
-           id="tspan24">imperialism</tspan></text>
+           id="tspan26852">imperialism</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -426,51 +631,51 @@
        x="448.19815"
        y="308.88254"
        id="text3-2-2"
-       transform="matrix(0.26458333,0,0,0.26458333,-17.976259,52.378407)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-52.656284,26.78005)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan25">right-wing</tspan></text>
+         id="tspan26854">right-wing</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:162.472;display:inline;fill:#ff0000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="448.19815"
        y="308.88254"
        id="text3-2-4-6"
-       transform="matrix(0.26458333,0,0,0.26458333,-10.067582,107.74062)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,-44.747607,82.142263)"><tspan
          x="448.19815"
          y="308.88254"
-         id="tspan26">left-wing</tspan></text>
+         id="tspan26856">left-wing</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.3333px;line-height:1.25;font-family:'Alibaba Sans';-inkscape-font-specification:'Alibaba Sans';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:484.092;display:inline;fill:#000000;stroke-width:0.999999;-inkscape-stroke:none;stop-color:#000000"
        x="53.816544"
        y="273.05856"
        id="text4-6"
-       transform="matrix(0.26458333,0,0,0.26458333,99.96637,125.1872)"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,65.286345,99.588843)"><tspan
          x="53.816544"
          y="273.05856"
-         id="tspan28"><tspan
+         id="tspan26860"><tspan
            style="text-align:start;text-anchor:start"
-           id="tspan27">Various political forces in Iran (thickness of arrows = strength).
+           id="tspan26858">Various political forces in Iran (thickness of arrows = strength).
 </tspan></tspan><tspan
          x="53.816544"
          y="289.72517"
-         id="tspan30"><tspan
+         id="tspan26864"><tspan
            style="text-align:start;text-anchor:start"
-           id="tspan29">Yellow = the forces we need to consolidate for reform.
+           id="tspan26862">Yellow = the forces we need to consolidate for reform.
 </tspan></tspan><tspan
          x="53.816544"
          y="306.3918"
-         id="tspan32"><tspan
+         id="tspan26868"><tspan
            style="text-align:start;text-anchor:start"
-           id="tspan31">Critically, &quot;those who have guns&quot; DECIDE the success or failure of reform.
+           id="tspan26866">Critically, &quot;those who have guns&quot; DECIDE the success or failure of reform.
 </tspan></tspan><tspan
          x="53.816544"
          y="323.05843"
-         id="tspan34"><tspan
-           style="text-align:start;text-anchor:start"
-           id="tspan33">The question is how to re-align the IRGC and the regular militia.</tspan><tspan
-           y="323.05843"
-           id="tspan35">  </tspan></tspan></text>
+         id="tspan26872"><tspan
+   style="text-align:start;text-anchor:start"
+   id="tspan26870">The question is how to re-align the IRGC and the regular militia.</tspan><tspan
+   y="323.05843"
+   id="tspan26874">  </tspan></tspan></text>
   </g>
 </svg>

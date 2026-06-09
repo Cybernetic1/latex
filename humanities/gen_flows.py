@@ -32,44 +32,56 @@ def parse_bold_segments(text):
         segments.append((text[last_end:], False))
     return segments
 
-def measure_segments_width(segments, font, bold_factor=1.0):
+def measure_segments_width(segments, font):
 	total = 0.0
 	for txt, is_bold in segments:
-		total += get_text_width(txt, font) # * (bold_factor if is_bold else 1.0)
+		total += get_text_width(txt, font)
 	return total
 
-def wrap_by_px_with_bold(text, max_width_px, font, bold_factor=1.00):
-	lines = []
-	current = ""
-	for char in text:
-		test = current + char
-		segs = parse_bold_segments(test)
-		if measure_segments_width(segs, font, bold_factor) <= max_width_px or not current:
-			current = test
-		else:
-			lines.append(current)
-			current = char
-	if current:
-		lines.append(current)
-	return len(lines)
-
+# 🔑 核心升级：单词优先断行，超长词自动降级为逐字断行
 def count_wrapped_lines(text, max_width_px, font):
-    # 剔除标记符号，仅按可见字符模拟换行
-    clean_text = re.sub(r'_|\*\*', '', text)
-    if not clean_text.strip():
+    clean = re.sub(r'_|\*\*', '', text)
+    if not clean.strip():
         return 1
 
-    line_count = 1
+    # 分割为“非空白块（单词）”和“空白块（空格/制表）”
+    tokens = re.findall(r'\S+|\s+', clean)
+    lines = 1
     current_w = 0.0
-    for ch in clean_text:
-        w = get_text_width(ch, font)
-        if current_w + w > max_width_px and current_w > 0:
-            line_count += 1
-            current_w = w  # 新行从当前字符开始
-        else:
-            current_w += w
-    return line_count
 
+    for token in tokens:
+        token_w = get_text_width(token, font)
+
+        if token.isspace():
+            # 空格处理：若当前行已有内容且加空格越界，则换行（空格不带到新行首）
+            if current_w + token_w > max_width_px and current_w > 0:
+                lines += 1
+                current_w = 0.0
+            else:
+                current_w += token_w
+            continue
+
+        # 单词处理
+        if token_w > max_width_px:
+            # 超长单词（如 URL、长英文）Fallback 到逐字断行
+            for ch in token:
+                ch_w = get_text_width(ch, font)
+                if current_w + ch_w > max_width_px and current_w > 0:
+                    lines += 1
+                    current_w = ch_w
+                else:
+                    current_w += ch_w
+            continue
+
+        # 正常单词换行判断
+        if current_w + token_w > max_width_px and current_w > 0:
+            lines += 1
+            current_w = token_w
+        else:
+            current_w += token_w
+
+    return lines
+    
 def generate_flow_bullets(text_input, output="flow_bullets.svg",
 						  font_path="Arial.ttf", font_size_pt=14, font_size=18.6667,
 						  inline_size_px=380, bullet="🔾",
@@ -82,7 +94,8 @@ def generate_flow_bullets(text_input, output="flow_bullets.svg",
 	# font_name = os.path.splitext(os.path.basename(font_path))[0]
 	font_name = "Alibaba PuHuiTi"
 	
-	lines = [l.strip() for l in text_input.strip().split('\n') if l.strip()]
+	# lines = [l.strip() for l in text_input.strip().split('\n') if l.strip()]
+	lines = [l for l in text_input.split('\n') if l.strip() and not l.startswith('#')]
 	if not lines:
 		sys.exit("❌ 未检测到有效文本行。")
 
@@ -93,7 +106,7 @@ def generate_flow_bullets(text_input, output="flow_bullets.svg",
 	current_y = 0.0
 	for i, raw_text in enumerate(lines):
 		line_text = raw_text.lstrip("* ")
-		print(line_text)
+		print("*", line_text)
 		# 🔑 核心：模拟 Inkscape 换行，获取实际行数
 		num_lines = count_wrapped_lines(line_text, inline_size_px, font)
 		block_height = num_lines * font_size_pt * line_spacing
@@ -119,6 +132,7 @@ def generate_flow_bullets(text_input, output="flow_bullets.svg",
 			tspan = ET.SubElement(t, "tspan")
 			if is_bold:
 				tspan.set("font-weight", "normal")
+			tspan.set("xml:space", "preserve")		# 新增：保留所有空白字符
 			tspan.text = chunk
 		
 		# 精确累加 Y：当前块高度 + 段落间距

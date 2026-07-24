@@ -92,7 +92,7 @@ def generate_flow_bullets(text_input, output="flow_bullets.svg",
 	
 	font = ImageFont.truetype(font_path, font_size)
 	# font_name = os.path.splitext(os.path.basename(font_path))[0]
-	font_name = "Alibaba PuHuiTi"
+	font_name = "DejaVu Serif" if english else "Alibaba PuHuiTi"
 	
 	# lines = [l.strip() for l in text_input.strip().split('\n') if l.strip()]
 	lines = [l for l in text_input.split('\n') if l.strip() and not l.startswith('#')]
@@ -152,12 +152,19 @@ if __name__ == "__main__":
 		exit(0)
 	with open(sys.argv[1], "r") as file:
 		sample = file.read()
+	if sys.argv[1][-7:] == '-EN.txt':
+		english = True
+		print("English mode")
+	else:
+		english = False
+		print("Chinese mode")
 
 	generate_flow_bullets(
 		text_input=sample,
-		font_path="/usr/share/fonts/truetype/Alibaba PuHuiTi/Alibaba_PuHuiTi_Light.ttf",
-		font_size_pt=14,
-		font_size=18.6667,
+		font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf" if english
+			else "/usr/share/fonts/truetype/Alibaba PuHuiTi/Alibaba_PuHuiTi_Light.ttf",
+		font_size_pt = 11 if english else 14,
+		font_size = 14.6666 if english else 18.6667,
 		inline_size_px=457,      # 预设流式宽度
 		indent_px=26,
 		margin_left=65,

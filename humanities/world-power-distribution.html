@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>财富分布叠加图 — 美国 · 中国 · 俄罗斯</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/inter@5.1.1/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/space-grotesk@5.1.1/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-sc@5.1.1/index.css">
+<script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+<style>
+  :root{
+    --bg:#f4f5fa; --card:#ffffff; --ink:#0f172a; --muted:#64748b; --line:#e2e8f0;
+    --usa:#6366f1; --chn:#e11d48; --rus:#0284c7;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    font-family:'Inter','Noto Sans SC',system-ui,sans-serif; background:var(--bg); color:var(--ink);
+    padding:34px 20px 48px; min-height:100vh;
+  }
+  .wrap{max-width:1180px; margin:0 auto;}
+  header{margin-bottom:22px;}
+  .eyebrow{font-size:12px; letter-spacing:.14em; color:var(--muted); font-weight:600; margin-bottom:8px;}
+  h1{font-family:'Space Grotesk','Noto Sans SC',sans-serif; font-size:clamp(24px,3.4vw,34px); font-weight:700; letter-spacing:-.01em;}
+  h1 .d{color:#94a3b8; font-weight:400; margin:0 6px;}
+  .sub{color:var(--muted); font-size:14px; margin-top:8px; max-width:920px; line-height:1.7;}
+
+  .cards{display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin:22px 0 16px;}
+  @media(max-width:860px){.cards{grid-template-columns:1fr;}}
+  .card{
+    background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px 18px 14px;
+    cursor:pointer; transition:transform .18s ease, box-shadow .18s ease, border-color .18s;
+    border-top:3px solid var(--ac); box-shadow:0 1px 2px rgba(15,23,42,.04);
+  }
+  .card:hover{transform:translateY(-2px); box-shadow:0 10px 24px -12px rgba(15,23,42,.22);}
+  .card.focused{border-color:var(--ac); box-shadow:0 0 0 3px color-mix(in srgb, var(--ac) 18%, transparent), 0 10px 24px -12px rgba(15,23,42,.22);}
+  .card .top{display:flex; align-items:baseline; gap:8px;}
+  .card .flag{font-size:20px;}
+  .card .name{font-family:'Space Grotesk','Noto Sans SC',sans-serif; font-weight:700; font-size:16px;}
+  .card .pop{margin-left:auto; font-size:12.5px; color:var(--muted); font-weight:600; background:#f1f5f9; padding:3px 8px; border-radius:99px;}
+  .stats{display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px; margin-top:12px;}
+  .stat .k{font-size:10.5px; letter-spacing:.05em; color:var(--muted); font-weight:600;}
+  .stat .v{font-size:14.5px; font-weight:700; margin-top:2px; font-variant-numeric:tabular-nums;}
+  .wbar{margin-top:12px;}
+  .wbar .lbl{display:flex; justify-content:space-between; font-size:11px; color:var(--muted); margin-bottom:4px; font-weight:600;}
+  .wbar .track{height:6px; background:#eef2f7; border-radius:99px; overflow:hidden;}
+  .wbar .fill{height:100%; border-radius:99px; background:var(--ac); transition:width .8s cubic-bezier(.22,1,.36,1);}
+
+  .panel{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px 18px 10px; box-shadow:0 1px 3px rgba(15,23,42,.05);}
+  .toolbar{display:flex; flex-wrap:wrap; align-items:center; gap:14px; padding:2px 4px 14px; border-bottom:1px dashed var(--line); margin-bottom:6px;}
+  .tgroup{display:flex; align-items:center; gap:8px;}
+  .tgroup .tl{font-size:12px; font-weight:600; color:var(--muted);}
+  .seg{display:inline-flex; background:#eef1f6; border-radius:9px; padding:3px; gap:2px;}
+  .seg button{
+    border:0; background:transparent; font:600 12.5px 'Inter','Noto Sans SC',sans-serif; color:var(--muted);
+    padding:6px 13px; border-radius:7px; cursor:pointer; transition:all .15s;
+  }
+  .seg button.on{background:#fff; color:var(--ink); box-shadow:0 1px 3px rgba(15,23,42,.14);}
+  .note{margin-left:auto; font-size:12px; color:var(--muted); font-weight:500;}
+  @media(max-width:760px){.note{margin-left:0; width:100%;}}
+  #chart{width:100%; height:540px; position:relative; z-index:1; }
+  .caption{font-size:12.5px; color:var(--muted); text-align:center; padding:6px 0 8px; line-height:1.8;}
+  .caption b{color:#475569;}
+  footer{margin-top:18px; font-size:12px; color:var(--muted); line-height:1.9; max-width:1000px;}
+  footer b{color:#475569;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">模型可视化 · 叠加视图 · 2026年8月</div>
+    <h1>财富分布叠加对比 <span class="d">—</span> 美国 · 中国 · 俄罗斯</h1>
+    <div class="sub">
+      三条对数正态分布曲线画在同一坐标系中。<b>纵轴是人数密度</b>（每个财富区间内的成年人数量），
+      因此<b>每条曲线下的面积 = 该国总人口</b>。中国的面积约为美国的 4.1 倍、俄罗斯的 9.8 倍。
+      点击图例可隐藏／显示某条曲线，点击上方卡片可聚焦某个国家。
+    </div>
+  </header>
+	<style>
+	.overlay-text{
+	  position:absolute; z-index:0; pointer-events:none;  /* 不挡住图表交互 */
+	  font:600 13px/1.7 'Inter','Noto Sans SC',sans-serif; color:#0f172a;
+	  /* background:rgba(255,255,255,.85); */
+	  /* border:1px solid #cbd5e1; border-radius:8px; padding:6px 10px; */
+	  max-width:280px;
+	}
+	</style>
+
+  <div class="cards" id="cards"></div>
+
+  <div class="panel">
+    <div class="toolbar">
+      <div class="tgroup"><span class="tl">横轴</span>
+        <div class="seg" id="segX">
+          <button data-v="log" class="on">对数刻度</button>
+          <button data-v="lin">线性刻度</button>
+        </div>
+      </div>
+      <div class="tgroup"><span class="tl">标记</span>
+        <div class="seg" id="segM">
+          <button data-v="on" class="on">显示中位数／均值</button>
+          <button data-v="off">关闭</button>
+        </div>
+      </div>
+      <div class="note">实线 = 中位数 · 虚线 = 均值 · 悬停可同时读取三国数值</div>
+      <!-- div class="note">▲ 中位数 · ◆ 均值 &nbsp;·&nbsp; 悬停可同时读取三国数值</div -->
+    </div>
+
+    <!-- 结构：把原来的 <div id="chart"></div> 包起来 -->
+	<div style="position:relative">
+	  <div id="chart"></div>
+	  <!-- 文字 overlay：改 left/top 和文字即可，可复制多份 -->
+	  <div class="overlay-text" style="left:30%; top:30%; color:red;">
+		中国人口庞大<br>但偏向贫穷
+	  </div>
+  	  <div class="overlay-text" style="left:65%; top:70%; color:blue;">
+		越向右边越富裕<br>美国厉害的人比较多
+	  </div>
+   	  <div class="overlay-text" style="left:20%; top:75%; color:green;">
+		俄罗斯又穷人口又少
+	  </div>
+	</div>
+
+    <div class="caption">
+      <b>曲线下的面积 = 总人口：</b>🇨🇳 中国 14.08 亿（74.4%）· 🇺🇸 美国 3.41 亿（18.0%）· 🇷🇺 俄罗斯 1.44 亿（7.6%）。
+      对数横轴下纵轴读作“每十倍财富区间内的人数”，线性横轴下读作“每 1 美元区间内的人数”——两种情形面积都等于人口。
+      线性视图会截断右侧长尾。
+    </div>
+  </div>
+
+  <footer>
+    <b>假设与来源。</b>成年人财富取对数正态分布：μ = ln(中位数)，σ = √(2·ln(均值/中位数))。
+    参数（近似值，依据瑞银／瑞信《全球财富报告》，成年人口径）：美国 — 中位数 $10.8 万，均值 $55 万（σ≈1.80，基尼≈0.80）；
+    中国 — $2.7 万，$7.6 万（σ≈1.44，基尼≈0.69）；俄罗斯 — $4500，$2.6 万（σ≈1.87，基尼≈0.82）。
+    人口（联合国口径，2025–26）：美国 3.41 亿，中国 14.08 亿，俄罗斯 1.44 亿。
+    <b>曲线定义：</b>对数横轴 y = ln10·x·N·f(x)（每十倍区间人数），线性横轴 y = N·f(x)（每美元人数），
+    两种定义下曲线面积都精确等于总人口 N。基尼系数由拟合导出：G = 2Φ(σ/√2) − 1。
+    此为示意模型——真实财富分布在最顶端会偏离对数正态。
+  </footer>
+</div>
+
+<script>
+// ---------- 数学工具 ----------
+function erf(x){
+  const s = x < 0 ? -1 : 1; x = Math.abs(x);
+  const t = 1/(1 + 0.3275911*x);
+  const y = 1 - (((((1.061405429*t - 1.453152027)*t) + 1.421413741)*t - 0.284496736)*t + 0.254829592)*t*Math.exp(-x*x);
+  return s*y;
+}
+const Phi = x => 0.5*(1 + erf(x/Math.SQRT2));
+const LN10 = Math.log(10);
+
+// ---------- 数据 ----------
+const C = [
+  {key:'usa', flag:'🇺🇸', name:'美国',   pop:341e6,  popStr:'3.41 亿',  median:108e3, mean:550e3, color:'#6366f1'},
+  {key:'chn', flag:'🇨🇳', name:'中国',   pop:1408e6, popStr:'14.08 亿', median:27e3,  mean:76e3,  color:'#e11d48'},
+  {key:'rus', flag:'🇷🇺', name:'俄罗斯', pop:144e6,  popStr:'1.44 亿',  median:4.5e3, mean:26e3,  color:'#0284c7'}
+];
+const TOT_POP = C.reduce((s,c)=>s+c.pop,0);
+const trim2 = s => String(parseFloat(s.toFixed(2)));
+const fmtRen = v => v<=0 ? '0' : v>=1e8 ? trim2(v/1e8)+'亿' : v>=1e4 ? trim2(v/1e4)+'万' : v>=1e3 ? trim2(v/1e3)+'千' : String(Math.round(v));
+const fmt$ = v => v>=1e4 ? '$'+trim2(v/1e4)+'万' : '$'+Math.round(v).toLocaleString('en-US');
+const fmtW = v => v>=1e12 ? '$'+(v/1e12).toFixed(1)+' 万亿' : v>=1e9 ? '$'+(v/1e9).toFixed(1)+'0 亿' : fmt$(v);
+
+C.forEach(c=>{
+  c.mu = Math.log(c.median);
+  c.sg = Math.sqrt(2*Math.log(c.mean/c.median));
+  c.gini = 2*Phi(c.sg/Math.SQRT2) - 1;
+  c.popShare = c.pop/TOT_POP;
+  c.totW = c.pop*c.mean;
+});
+const TOT_W = C.reduce((s,c)=>s+c.totW,0);
+C.forEach(c=> c.wShare = c.totW/TOT_W);
+
+// ---------- 横轴采样 ----------
+const NP=800, XMIN=10, XMAX=1e9;
+const XS = [];
+for(let i=0;i<NP;i++){ XS.push(Math.pow(10, Math.log10(XMIN) + i*(Math.log10(XMAX)-Math.log10(XMIN))/(NP-1))); }
+
+// 人数密度曲线：面积 = 总人口
+C.forEach(c=>{
+  const f = XS.map(x=> Math.exp(-0.5*Math.pow((Math.log(x)-c.mu)/c.sg,2)) / (x*c.sg*Math.sqrt(2*Math.PI)));
+  c.yLin = XS.map((x,i)=> c.pop * f[i]);           // 每 1 美元区间的人数（线性横轴）
+  c.yLog = XS.map((x,i)=> LN10 * x * c.yLin[i]);   // 每十倍区间的人数（对数横轴）
+});
+
+// ---------- 刻度工具 ----------
+function niceStep(rough){
+  const mag = Math.pow(10, Math.floor(Math.log10(rough)));
+  const n = rough/mag;
+  return (n<1.5?1:n<3.5?2:n<7.5?5:10)*mag;
+}
+function makeTicks(max){
+  const step = niceStep(max/5), vals=[];
+  for(let v=0; v<=max*1.0001; v+=step) vals.push(v);
+  return {vals, texts: vals.map(fmtRen)};
+}
+
+// ---------- 状态 ----------
+let state = { xlog:true, lines:true, focus:null };
+
+// ---------- 卡片 ----------
+const cardsEl = document.getElementById('cards');
+C.forEach((c,i)=>{
+  const d = document.createElement('div');
+  d.className='card'; d.style.setProperty('--ac', c.color);
+  d.innerHTML = `
+    <div class="top"><span class="flag">${c.flag}</span><span class="name">${c.name}</span>
+      <span class="pop">${c.popStr} · ${(c.popShare*100).toFixed(1)}%</span></div>
+    <div class="stats">
+      <div class="stat"><div class="k">中位财富</div><div class="v">${fmt$(c.median)}</div></div>
+      <div class="stat"><div class="k">平均财富</div><div class="v">${fmt$(c.mean)}</div></div>
+      <div class="stat"><div class="k">基尼系数</div><div class="v">${c.gini.toFixed(2)}</div></div>
+    </div>
+    <div class="wbar">
+      <div class="lbl"><span>总财富 ${fmtW(c.totW)}</span><span>占三国合计 ${(c.wShare*100).toFixed(1)}%</span></div>
+      <div class="track"><div class="fill" style="width:0%"></div></div>
+    </div>`;
+  d.addEventListener('click', ()=>{
+    state.focus = (state.focus===i) ? null : i;
+    document.querySelectorAll('.card').forEach((el,k)=> el.classList.toggle('focused', state.focus===k));
+    applyFocus();
+  });
+  cardsEl.appendChild(d);
+  requestAnimationFrame(()=> setTimeout(()=>{ d.querySelector('.fill').style.width = (c.wShare*100)+'%'; }, 60));
+});
+
+// ---------- 图表 ----------
+const IDX = [0,1,2];
+
+// 中位数（实线）/ 均值（虚线）垂直线，按国家着色
+function makeShapes(){
+  const arr = [];
+  C.forEach((c,i)=>{
+    const o = (state.focus!==null && state.focus!==i) ? 0.15 : 1;   // 聚焦时淡化他国
+    arr.push({type:'line', xref:'x', yref:'y domain', x0:c.median, x1:c.median, y0:0, y1:1,
+      line:{color:c.color, width:1.8}, opacity:o});
+    arr.push({type:'line', xref:'x', yref:'y domain', x0:c.mean, x1:c.mean, y0:0, y1:1,
+      line:{color:c.color, width:1.8, dash:'dash'}, opacity:o});
+  });
+  return arr;
+}
+
+function build(){
+  const key = state.xlog ? 'yLog' : 'yLin';
+  const unit = state.xlog ? '人／十倍区间' : '人／美元';
+  const traces = [];
+
+  // 悬停数据：累计人口占比 + 格式化密度值
+  C.forEach(c=>{
+    c.custom = XS.map((x,i)=>{
+      const z = (Math.log(x)-c.mu)/c.sg;
+      return [Phi(z), fmtRen(c[key][i])+' '+unit];
+    });
+  });
+
+  // 先画填充（峰值大的在底层，避免遮挡）
+  const order = [...IDX].sort((a,b)=> Math.max(...C[b][key]) - Math.max(...C[a][key]));
+  order.forEach(i=>{
+    const c = C[i];
+    traces.push({ x:XS, y:c[key], fill:'tozeroy', fillcolor:c.color+'26', line:{width:0},
+      hoverinfo:'skip', showlegend:false, legendgroup:c.key, type:'scatter' });
+  });
+
+  // 曲线（图例项）
+  C.forEach(c=>{
+    traces.push({ x:XS, y:c[key], mode:'lines', line:{color:c.color, width:2.8},
+      name:c.flag+' '+c.name, legendgroup:c.key, customdata:c.custom,
+      hovertemplate:'%{customdata[1]} · 低于此财富的人口 %{customdata[0]:.1%}<extra></extra>',
+      type:'scatter' });
+  });
+
+  // 中位数（▲）与均值（◆）标记
+  if(state.lines){
+    traces.push({
+	  shapes: state.lines ? makeShapes() : [],
+      x: C.flatMap(c=>[c.median, c.mean]),
+      y: C.flatMap(()=>[0,0]),
+      mode:'markers', showlegend:false, hoverinfo:'text',
+      marker:{ symbol: C.flatMap(()=>['triangle-up','diamond']),
+               color: C.flatMap(c=>[c.color,c.color]),
+               size: 12, line:{width:1.2, color:'#ffffff'} },
+      text: C.flatMap(c=>[c.flag+' '+c.name+' — 中位数 '+fmt$(c.median),
+                          c.flag+' '+c.name+' — 均值 '+fmt$(c.mean)]),
+      type:'scatter'
+    });
+  }
+
+  const peak = Math.max(...C.map(c=> Math.max(...c[key])));
+  const yMax = peak*1.12;
+  const ticks = makeTicks(yMax);
+
+  const layout = {
+    margin:{l:78, r:18, t:64, b:62},
+    paper_bgcolor:'rgba(0,0,0,0)', plot_bgcolor:'rgba(0,0,0,0)',
+    font:{family:'Inter, Noto Sans SC, sans-serif', size:12, color:'#334155'},
+    hovermode:'x unified',
+    hoverlabel:{bgcolor:'#ffffff', bordercolor:'#cbd5e1', font:{family:'Inter, Noto Sans SC', size:12.5, color:'#0f172a'}},
+    legend:{ orientation:'h', x:0, y:1.115, font:{size:13, family:'Space Grotesk, Noto Sans SC'},
+             bgcolor:'rgba(0,0,0,0)', itemclick:'toggle', itemdoubleclick:'toggleothers' },
+    annotations:[{ xref:'paper', yref:'paper', x:0.995, y:0.965, xanchor:'right', showarrow:false,
+      text:'面积 = 总人口<br>🇨🇳 14.08 亿 · 🇺🇸 3.41 亿 · 🇷🇺 1.44 亿', align:'right',
+      font:{size:12.5, color:'#334155'},
+      bgcolor:'rgba(255,255,255,0.85)', bordercolor:'#cbd5e1', borderwidth:1, borderpad:7 }],
+    xaxis:{
+      type: state.xlog ? 'log' : 'linear',
+      range: state.xlog ? [1, Math.log10(XMAX)] : [0, 1e6],
+      tickprefix:'$', tickformat:'~s', gridcolor:'#eef2f7', linecolor:'#cbd5e1',
+      title:{text:'个人财富（美元'+(state.xlog?'，对数刻度':'，线性刻度')+'）', font:{size:13, color:'#64748b'}}
+    },
+    yaxis:{
+      range:[0, yMax], gridcolor:'#eef2f7', zeroline:true, zerolinecolor:'#cbd5e1',
+      tickvals:ticks.vals, ticktext:ticks.texts,
+      title:{text: state.xlog ? '人数密度：每十倍财富区间内的人数' : '人数密度：每 1 美元财富区间内的人数',
+        font:{size:12.5, color:'#64748b'}}
+    }
+  };
+
+  Plotly.react('chart', traces, layout, {responsive:true, displayModeBar:false});
+  applyFocus();
+}
+
+function applyFocus(){
+  const key = state.xlog ? 'yLog' : 'yLin';
+  const order = [...IDX].sort((a,b)=> Math.max(...C[b][key]) - Math.max(...C[a][key]));
+  const fillOps = order.map(ci => (state.focus!==null && state.focus!==ci) ? 0.12 : 1);
+  const lineOps = C.map((c,i) => (state.focus!==null && state.focus!==i) ? 0.18 : 1);
+  Plotly.restyle('chart', {opacity: fillOps}, [0,1,2]);
+  Plotly.restyle('chart', {opacity: lineOps}, [3,4,5]);
+  if(state.lines){
+    const mOps = C.flatMap((c,i)=>{
+      const o = (state.focus!==null && state.focus!==i) ? 0.15 : 1;
+      return [o,o];
+    });
+    Plotly.relayout('chart', {shapes: state.lines ? makeShapes() : []});
+    // Plotly.restyle('chart', {'marker.opacity': [mOps]}, [6]);
+  }
+}
+
+// ---------- 控件 ----------
+function wireSeg(id, cb){
+  const el = document.getElementById(id);
+  el.querySelectorAll('button').forEach(b=>{
+    b.addEventListener('click', ()=>{
+      el.querySelectorAll('button').forEach(x=>x.classList.remove('on'));
+      b.classList.add('on'); cb(b.dataset.v);
+    });
+  });
+}
+wireSeg('segX', v=>{ state.xlog = (v==='log'); build(); });
+wireSeg('segM', v=>{ state.lines = (v==='on'); build(); });
+
+build();
+</script>
+</body>
+</html>

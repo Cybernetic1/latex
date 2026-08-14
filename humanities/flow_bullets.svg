@@ -1,60 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" version="2.0" width="800px" height="921.0px" viewBox="0 0 800 921.0">
+<svg xmlns="http://www.w3.org/2000/svg" version="2.0" width="800px" height="385.0px" viewBox="0 0 800 385.0">
   <g id="item_0">
     <text id="b_0" x="65" y="0.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
     <text id="t_0" x="91" y="0.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan font-weight="normal" xml:space="preserve">进化论</tspan>
-      <tspan xml:space="preserve"> 是生物学的 </tspan>
-      <tspan font-weight="normal" xml:space="preserve">大一統理论</tspan>
-      <tspan xml:space="preserve">(unifying theory)，所有生物学现象都是以进化论解释的。</tspan>
+      <tspan font-weight="normal" xml:space="preserve">Open</tspan>
+      <tspan xml:space="preserve"> -- everyone can join</tspan>
     </text>
   </g>
   <g id="item_1">
-    <text id="b_1" x="65" y="58.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
-    <text id="t_1" x="91" y="58.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan xml:space="preserve">举例来说，男人都很呷醋，会管着自己的妻子，不准她跟别人交往。 因为那些不管好妻子的男人，他们的妻子容易与别人通奸，生的孩子不是自己的，久而久之，他们的 DNA 不能传给后代，终至绝种。</tspan>
+    <text id="b_1" x="65" y="37.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
+    <text id="t_1" x="91" y="37.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
+      <tspan font-weight="normal" xml:space="preserve">Transparent</tspan>
+      <tspan xml:space="preserve"> -- no prejudice "behind the scenes"</tspan>
     </text>
   </g>
   <g id="item_2">
-    <text id="b_2" x="65" y="158.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
-    <text id="t_2" x="91" y="158.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan xml:space="preserve">但这种过度简单的分析，应用在人类行为中有时会出错，因为人类文化是复杂的。但简单的进化规律，在 petri dish 上的细菌实验里，已经被验证了无数次。</tspan>
+    <text id="b_2" x="65" y="74.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
+    <text id="t_2" x="91" y="74.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
+      <tspan xml:space="preserve">AGI approximates </tspan>
+      <tspan font-weight="normal" xml:space="preserve">The Truth</tspan>
+      <tspan xml:space="preserve"> better than all humans and without bias -- we can verify that the algorithm has no bias</tspan>
     </text>
   </g>
   <g id="item_3">
-    <text id="b_3" x="65" y="237.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
-    <text id="t_3" x="91" y="237.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan xml:space="preserve">分子生物学的中心教条 (central dogma) 就是： DNA → mRNA → protein</tspan>
+    <text id="b_3" x="65" y="153.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
+    <text id="t_3" x="91" y="153.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
+      <tspan font-weight="normal" xml:space="preserve">Democracy</tspan>
+      <tspan xml:space="preserve"> - everyone who contributes to the AGI's development or knowledge will be given credits automatically</tspan>
     </text>
   </g>
   <g id="item_4">
-    <text id="b_4" x="65" y="295.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
-    <text id="t_4" x="91" y="295.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan xml:space="preserve">意思是说：遗传基因的讯息 编码在 DNA 里，经由 mRNA 作为 讯号传递分子 (messenger RNA)，再「翻译」成一串蛋白质，那串蛋白质的编码对应于 DNA 的编码。</tspan>
+    <text id="b_4" x="65" y="232.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
+    <text id="t_4" x="91" y="232.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
+      <tspan xml:space="preserve">Openness + Transparency + Truth → eliminates </tspan>
+      <tspan font-weight="normal" xml:space="preserve">Corruption</tspan>
+      <tspan xml:space="preserve"> in government</tspan>
     </text>
   </g>
   <g id="item_5">
-    <text id="b_5" x="65" y="374.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
-    <text id="t_5" x="91" y="374.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan xml:space="preserve">Protein 的意思是 “proteus”，希腊神话里面形态可以千变万化的神；它的中文名称是因为在蛋白里面很丰富。 每种蛋白质的编码是不同的，它们会自动缠绕 (fold) 成某些特别的形状，例如在细胞膜上的一个通道，是分子的 pump（泵）：</tspan>
+    <text id="b_5" x="65" y="290.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
+    <text id="t_5" x="91" y="290.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
+      <tspan xml:space="preserve">also ends </tspan>
+      <tspan font-weight="normal" xml:space="preserve">Racism</tspan>
+      <tspan xml:space="preserve"> / caste</tspan>
     </text>
   </g>
   <g id="item_6">
-    <text id="b_6" x="65" y="495.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
-    <text id="t_6" x="91" y="495.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan xml:space="preserve">千变万化的 protein 于是组成细胞里的各种「零件」，就想 Lego 积木那样。分子生物学是不难读的，你懂 Lego 就会懂它。</tspan>
-    </text>
-  </g>
-  <g id="item_7">
-    <text id="b_7" x="65" y="595.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
-    <text id="t_7" x="91" y="595.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan xml:space="preserve">自从 Francis Crick 和 James Watson 在 1953 年发现了 DNA 的 double-helix 结构，这发现改写了整个生物学和医学（其实最主要的实验是英国的 Rosalind Franklin 做的，她辛苦地拍摄和分析很多 DNA 结晶的 X-光照片，但她是女人，诺贝尔奖忽略了她，她甚至因为 X-光照得太多，后来患癌死了）</tspan>
-    </text>
-  </g>
-  <g id="item_8">
-    <text id="b_8" x="65" y="737.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
-    <text id="t_8" x="91" y="737.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
-      <tspan xml:space="preserve">DNA 编码不同的蛋白串，它们会 fold 成不同的形状，是因为蛋白串的单元之间的吸引力和排斥力各不相同。不同的蛋白串 fold 成不同的形状，但相同编码的蛋白串 fold 成一样的形状。 那么，如果知道了 DNA 编码，可不可以用电脑计算它 fold 出来的形状呢？ 这需要非常复杂的分子力学的计算，但 Google 在英国的子公司 DeepMind 在 2018-24 发明了 AlphaFold 算法，用深度学习解决了这问题。</tspan>
+    <text id="b_6" x="65" y="327.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;">🔾</text>
+    <text id="t_6" x="91" y="327.0" style="font-family:'Alibaba PuHuiTi'; font-weight: 300; font-size:14pt; fill:#000000;; inline-size: 457px;">
+      <tspan xml:space="preserve">more equal </tspan>
+      <tspan font-weight="normal" xml:space="preserve">Wealth Distribution</tspan>
+      <tspan xml:space="preserve"> -- Gaussian vs expoenential (as in current capitalism)</tspan>
     </text>
   </g>
 </svg>
